@@ -1,2 +1,5 @@
 .venv
 .DS_Store
+.bert_output
+.embeddings_small.tsv
+.metadata_small.tsv
