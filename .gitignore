@@ -1,5 +1,7 @@
 .venv
 .DS_Store
-.bert_output
-.embeddings_small.tsv
-.metadata_small.tsv
+bert_output
+embeddings_small.tsv
+metadata_small.tsv
+training_data
+scripts
