@@ -1,0 +1,2799 @@
+1% to 99% PERCENT
+four CARDINAL
+Unsettled PERSON
+the day DATE
+0 to k 3 CARDINAL
+4 CARDINAL
+5 CARDINAL
+6 to k MONEY
+9 CARDINAL
+Fredericksburg GPE
+VA GPE
+College ORG
+AK ORG
+one to three days DATE
+the North Indian Ocean LOC
+Order Acipenseriformes PERSON
+Frozen PERSON
+the year DATE
+three CARDINAL
+one CARDINAL
+SO2 PRODUCT
+earth LOC
+two CARDINAL
+SUB-ATOMIC PARTICLE ORG
+EAST CENTRAL TROPICAL PACIFIC SST ORG
+one CARDINAL
+El Niño/Southern Oscillation ORG
+5 CARDINAL
+5 CARDINAL
+170 CARDINAL
+El Niño ORG
+Pacific LOC
+La Niña ORG
+5-month DATE
+C for La Niña ORG
+at least 6 consecutive months DATE
+Convective Available Potential Energy ORG
+Joules PERSON
+AC ORG
+Earth LOC
+El Nino SouthernOscillation ORG
+ACOUSTIC ATTENUATION/TRANSMISSION ORG
+SEISMIC SURFACE WAVES PERSON
+Earth LOC
+CYCLONES ORG
+INDIAN NORP
+Earth LOC
+MICROPHYSICS PERSON
+DENSITY ORG
+Oceanographic ORG
+Earth LOC
+Firn Air Content ORG
+older han one year DATE
+0.55 CARDINAL
+Stability/Severe Weather Indices ORG
+three CARDINAL
+ANISOTROPY PERSON
+one CARDINAL
+1 CARDINAL
+10 CARDINAL
+32 CARDINAL
+64 CARDINAL
+the Western Hemisphere LOC
+North Atlantic Ocean LOC
+Caribbean Sea LOC
+North Pacific LOC
+ACTIVITY ORG
+four CARDINAL
+the Southwest Pacific Ocean LOC
+160E CARDINAL
+Southeast Indian Ocean NORP
+more than 1 CARDINAL
+more than 30 CARDINAL
+Earth LOC
+Earth LOC
+the Northern Hemisphere LOC
+Earth LOC
+Earth LOC
+DEW ORG
+two CARDINAL
+three CARDINAL
+TYPHOONS ORG
+WESTERN N. PACIFIC NORP
+Web-Based Geographic Information Systems ORG
+Data Analysis and Visualization Services ORG
+the U.S. National Weather Service ORG
+24 hours TIME
+Acetylene PERSON
+Earth LOC
+SALINITY ORG
+Brine PERSON
+zero CARDINAL
+WIND-DRIVEN ORG
+LUMINESCENCE PERSON
+Landsat NORP
+Holben ORG
+Holben and Justice ORG
+1979 DATE
+The Storm Prediction Center ORG
+NCDC ORG
+Storm Data ORG
+Storm Data ORG
+National Climatic Data Center ORG
+the Storm Prediction Center ORG
+Molecules PERSON
+between 76 to DATE
+85 kilometers QUANTITY
+47 to 53 miles TIME
+Earth LOC
+Sun ORG
+Very Long Baseline Interferometry ORG
+VLBI ORG
+two CARDINAL
+Earth LOC
+antennas ORG
+antennas GPE
+VLBI ORG
+VLBI ORG
+antennas ORG
+antennas ORG
+Earth LOC
+Earth LOC
+VLBI ORG
+The International Astronomical Union ORG
+over 3,400 CARDINAL
+VLBI ORG
+Earth LOC
+VLBI ORG
+over 40 CARDINAL
+19 CARDINAL
+Earth LOC
+Earth LOC
+Karst Hydrology ORG
+monthly DATE
+3 AND 6 HOUR TIME
+3 hour and 6 hour TIME
+salt PERSON
+OCEAN HEAT BUDGET: ORG
+CLOUD LIQUID WATER/ ORG
+cubic meter PERSON
+Cloud Ice - Ice PERSON
+Non-Methane Hydrocarbons ORG
+first ORDINAL
+CH4 ORG
+NMHCs GPE
+Nature WORK_OF_ART
+705 CARDINAL
+1987 DATE
+Nature WORK_OF_ART
+705 CARDINAL
+1987 DATE
+12th ORDINAL
+halogens PERSON
+ASV ORG
+100% PERCENT
+as little as one CARDINAL
+BED ORG
+more than two days DATE
+winter DATE
+Earth LOC
+Earth LOC
+two CARDINAL
+Earth LOC
+Earth LOC
+DATA MANAGEMENT/DATA HANDLING ORG
+and/or data ORG
+TROPICAL STORM FORCE ORG
+Order Podicipediformes PERSON
+FREQUENCY ORG
+C. W. Thornthwaite PERSON
+1948 DATE
+CO ORG
+TYPHOONS ORG
+WESTERN N. PACIFIC NORP
+3 CARDINAL
+the Saffir-Simpson Hurricane Wind Scale FAC
+111 CARDINAL
+178 CARDINAL
+ZOOPLANKTON ORG
+Zooplankton GPE
+Radon ORG
+EASTERN PACIFIC ORG
+The East Pacific - North Pacific LOC
+NP ORG
+Spring-Summer-Fall DATE
+three CARDINAL
+anomaly NORP
+Alaska/ Western Canada ORG
+North Pacific LOC
+North America LOC
+Pacific LOC
+Asia LOC
+North Pacific LOC
+North America LOC
+United States GPE
+North Pacific LOC
+North Pacific LOC
+North America LOC
+Hawaii GPE
+Canada GPE
+the Earth's Atmosphere LOC
+TYPHOONS ORG
+WESTERN N. PACIFIC NORP
+Global Change Master Directorydetailed ORG
+Plant Characteristics ORG
+Plantaboveground ORG
+Earth LOC
+Earth LOC
+two CARDINAL
+Earth LOC
+Earth LOC
+Moon PERSON
+Earth LOC
+Moon PERSON
+Earth LOC
+Catalog LOC
+Data Handling Services ORG
+the Earth
+ Sciences ORG
+Global Environmental Change ORG
+NASA ORG
+Global Change Master Directory ORG
+Geospatial One-Stop ORG
+a past ice age DATE
+Aerosols ORG
+Earth LOC
+Earth LOC
+two CARDINAL
+one CARDINAL
+one CARDINAL
+Earth LOC
+ISOTOPES ORG
+one CARDINAL
+two CARDINAL
+LUMINESCENCE PERSON
+Earth LOC
+ACE ORG
+the National Oceanic and Atmospheric Administration ORG
+NOAA ORG
+Atlantic LOC
+six-hour TIME
+The ACE of a season ORG
+the season DATE
+Earth LOC
+Earth LOC
+four CARDINAL
+Earth LOC
+Rock-Eval Pyrolysis ORG
+Delsi PERSON
+the Rock Eval FAC
+CNS ORG
+The Rock Eval ( ORG
+1 CARDINAL
+2 CARDINAL
+GRAVITY/GRAVITATIONAL FIELD ORG
+Earth LOC
+Earth LOC
+Earth LOC
+One CARDINAL
+Fungi PERSON
+Ekman ORG
+XYLEM DIELECTRIC PRODUCT
+LUMINESCENCE PERSON
+TYPHOONS ORG
+WESTERN N. PACIFIC NORP
+Geographical Information Systems ORG
+Data Analysis
+ and ORG
+Visualization Services ORG
+Idrisi ORG
+Arc/Info ORG
+ISOTOPIC NORP
+years DATE
+two CARDINAL
+Earth LOC
+Isotopes GPE
+carbon-12 DATE
+carbon-13 DATE
+carbon-14 DATE
+6 protons MONEY
+1 CARDINAL
+the Saffir-Simpson Hurricane Wind Scale FAC
+74 CARDINAL
+64 CARDINAL
+119 CARDINAL
+LAND/OCEAN/ICE MASK ORG
+Transformation/Conversion ORG
+Data Handling Services ORG
+Celsius (Conversion ORG
+Aves PERSON
+LUMINESCENCE PERSON
+salt PERSON
+Tropical Cyclone ORG
+TYPHOONS ORG
+WESTERN N. PACIFIC NORP
+summer DATE
+DEW ORG
+Phylum Nemertini ORG
+Nemertina GPE
+Nemertea GPE
+Commonly ORG
+Ribbon Worms FAC
+TEC ORG
+theEarth ORG
+TEC ORG
+TOPEX/Poseidon ORG
+TEC ORG
+TEC ORG
+TOPEX/Poseidon ORG
+5 cm QUANTITY
+Gamma Rays PERSON
+10 CARDINAL
+keV6 MONEY
+Gammarays GPE
+EL NINO ORG
+ENSO ORG
+January to March DATE
+the west coast LOC
+South America LOC
+12 degrees S QUANTITY
+Peru Current ORG
+1891 DATE
+1925 DATE
+1941 DATE
+1957 - 58, 1965 DATE
+1972 DATE
+73, 1976 DATE
+1982 - 83 DATE
+Peru GPE
+eastern Pacific Ocean LOC
+more than a year DATE
+South America LOC
+El Nino ORG
+annually DATE
+Christmas DATE
+http://cdiac.esd.ornl.gov/glossary.html PERSON
+ENSO ORG
+The Southern Oscillation ORG
+Indonesia GPE
+North Australia LOC
+Pacific LOC
+El Nino ORG
+Pacific LOC
+ENSO ORG
+ENSO ORG
+Earth LOC
+first ORDINAL
+Earth LOC
+Earth LOC
+fourth ORDINAL
+Earth LOC
+Earth LOC
+theEarth ORG
+SOLAR ACTIVE REGIONS ORG
+a few hours TIME
+a few months DATE
+one CARDINAL
+Greenland GPE
+three CARDINAL
+second ORDINAL
+CH4 ORG
+greater than 0.5 millimeters QUANTITY
+0.02 inches QUANTITY
+Earth LOC
+DUNES ORG
+Earth LOC
+hundreds of meters QUANTITY
+Earth LOC
+hundreds of thousands CARDINAL
+10 to over 500 feet QUANTITY
+a fewhundred feet QUANTITY
+a few miles QUANTITY
+two CARDINAL
+less than 1 CARDINAL
+1000 DATE
+the Pacific Ocean LOC
+ISOTOPES ORG
+oxygen-18 DATE
+16O DATE
+18O CARDINAL
+to16O ORG
+fromsummer DATE
+winter DATE
+18O/16O CARDINAL
+Greenland GPE
+Antarctica LOC
+1H/2H CARDINAL
+Hydrogen ORG
+Earth LOC
+Cephalopoda ORG
+ISOTOPES ORG
+One CARDINAL
+two CARDINAL
+one CARDINAL
+one CARDINAL
+four CARDINAL
+PO4(-3 PERSON
+two CARDINAL
+California GPE
+year-round DATE
+32 °F DATE
+three CARDINAL
+first ORDINAL
+two CARDINAL
+Earth LOC
+1 CARDINAL
+2 CARDINAL
+annual DATE
+INDIAN NORP
+Earth LOC
+~20 km PERSON
+Earth LOC
+Earth LOC
+one CARDINAL
+Earth LOC
+Earth LOC
+two CARDINAL
+LAND MANAGEMENT: ORG
+Sun ORG
+ERUPTION DYNAMICS PERSON
+ISOTOPES ORG
+oxygen-18 DATE
+16O DATE
+18O CARDINAL
+Hydrogen ORG
+Phylum Chordata ORG
+Earth LOC
+Earth LOC
+Earth LOC
+Earth LOC
+1 CARDINAL
+2 CARDINAL
+annual DATE
+FIRE ORG
+the recent ice age DATE
+Earth LOC
+PLANETARY GPE
+two CARDINAL
+Tectonic PRODUCT
+HEADLANDS/BAYS/CAPE ORG
+Headlands CARDINAL
+three CARDINAL
+three CARDINAL
+Headlands CARDINAL
+WAVE-CUT NOTCH ORG
+ISOTOPES ORG
+oxygen-18 DATE
+16O DATE
+Hydrogen ORG
+Isotopic NORP
+Charcoal ORG
+NUTRIENTS ORG
+Earth LOC
+one CARDINAL
+GEOLOGICAL ORG
+Earth LOC
+Earth LOC
+one CARDINAL
+Processing Services ORG
+Application Services ORG
+the Processing Services and Information Management Services ORG
+LONGITUDINAL/LINEAR DUNE ORG
+Sahara LOC
+up to 300 CARDINAL
+980 CARDINAL
+300 km QUANTITY
+190 mi QUANTITY
+Groups ORG
+Ferns ORG
+Flowering Plants PERSON
+Today DATE
+AIR MASS ORG
+Earth LOC
+(∼78% PERCENT
+argon ORG
+1.293 kg m−3 QUANTITY
+273 CARDINAL
+101.325 CARDINAL
+at least 50 CARDINAL
+more than a dozen CARDINAL
+11 years DATE
+the Extreme
+Ultraviolet ORG
+EUV ORG
+Sun ORG
+monthly DATE
+NOAA ORG
+National Ocean Service ORG
+5-month DATE
+at least 0.1 meters QUANTITY
+4 inches QUANTITY
+monthly DATE
+Only about 10 percent PERCENT
+winter DATE
+summer DATE
+DATA APPLICATION SERVICES: ORG
+Application Services ORG
+Application Services ORG
+the Application Services ORG
+Processing Services ORG
+Information Management Services ORG
+GEOGRAPHIC DATA MANAGEMENT SERVICES: ORG
+Information Management Services ORG
+OCEAN/LAKE RECORDS: ORG
+LAVA COMPOSITION ORG
+Earth LOC
+CaCO3(aq GPE
+Mammalia PERSON
+more than 120lbs CARDINAL
+Greenland GPE
+24 HOUR TIME
+a 24 hour TIME
+PACIFIC/NORTH AMERICAN ORG
+the Northern Hemisphere LOC
+all
+ DATE
+months DATE
+June and July DATE
+PNA ORG
+the Aleutian Islands GPE
+United
+States GPE
+Aleutian GPE
+Hawaii GPE
+North America LOC
+Canada GPE
+Winter DATE
+One CARDINAL
+three CARDINAL
+two CARDINAL
+lee waves PERSON
+less than 5 CARDINAL
+more than 30 CARDINAL
+Solar Radiation Management ORG
+Earth LOC
+Earth LOC
+less than 0.5 mm QUANTITY
+500 CARDINAL
+FREEZING DRIZZLE PERSON
+FIRE MANAGEMENT: Involves ORG
+annual DATE
+spring DATE
+late summer DATE
+New Ice GPE
+Youg Ice GPE
+First-Year Ice DATE
+Lake Ice LOC
+New Lake Ice GPE
+Thin Lake Ice GPE
+Medium Lake Ice GPE
+Thick Lake Ice PERSON
+Very Thick Lake Ice PERSON
+dB. ORG
+one square meter QUANTITY
+HURRICANES PERSON
+Mammalia PERSON
+third ORDINAL
+fourth ORDINAL
+1 CARDINAL
+U/V WIND COMPONENTS: ORG
+Meridional PERSON
+NUNATAKS ORG
+FIRE WEATHER INDEX PERSON
+Greenland GPE
+Processing ORG
+daytime TIME
+105 degrees QUANTITY
+two or more consecutive days DATE
+year DATE
+year DATE
+more than a dozen CARDINAL
+1994.][Review CARDINAL
+Scientific
+Instruments ORG
+1988 DATE
+the season of the year DATE
+HURRICANES PERSON
+X-Ray PERSON
+Rntgen PERSON
+Rntgen ORG
+1895 DATE
+bremsstrahlung PERSON
+BBCH ORG
+Biologische Bundesanstalt ORG
+Bundessortenamt ORG
+Chemical ORG
+first ORDINAL
+HURRICANES PERSON
+CYCLONES ORG
+INDIAN NORP
+null
+ ORG
+MOBILE GEOGRAPHIC INFORMATION SYSTEMS: ORG
+Mobile Geographic Information Systems ORG
+one CARDINAL
+1 CARDINAL
+2 CARDINAL
+3 CARDINAL
+three-hour TIME
+Frozen PERSON
+COASTAL ORG
+Coastal ORG
+GEOGRAPHIC DATA EXTRACTION SERVICES: ORG
+three CARDINAL
+Earth LOC
+SW PACIFIC/SE INDIAN ORG
+XML ORG
+UDDI ORG
+XML ORG
+SOAP ORG
+UDDI ORG
+The Satellite Soil Moisture ORG
+NDVI GPE
+FIRE ORG
+FDI ORG
+BI ORG
+GAZETTEER APPLICATION SERVICES: ORG
+Gazetteer ORG
+Habitat ORG
+arctic LOC
+winter DATE
+summer DATE
+winter DATE
+summer DATE
+a few inches toseveral feet QUANTITY
+CYCLONIC STORMS PERSON
+N. INDIAN NORP
+10 cm QUANTITY
+200 cm QUANTITY
+Solar Radiation Management ORG
+Carbon Dioxide Removal ORG
+Two CARDINAL
+QBO ORG
+QBO ORG
+28 to 29 months DATE
+VOLCANO MAGNITUDE ORG
+Wang et al. PERSON
+2018 DATE
+2000 DATE
+Zatsepin et al. PERSON
+2019 DATE
+100–200 km QUANTITY
+summer DATE
+Chen et al. PERSON
+2019 DATE
+Hu PERSON
+2011 DATE
+IceSat ORG
+Fossil PERSON
+Thestudy PERSON
+1 CARDINAL
+2)they CARDINAL
+3 CARDINAL
+4 CARDINAL
+Fossil PERSON
+1 CARDINAL
+2)they CARDINAL
+3 CARDINAL
+4 CARDINAL
+scan NORP
+scan NORP
+scan NORP
+Nitrogen ORG
+Global Positioning System ORG
+the Family Scombridae ORG
+earth LOC
+six CARDINAL
+Ne ORG
+krypton ORG
+xenon PERSON
+Oganesson PERSON
+Basidiomycota GPE
+1 CARDINAL
+Earth LOC
+2 CARDINAL
+3 CARDINAL
+SALT ORG
+NaCl PERSON
+Carbon Dioxide Removal ORG
+CDR ORG
+1 CARDINAL
+2 CARDINAL
+CO2 PRODUCT
+CDR ORG
+CO2 PRODUCT
+Chemical ORG
+Chemical ORG
+Glaciers PERSON
+LWET ORG
+Earth LOC
+Earth LOC
+DIURNALIS ORG
+two CARDINAL
+PHOSPHOROUS ORG
+15 CARDINAL
+two CARDINAL
+Earth LOC
+0.099% PERCENT
+Earth LOC
+Excretion PERSON
+Digital ORG
+Earth LOC
+bromine ORG
+Europe LOC
+North America LOC
+BLUE-GREEN ALGAE ORG
+Blue-Green Algae ORG
+cyanobacteria GPE
+Earth LOC
+Bacteria PERSON
+one CARDINAL
+IGNEOUS ROCK VERTICAL/GEOGRAPHIC DISTRIBUTION ORG
+SNOW PERSON
+Earth LOC
+NASA ORG
+IceSat PRODUCT
+ICAO ORG
+29.92 inches QUANTITY
+1013.2 CARDINAL
+1013.2 CARDINAL
+Earth LOC
+about 1 kilometer QUANTITY
+aqua regia PERSON
+5.5Â CARDINAL
+9.8Â CARDINAL
+ALBEDO ORG
+Albedo ORG
+lowalbedo ORG
+Earth LOC
+three CARDINAL
+ALBEDO ORG
+Albedo ORG
+lowalbedo ORG
+Earth LOC
+Ocean ORG
+three CARDINAL
+Carnivora GPE
+Cetacea GPE
+Sirenia GPE
+Marine NORP
+Europe LOC
+North America LOC
+ALBEDO ORG
+Albedo ORG
+lowalbedo ORG
+Earth LOC
+Glaciers PERSON
+at least a third CARDINAL
+one CARDINAL
+five CARDINAL
+Earth LOC
+below 6,500 feet QUANTITY
+winter DATE
+REPTILES PERSON
+OCEAN VOLUME BUDGET ORG
+TYPES ORG
+overa PERSON
+Earth LOC
+about 50 kilometers QUANTITY
+31 miles QUANTITY
+CONVECTIVE PERSON
+SNOW WATER EQUIVALENT: WORK_OF_ART
+acidic rainwater PERSON
+CO2 PRODUCT
+Earth LOC
+Earth LOC
+approximately 13,000 to 21,000 feet CARDINAL
+4000 to 6500 meters TIME
+TCI ORG
+monthly DATE
+5′ ORG
+3′ ORG
+vector DATE
+Earth LOC
+Macrobiota GPE
+Macrofauna PERSON
+PHYSICAL/LABORATORY ORG
+one CARDINAL
+CCl4 CARDINAL
+4 CARDINAL
+less than 10 CARDINAL
+millions of degrees QUANTITY
+more than 5 CARDINAL
+Mammalia PERSON
+Toothed Whales PERSON
+LIDAR ORG
+STRUCTURE PERSON
+387 CARDINAL
+407 CARDINAL
+355 CARDINAL
+2 CARDINAL
+6 ft QUANTITY
+less than 11 CARDINAL
+about 7 CARDINAL
+one CARDINAL
+earth LOC
+BACKGROUND ORG
+Background Information Services ORG
+Education/Outreach Services ORG
+Earth Science and/or ORG
+Global Environmental Change ORG
+one CARDINAL
+earth LOC
+CYCLONES ORG
+INDIAN NORP
+FIRST ORDINAL
+first ORDINAL
+first ORDINAL
+first ORDINAL
+winter DATE
+first ORDINAL
+MAGNESIUM PERSON
+one CARDINAL
+Amphibia PERSON
+benzene ORG
+24inches CARDINAL
+Xeriscape ORG
+around 10 inches QUANTITY
+Shrubsand ORG
+8 inches QUANTITY
+roots(greater LANGUAGE
+4-5 inches QUANTITY
+magnesium-26 DATE
+half CARDINAL
+26Al CARDINAL
+7.17×105years DATE
+Earth LOC
+KI ORG
+Digital ORG
+one-third CARDINAL
+DUST/ASH/ ORG
+SURFACE WATER CHEMISTRY ORG
+Earth LOC
+24inches CARDINAL
+Xeriscape ORG
+around 10 inches QUANTITY
+Shrubsand ORG
+8 inches QUANTITY
+roots(greater LANGUAGE
+4-5 inches QUANTITY
+Sea LOC
+CCN ORG
+IPCC ORG
+1 CARDINAL
+SST ORG
+Pacific El Niño LOC
+Peru GPE
+Chile GPE
+90 CARDINAL
+10 CARDINAL
+EASTERN TROPICAL PACIFIC SST ORG
+SST ORG
+Pacific El Niño LOC
+Peru GPE
+Chile GPE
+90 CARDINAL
+10 CARDINAL
+INFORMATION MANAGEMENT SERVICES: ORG
+Processing Services ORG
+the Application Services and ORG
+Processing Services ORG
+the Information Management Services ORG
+CRANES ORG
+Order Gruiformes PERSON
+Cranes ORG
+The Visible Infrared Imaging ORG
+Radiometer Suite PERSON
+VIIRS ORG
+NASA ORG
+Suomi National Polar-orbiting Partnership (Suomi NPP ORG
+daily DATE
+NIR ORG
+Earth LOC
+Cu, Fe ORG
+Nitrogen ORG
+Phosphorus ORG
+Phosphate ORG
+two CARDINAL
+16s rRNA, DATE
+18s DATE
+NEE ORG
+CONDUCTIVITY PERSON
+7.0 CARDINAL
+8.0 CARDINAL
+CEC ORG
+ECEC ORG
+CEC ORG
+CH4 ORG
+CH4 ORG
+Solar Energy ORG
+467 CARDINAL
+1994 DATE
+Michael Allaby PERSON
+39,40 CARDINAL
+1992 DATE
+Facts on File ORG
+New York GPE
+R.K. Barnhart ORG
+398 CARDINAL
+1986 DATE
+Houghton Mifflin Company ORG
+Boston GPE
+Eagles GPE
+Order Gaviiformes PERSON
+Earth LOC
+2 CARDINAL
+6 ft QUANTITY
+less than 11 CARDINAL
+two or three days DATE
+ceased(field ORG
+5.0 CARDINAL
+Zn GPE
+SALINITY ORG
+Mg PERSON
+Ca, K WORK_OF_ART
+CO3 WORK_OF_ART
+Salinity ORG
+Chemical ORG
+Order Charadriiformes PERSON
+Calcium FAC
+Hydrogen ORG
+Mammalia PERSON
+Cetacea ORG
+105 degrees QUANTITY
+Celcius ORG
+Cenozoic GPE
+CONDUCTIVITY PERSON
+Earth Science FAC
+Interactive Programs ORG
+MAGNETIC FIELD: ORG
+Earth LOC
+PM 10 DATE
+10 CARDINAL
+NDVI ORG
+RNA ORG
+messenger PERSON
+Treeand GPE
+FREEZE/FROST ORG
+32 degrees QUANTITY
+Fahrenheit PERSON
+36 degrees QUANTITY
+Fahrenheit PERSON
+Frost PERSON
+Pacific Transition ORG
+The Pacific Transition ORG
+August DATE
+September DATE
+500 CARDINAL
+North Pacific LOC
+United States GPE
+Hawaii GPE
+North America LOC
+the Gulf of Alaska LOC
+United States GPE
+North Pacific LOC
+North Atlantic LOC
+North America LOC
+the eastern half DATE
+the United States GPE
+U.S. GPE
+Hawaii GPE
+the United States GPE
+one CARDINAL
+two CARDINAL
+two CARDINAL
+Alpha PERSON
+Flux GPE
+Reptilia ORG
+Order Testudines PERSON
+Earth LOC
+Volz ORG
+Ängström NORP
+1 μm QUANTITY
+Rayleigh ORG
+Linke PERSON
+FREEZING INDEX PERSON
+the U. S. Army Corps of Engineers ORG
+Fahrenheit GPE
+one CARDINAL
+three CARDINAL
+SLR ORG
+SLR ORG
+forty CARDINAL
+SLR ORG
+Lunar Laser Ranging PERSON
+LLR ORG
+two CARDINAL
+Earth LOC
+Moon PERSON
+SLR ORG
+Lunar Laser Ranging PERSON
+LLR ORG
+two CARDINAL
+Earth LOC
+one CARDINAL
+Earth LOC
+SLR ORG
+Earth LOC
+carbon-14 DATE
+alsocarbon-10 DATE
+carbon-12 DATE
+Carbonhaving PERSON
+14 and a half DATE
+5730 +/-40 years DATE
+the last 50,000 years DATE
+Earth LOC
+Earth LOC
+Earth LOC
+Earth LOC
+three-hour TIME
+FREEZE/FROST ORG
+days DATE
+90 percent PERCENT
+the spring season DATE
+March 1 DATE
+32 degree QUANTITY
+nine years DATE
+ten CARDINAL
+32 degrees QUANTITY
+later than March 1 DATE
+the spring season DATE
+the fall season DATE
+two CARDINAL
+annual DATE
+only one CARDINAL
+the years DATE
+ST GPE
+one CARDINAL
+asecond ORG
+third ORDINAL
+Phytoplankton PERSON
+SO2 PRODUCT
+earth LOC
+VORTICITY ORG
+Watts LOC
+Earth LOC
+Earth LOC
+1/4 CARDINAL
+Earth LOC
+4πr2 CARDINAL
+one quarter DATE
+Earth LOC
+approximately 0.7 CARDINAL
+4 CARDINAL
+0.7 CARDINAL
+The North Pacific Index ORG
+160E-140W. CARDINAL
+one CARDINAL
+DIGITAL ORG
+Droplet Digital PCR ORG
+20,000 CARDINAL
+PCR ORG
+COASTAL ORG
+1 CARDINAL
+EQUATORIAL PACIFIC MERIDIONAL WIND ORG
+anomaly ORG
+12 CARDINAL
+160E-80W DATE
+the International Comprehensive Ocean-Atmosphere Data Set ORG
+Pacific SST ORG
+1950-79 DATE
+Sun ORG
+around 11 years DATE
+Sun ORG
+the Zurich Sunspot Classification ORG
+the Wolf Sunspot Number FAC
+Earth LOC
+Earth LOC
+PM 10 DATE
+10 CARDINAL
+two or three days DATE
+T.J. PERSON
+Somers PERSON
+W.P. ORG
+1969 DATE
+Discharge Measurements PERSON
+Gaging Stations ORG
+3 CARDINAL
+1 CARDINAL
+CaCO3(aq GPE
+1,000meters CARDINAL
+3,300 feet QUANTITY
+Methanol ORG
+Methanol ORG
+carbon-14 DATE
+half CARDINAL
+about5730 years DATE
+Earth LOC
+Earth LOC
+Earth LOC
+EPA ORG
+10 CARDINAL
+EPA ORG
+two CARDINAL
+larger than 2.5 CARDINAL
+10 CARDINAL
+2.5 CARDINAL
+Museum Exhibits ORG
+Education / Outreach Services ORG
+the Earth Sciences and/or ORG
+Global Environmental Change ORG
+Museum. GPE
+UPPER ORG
+Agriculture ORG
+plants(includesagronomy ORG
+Oxygen PERSON
+PM 10 DATE
+10 CARDINAL
+Earth LOC
+Earth LOC
+OCEAN/LAKE RECORDS: ORG
+Phylum Cryotophyta ORG
+two CARDINAL
+two CARDINAL
+EVI ORG
+The Environmental Vulnerability ORG
+the South Pacific Applied Geoscience Commission ORG
+SOPAC ORG
+the United Nations Environment Programme ORG
+UNEP ORG
+three CARDINAL
+Earth LOC
+Earth LOC
+C, N ORG
+:P PERSON
+10–30% PERCENT
+Earth LOC
+Earth LOC
+Earth LOC
+Earth LOC
+FREEZE/FROST ORG
+F WORK_OF_ART
+SUN-EARTH ORG
+Sun-Earth Interactions ORG
+CHEMOSYNTHESIS PERSON
+three CARDINAL
+cyanobacteria GPE
+Tibaldi ORG
+al PERSON
+1994 DATE
+European NORP
+5-day DATE
+15W CARDINAL
+35n CARDINAL
+zero CARDINAL
+1 CARDINAL
+wetland GPE
+ClO ORG
+a past ice age DATE
+one CARDINAL
+two CARDINAL
+COOLING DEGREE PERSON
+degree-day DATE
+one CARDINAL
+degree-day DATE
+Fahrenheit ORG
+24 CARDINAL
+75°F DATE
+CCN ORG
+Phytoplankton PERSON
+Earth LOC
+the Tropical Pacific ORG
+ENSO ORG
+earth LOC
+Earth LOC
+more than 1 CARDINAL
+more than 30 CARDINAL
+a period of decades DATE
+Robert G. Steadman PERSON
+Molluscs PERSON
+VISIBLE SNOW PERSON
+LAP ORG
+0.350 CARDINAL
+0.876 CARDINAL
+GENETICS ORG
+Tephra GPE
+WIND NORP
+three-hour TIME
+RIVER/LAKE ICE ORG
+0˚C. Lake LOC
+Scleractinia GPE
+oxygen-18 DATE
+El Nino Southern Oscillation ORG
+1971 DATE
+Roland Madden PERSON
+Paul Julian PERSON
+40-50 day DATE
+Pacific LOC
+ten years DATE
+Canton GPE
+2.8B0 CARDINAL
+Pacific LOC
+Singapore GPE
+Singapore GPE
+the early 1980's DATE
+Madden PERSON
+Julian
+Oscillation(MJO PERSON
+1982-83 DATE
+El Nino GPE
+less than a year DATE
+more than a year DATE
+less than CARDINAL
+0.64 cm QUANTITY
+0.25 CARDINAL
+Sea LOC
+Two CARDINAL
+first ORDINAL
+second ORDINAL
+greater than 100% PERCENT
+one degree-day QUANTITY
+one day DATE
+Hydrogen ORG
+Two CARDINAL
+Amplicon ORG
+PCR ORG
+NGS ORG
+96.06 CARDINAL
+four CARDINAL
+two CARDINAL
+Earth LOC
+C02 ORG
+annually DATE
+Earth LOC
+Glacial Period ORG
+Arctic LOC
+Antarctic ORG
+Interglacial Period ORG
+NOAA’s Residential Energy Demand Temperature Index ORG
+summer DATE
+Wyoming GPE
+the Mid-Atlantic LOC
+June 2010 DATE
+second ORDINAL
+South LOC
+Southeast NORP
+zero CARDINAL
+100 CARDINAL
+100 CARDINAL
+zero CARDINAL
+the U.S. Army Corps of Engineers ORG
+Fahrenheit GPE
+degree- days DATE
+degree- days DATE
+one CARDINAL
+4.5 CARDINAL
+Earth LOC
+100 CARDINAL
+GOES ORG
+WINDEX ORG
+GOES NORP
+Steven Hare PERSON
+1996 DATE
+Alaska GPE
+Pacific ORG
+PDO ORG
+El Nino LOC
+Pacific LOC
+two CARDINAL
+Two CARDINAL
+PDO ORG
+El Nino/ Southern
+Oscillation ORG
+first, 20th century DATE
+PDO ORG
+20-to-30 years DATE
+ENSO ORG
+6 to 18
+months CARDINAL
+second ORDINAL
+PDO ORG
+the North Pacific/North American LOC
+ENSO ORG
+just two CARDINAL
+the past century DATE
+1890-1924 DATE
+1947-1976 DATE
+PDO ORG
+1925-1946 DATE
+1977 DATE
+mid-1990 DATE
+Shoshiro Minobe PERSON
+20th century DATE
+PDO ORG
+two CARDINAL
+one CARDINAL
+15-to-25 years DATE
+two CARDINAL
+VENTIFACTS ORG
+Samoa ORG
+the Barbados Plan of Action ORG
+the Alliance of Small Island States ORG
+AOSIS ORG
+first ORDINAL
+An Environmental Vulnerability ORG
+EVI ORG
+three CARDINAL
+three CARDINAL
+three CARDINAL
+REI ORG
+IRI ORG
+EDI ORG
+Intrinsic Resilience ORG
+EVI ORG
+0 CARDINAL
+57 CARDINAL
+EVI ORG
+three CARDINAL
+Australia GPE
+Fiji GPE
+Tuvalu GPE
+Tuvalu ORG
+three CARDINAL
+Fiji GPE
+Australia GPE
+Fiji GPE
+Australia GPE
+Fiji GPE
+Australia GPE
+Tuvalu GPE
+EVI ORG
+EVI ORG
+EVI ORG
+every 5 years DATE
+HURRICANES PERSON
+Subtropical Storm ORG
+Lakes ORG
+Spartina PERSON
+Isolation Forest ORG
+ML ORG
+APICULTURE PERSON
+BOD ORG
+BOD ORG
+5 days DATE
+20 CARDINAL
+FIRST ORDINAL
+FREEZE/FROST ORG
+First ORDINAL
+first ORDINAL
+36 CARDINAL
+first ORDINAL
+first ORDINAL
+32 CARDINAL
+United States GPE
+Australia GPE
+the Great Dividing Range FAC
+spring DATE
+summer DATE
+Australian Geographic ORG
+Contig ORG
+monthly DATE
+SST ORG
+5.5N CARDINAL
+23.5N CARDINAL
+15W CARDINAL
+GISST GPE
+NOAA ORG
+1951-2000 DATE
+AE ORG
+Ionospheric ORG
+Davis PERSON
+Sugiura GPE
+1966 DATE
+AE ORG
+AE ORG
+Earth LOC
+18O to 16O CARDINAL
+18O to 16O. CARDINAL
+18O CARDINAL
+18O CARDINAL
+two CARDINAL
+first ORDINAL
+second ORDINAL
+at least eleven CARDINAL
+Pleistocene LOC
+earth LOC
+Galloway PERSON
+2002 DATE
+Galloway et al. FAC
+2008 DATE
+Sutton GPE
+al. GPE
+2007 DATE
+2008 DATE
+Erisman PERSON
+al. PERSON
+2008 DATE
+2013 DATE
+Fowler ORG
+al. GPE
+2013 DATE
+2015 DATE
+Malm et al. PERSON
+2004 DATE
+Earth LOC
+Adams et al. PERSON
+2001 DATE
+Martin et al. PERSON
+2004 DATE
+Henze et al. PERSON
+2012 DATE
+Abbatt PERSON
+al. GPE
+2006 DATE
+Pope PERSON
+2002 DATE
+Lelieveld PERSON
+al. GPE
+2015 DATE
+Wang ORG
+2013 DATE
+Lelieveld PERSON
+al. GPE
+2015 DATE
+Sheppard et al. PERSON
+2011 DATE
+England GPE
+Monthly DATE
+28.5 CARDINAL
+Atlantic LOC
+North Pacific LOC
+1951-2000 DATE
+a given year DATE
+Earth LOC
+Sun LOC
+Solarirradiance¿is PERSON
+over days to decades DATE
+earth LOC
+1.34 CARDINAL
+6 CARDINAL
+cm*-2 ORG
+Kármán NORP
+Two CARDINAL
+Reynolds ORG
+Fluid PERSON
+ANISOTROPY PERSON
+Anisotropy PERSON
+ammonia GPE
+NOx GPE
+Solar ORG
+number¿of PRODUCT
+10 CARDINAL
+about 10
+seconds QUANTITY
+period¿scale ORG
+photosphere.¿These NORP
+CYCLONES ORG
+INDIAN NORP
+The Cambridge UniversityPress WORK_OF_ART
+Cambridge GPE
+2RU CARDINAL
+UK GPE
+2001 DATE
+two CARDINAL
+Trace ORG
+Order Cyprinodontiformes ORG
+daytime TIME
+Sunspots PERSON
+the Zurich Sunspot Classification ORG
+the Wolf Sunspot Number FAC
+Earth LOC
+two CARDINAL
+CME ORG
+Sun LOC
+Earth LOC
+Aerosols ORG
+Opticaldepth ORG
+CYCLONIC STORMS PERSON
+N. INDIAN NORP
+GLACIER MOTION/ ORG
+approximately 0.70 CARDINAL
+100 CARDINAL
+less than 1 micron QUANTITY
+SUN-EARTH ORG
+Sun-Earth Interactions ORG
+Earth LOC
+1,000 CARDINAL
+the period in DATE
+years DATE
+first ORDINAL
+multiyear DATE
+Multiyear sea ice DATE
+first-year DATE
+first-year sea ice DATE
+1.55 cm QUANTITY
+multiyear DATE
+FTLE ORG
+FTLE ORG
+Global ORG
+Eulerian NORP
+Lagrangian NORP
+2 CARDINAL
+2000-2009 DATE
+Sea LOC
+one CARDINAL
+four CARDINAL
+protozoans NORP
+Sporozoan NORP
+Plasmodium ORG
+Cryptosporidium ORG
+6,000-11,000m/20,000 CARDINAL
+the Mariana Trench ORG
+11,020 m/36,000ft QUANTITY
+AQUIFER ORG
+BR><BR GPE
+A Drought Advisory WORK_OF_ART
+bromine ORG
+U.S. GPE
+December 31, 1993 DATE
+Bromine PERSON
+U.S. GPE
+1301 DATE
+1211 DATE
+10 and 3 CARDINAL
+at least 12 CARDINAL
+6 DATE
+the Clean Air Act LAW
+http://www.epa.gov/ozone/science/ods/classone.html ORG
+CAS ORG
+LONGITUDINAL/LINEAR DUNE ORG
+Sahara LOC
+up to 300 CARDINAL
+980 CARDINAL
+300 km QUANTITY
+190 mi QUANTITY
+Roughly circular mound MONEY
+first ORDINAL
+1883 DATE
+Fleisher and Lane WORK_OF_ART
+Ventress GPE
+1991 DATE
+LeRoy PERSON
+1977 DATE
+two CARDINAL
+EMISSIVITY ORG
+VECTOR CARDINAL
+Vector DATE
+Sun ORG
+Sun ORG
+Labels PERSON
+earth LOC
+SEALS/SEA LIONS ORG
+Mammalia PERSON
+Order Carnivora PERSON
+Atmospheric CO2 PERSON
+about 25 percent PERCENT
+theearly 1800s DATE
+10 percent PERCENT
+1958 DATE
+CO2 PRODUCT
+CO2 PRODUCT
+Earth LOC
+Earth Observatory GPE
+Antarctic LOC
+Greenland GPE
+Antarctic ORG
+CO2 PRODUCT
+about 260¿280uL CARDINAL
+10,000 years DATE
+Vostok, Antarctica ORG
+3,600 meters QUANTITY
+420,000 CARDINAL
+to280¿300 PRODUCT
+CATTLE ORG
+Mammalia PERSON
+kg/m^2/s
+ ORG
+Order Gadiformes PERSON
+Commonly ORG
+three CARDINAL
+two CARDINAL
+Joule PERSON
+CYCLONIC STORMS PERSON
+N. INDIAN NORP
+Roughly circular mound MONEY
+Macrobiota GPE
+Macrofauna PERSON
+SW PACIFIC/SE INDIAN ORG
+ARROW WORMS PERSON
+Chaetognaths ORG
+STREAMFLOW GPE
+four CARDINAL
+K2O ORG
+5.0 CARDINAL
+Zn GPE
+Russian NORP
+winter DATE
+Earth LOC
+CONDUCTIVITY PERSON
+three CARDINAL
+the Grand Erg Oriental FAC
+Sahara LOC
+Badain Jaran Desert PERSON
+China GPE
+500 metres QUANTITY
+Earth LOC
+Sulfur PERSON
+HURRICANES PERSON
+Earth LOC
+Earth LOC
+MINERALOIDS ORG
+one CARDINAL
+earth LOC
+MAGNESIUM PERSON
+one CARDINAL
+venom GPE
+one CARDINAL
+BLIZZARDS ORG
+The U.S. National Weather Service ORG
+16 CARDINAL
+30 kt QUANTITY
+35 mi per hour TIME
+less than 400 CARDINAL
+0.25 mi QUANTITY
+3 hours TIME
+20°F DATE
+10°F DATE
+the United States GPE
+Antarctic LOC
+France GPE
+Russian Asia LOC
+the United States GPE
+England GPE
+six CARDINAL
+MAGNESIUM PERSON
+ninth ORDINAL
+three CARDINAL
+the “HORIZONTAL WIND SHEAR” keyword ORG
+second ORDINAL
+first ORDINAL
+PEANUT WORMS PERSON
+Commonly ORG
+Peanut Worms PERSON
+Sipunculans NORP
+SOC ORG
+UPSLOPE FOG ORG
+half CARDINAL
+DIGITAL ELEVATION/TERRAIN ORG
+DEM ORG
+American Meteorological Society (http://glossary.ametsoc.org/wiki/Main_Page ORG
+Ra NORP
+NEE ORG
+Ra NORP
+vector DATE
+Earth LOC
+earth LOC
+l.t.1000 angstroms PERSON
+30 CARDINAL
+one CARDINAL
+1 CARDINAL
+Mental NORP
+2 CARDINAL
+3
+LAKES QUANTITY
+wetland GPE
+NUNATAKS ORG
+Nitrogen ORG
+N2 ORG
+78.1% PERCENT
+N2 GPE
+N2 CARDINAL
+Crutzen PERSON
+Paul J. PERSON
+W.H. Freeman PERSON
+New York GPE
+147 CARDINAL
+Webster PERSON
+New World Dictionary ORG
+Prentice Hall ORG
+New York GPE
+918 CARDINAL
+the Global Greenhouse Gas Reference Network ORG
+Tropics ORG
+RNA-Seq ORG
+one CARDINAL
+Reptilia ORG
+Order Crocodilia PERSON
+Crocodiles PERSON
+Bromine Monoxide PERSON
+BrO ORG
+one CARDINAL
+CH3Br PRODUCT
+BrO ORG
+the recent ice age DATE
+Earth LOC
+Earth LOC
+McKee ORG
+1993 DATE
+Constituentsand GPE
+Nutrients ORG
+TCU ORG
+Electromagnetic ORG
+EM ORG
+three CARDINAL
+Arthropoda PERSON
+three CARDINAL
+two CARDINAL
+300-1,000 km/sec QUANTITY
+Earth LOC
+theEarth ORG
+Earth LOC
+North-Southorientation GPE
+Earth LOC
+theEarth ORG
+DRUMLINS PERSON
+up to 27 days DATE
+three CARDINAL
+four CARDINAL
+daily DATE
+DRX ORG
+hourly TIME
+each hour TIME
+a day DATE
+GMT ORG
+DRX ORG
+24 CARDINAL
+two CARDINAL
+TSUNAMIS ORG
+15-60 minutes TIME
+400 CARDINAL
+around 15 meters QUANTITY
+100 to 250 CARDINAL
+Earth LOC
+UAVs ORG
+Width PERSON
+Doppler PERSON
+linear ORG
+Biotic Integrity ORG
+IBI ORG
+SW PACIFIC/SE INDIAN ORG
+two CARDINAL
+8-12 DATE
+three CARDINAL
+ROSSBY PERSON
+two CARDINAL
+KP GPE
+3-hourly TIME
+Gottingen Universitat PERSON
+F.R. Germany GPE
+K ORG
+13 CARDINAL
+the Northern Hemisphere LOC
+Kp ORG
+1932 DATE
+UVALA ORG
+Order Clupeiformes PERSON
+Family Clupediae PERSON
+1 meter QUANTITY
+two CARDINAL
+10-20 CARDINAL
+20-25 km QUANTITY
+Earth LOC
+KRILL ORG
+Order Euphasiacea PERSON
+Krill ORG
+Pereira et al. PERSON
+1997 DATE
+Roy PERSON
+1999 DATE
+VELOCITY WORK_OF_ART
+One CARDINAL
+VAD ORG
+VWP ORG
+Machine Learning PERSON
+ANALYSIS ORG
+VISUALIZATION PERSON
+Data Analysis and Visualization Services ORG
+XV PERSON
+GhostScript ORG
+Adobe PhotoShop ORG
+VECTOR CARDINAL
+NOX ORG
+SO2 PRODUCT
+NOX ORG
+CYCLONIC STORMS PERSON
+N. INDIAN NORP
+WILDFIRES ORG
+HURRICANES PERSON
+1000 CARDINAL
+today DATE
+Data Analysis and Visualization Services ORG
+Earth LOC
+Earth LOC
+ISOTOPES ORG
+Earth LOC
+two CARDINAL
+Earth LOC
+Luster PERSON
+two CARDINAL
+a Web Coverage Service ORG
+WCS ORG
+GEOLINKED DATA ACCESS SERVICE: ORG
+FORMAT CONVERSION SERVICES: ORG
+one CARDINAL
+SNOW WATER EQUIVALENT: WORK_OF_ART
+Arctic LOC
+Arctic LOC
+Arctic LOC
+one CARDINAL
+Arctic LOC
+Loricifera PERSON
+COASTAL ORG
+60 - 100% PERCENT
+Earth LOC
+EMISSIVITY ORG
+ATP ORG
+90 degrees QUANTITY
+whilean equatorial ORG
+0 degrees QUANTITY
+one CARDINAL
+Earth LOC
+Earth LOC
+two CARDINAL
+the Arctic Circle LOC
+Arctic LOC
+70 metres QUANTITY
+230 ft QUANTITY
+up to 600 CARDINAL
+2,000 ft QUANTITY
+Inuvialuktun PERSON
+EAST ATLANTIC LOC
+The East Atlantic Jet LOC
+third ORDINAL
+the North Atlantic LOC
+between April and August DATE
+anomaly NORP
+North Atlantic LOC
+Scandinavia LOC
+Northern Africa LOC
+the Mediterranean Sea LOC
+North Atlantic LOC
+Europe LOC
+Greenland GPE
+Great Britain GPE
+Scleractinia GPE
+oxygen-18 DATE
+El Nino Southern Oscillation ORG
+TRANSMISSION PERSON
+Lakes ORG
+FIJI GPE
+Fiji GPE
+the Barbados Plan of Action ORG
+the Alliance of Small Island States ORG
+AOSIS ORG
+first ORDINAL
+An Environmental Vulnerability ORG
+EVI ORG
+three CARDINAL
+three CARDINAL
+three CARDINAL
+REI ORG
+IRI ORG
+EDI ORG
+Intrinsic Resilience ORG
+EVI ORG
+0 CARDINAL
+57 CARDINAL
+EVI ORG
+three CARDINAL
+Australia GPE
+Fiji GPE
+Tuvalu GPE
+Tuvalu ORG
+three CARDINAL
+Fiji GPE
+Australia GPE
+Fiji GPE
+Australia GPE
+Fiji GPE
+Australia GPE
+Tuvalu GPE
+EVI ORG
+EVI ORG
+EVI ORG
+every 5 years DATE
+CONIFEROUS ORG
+winters DATE
+Floe PERSON
+20 CARDINAL
+DEUTERIUM OXIDE/HEAVY WATER: ORG
+D2O ORG
+two CARDINAL
+2H CARDINAL
+2H CARDINAL
+1H CARDINAL
+two CARDINAL
+HDO ORG
+D2O. ORG
+AIR QUALITY ORG
+Earth LOC
+the year DATE
+daily DATE
+days DATE
+0° CARDINAL
+the spring DATE
+first ORDINAL
+year DATE
+seasonally DATE
+1,000meters CARDINAL
+3,300 feet QUANTITY
+less than 5% PERCENT
+winter DATE
+summer DATE
+Arctic LOC
+70 metres QUANTITY
+230 ft QUANTITY
+up to 600 CARDINAL
+2,000 ft QUANTITY
+Glacier NORP
+Glacial Period ORG
+thePeriod WORK_OF_ART
+Arctic LOC
+Antarctic ORG
+Interglacial Period ORG
+anon-Ice Age GPE
+North American NORP
+Europe LOC
+Ukraine GPE
+Asia LOC
+China GPE
+Argentina GPE
+North America LOC
+Alpine PERSON
+Scandinavianice ORG
+China GPE
+Asia LOC
+FIRST ORDINAL
+days DATE
+90 percent PERCENT
+the spring season DATE
+March 1 DATE
+32 degree QUANTITY
+nine years DATE
+ten CARDINAL
+32 degrees QUANTITY
+later than March 1 DATE
+the spring season DATE
+the fall season DATE
+two CARDINAL
+annual DATE
+only one CARDINAL
+the years DATE
+at least two CARDINAL
+a year DATE
+a few hundred CARDINAL
+a thousand years DATE
+DOM ORG
+plankton GPE
+annual DATE
+three CARDINAL
+earth LOC
+10 CARDINAL
+One CARDINAL
+Greenland GPE
+Isotopic NORP
+CO2 PRODUCT
+one CARDINAL
+CO2 PRODUCT
+Beryllium ORG
+Nutrients ORG
+5 CARDINAL
+Earth LOC
+Journal ORG
+American Hygienist
+Association ORG
+639 CARDINAL
+1993 DATE
+275 CARDINAL
+1993 DATE
+ATTRITION/WEATHERING: WORK_OF_ART
+two CARDINAL
+the day DATE
+daytime TIME
+Chemical ORG
+Chemical ORG
+two CARDINAL
+NEEDLEFISHES ORG
+Phylum Chordata ORG
+Order Beloniformes PERSON
+Needlefish NORP
+arctic sea LOC
+antarctic sea LOC
+DERECHO PERSON
+first ORDINAL
+the United States GPE
+The Earth Radiation Budget ORG
+Department of Marine ORG
+Coastal Sciences, Rutgers University ORG
+35 degrees QUANTITY
+N & S ORG
+less than 300 mm QUANTITY
+annual DATE
+Sun ORG
+Oxygen PERSON
+second ORDINAL
+O2 ORG
+about 80km QUANTITY
+about 40 km QUANTITY
+O2 ORG
+40 km QUANTITY
+one year DATE
+first ORDINAL
+first ORDINAL
+recent years DATE
+Carlson PERSON
+1977 DATE
+Secchi GPE
+Phylum Cryotophyta ORG
+two CARDINAL
+two CARDINAL
+Oxygen PERSON
+Earth LOC
+about 20.8% PERCENT
+two CARDINAL
+Nature WORK_OF_ART
+217 CARDINAL
+1991 DATE
+Nature WORK_OF_ART
+143 CARDINAL
+1993 DATE
+between two CARDINAL
+five CARDINAL
+one-third CARDINAL
+DIAGENESIS ORG
+Earth LOC
+one CARDINAL
+one CARDINAL
+three CARDINAL
+NO3- ORG
+EMISSIVITY ORG
+DRUMLINS PERSON
+seconds TIME
+more than one CARDINAL
+Echinoderms PRODUCT
+five CARDINAL
+GLACIER MOTION/ ORG
+4 CARDINAL
+CYCLONIC STORMS PERSON
+N. INDIAN NORP
+annual DATE
+10 inches QUANTITY
+Hydrogen ORG
+2 CARDINAL
+Earth LOC
+earth LOC
+medium.defined PERSON
+Canalsorefer PERSON
+ocean(pelagic orbottom PRODUCT
+10 and 20 CARDINAL
+Annelida PERSON
+annual DATE
+IGNEOUS ROCK AGE PERSON
+seasonally DATE
+second ORDINAL
+second ORDINAL
+first ORDINAL
+more than 1 CARDINAL
+more than 30 CARDINAL
+two CARDINAL
+Arctic LOC
+spring DATE
+GLOBALLY ORG
+earth LOC
+AAM ORG
+1.A CARDINAL
+Desktop Geographic Information Systems ORG
+Data Analysis and Visualization Services ORG
+The Antarctic Oscillation ORG
+AAO ORG
+20S DATE
+one CARDINAL
+Antarctic ORG
+about
+40 CARDINAL
+AAO ORG
+Northern Hemisphere LOC
+AAO ORG
+the Arctic Oscillation LOC
+28–47 CARDINAL
+32–54 CARDINAL
+Beaufort GPE
+28–55 CARDINAL
+32–63 mph QUANTITY
+28–33 CARDINAL
+34–40 CARDINAL
+41–47 CARDINAL
+9 CARDINAL
+48–55 CARDINAL
+NO2 PRODUCT
+MOUNTAIN SNOW PERSON
+less than 1 micron QUANTITY
+localterrain GPE
+Mammalia PERSON
+four CARDINAL
+Latin NORP
+Highest/Lowest ORG
+24 hours TIME
+VORTICITY ORG
+1 mm QUANTITY
+1 CARDINAL
+300 CARDINAL
+0.3 GHz CARDINAL
+the year DATE
+ABUNDANCE PERSON
+earth LOC
+24 HOUR TIME
+24 hour TIME
+SPI ORG
+Tom Mckee PERSON
+Nolan Doesken PERSON
+John Kleist PERSON
+the Colorado Climate Center ORG
+1993 DATE
+SPI ORG
+first ORDINAL
+one CARDINAL
+the last 1 DATE
+2 DATE
+3 DATE
+4 DATE
+5 DATE
+6 DATE
+7 DATE
+8 DATE
+9 CARDINAL
+10 DATE
+11 DATE
+12 DATE
+15 DATE
+18 DATE
+24 DATE
+30 DATE
+36 DATE
+48 DATE
+60 DATE
+72 months DATE
+the last day DATE
+the latest month DATE
+PM 2.5 DATE
+2.5 CARDINAL
+thousands CARDINAL
+earth LOC
+three CARDINAL
+Refer PERSON
+Arctic LOC
+spring DATE
+Earth LOC
+Earth LOC
+Earth LOC
+past seasons DATE
+earth LOC
+CYCLONIC STORMS PERSON
+N. INDIAN NORP
+Chilopoda PERSON
+ten CARDINAL
+BARNACLES PERSON
+Cone ORG
+SNOW WATER EQUIVALENT: WORK_OF_ART
+NGS ORG
+Tuvalu ORG
+the Barbados Plan of Action ORG
+the Alliance of Small Island States ORG
+AOSIS ORG
+first ORDINAL
+An Environmental Vulnerability ORG
+EVI ORG
+three CARDINAL
+three CARDINAL
+three CARDINAL
+REI ORG
+IRI ORG
+EDI ORG
+Intrinsic Resilience ORG
+EVI ORG
+0 CARDINAL
+57 CARDINAL
+EVI ORG
+three CARDINAL
+Australia GPE
+Fiji GPE
+Tuvalu GPE
+Tuvalu ORG
+three CARDINAL
+Fiji GPE
+Australia GPE
+Fiji GPE
+Australia GPE
+Fiji GPE
+Australia GPE
+Tuvalu GPE
+EVI ORG
+EVI ORG
+EVI ORG
+every 5 years DATE
+HURRICANES PERSON
+Karst NORP
+Earth LOC
+BARCHAN/TRANSVERSE ORG
+one CARDINAL
+EQUATORIAL PACIFIC ZONAL WIND ORG
+ENSO ORG
+anomaly ORG
+150E-140W DATE
+COADS DATE
+Pacific SST ORG
+1950-79 DATE
+1950-79 DATE
+Earth LOC
+WIND NORP
+TRANS-NINO ORG
+HadISST ORG
+12 CARDINAL
+the Nina 4 DATE
+5 month DATE
+1950-1979 DATE
+Hydroxyl GPE
+one CARDINAL
+one CARDINAL
+1 CARDINAL
+2 CARDINAL
+JAPCA PERSON
+704 CARDINAL
+1989 DATE
+Journal of Chemical Society ORG
+577 CARDINAL
+1989 DATE
+Earth LOC
+three CARDINAL
+Metadata Handling Services PERSON
+SAV/SEA ORG
+THI ORG
+15 CARDINAL
+0.4 CARDINAL
+90 CARDINAL
+F PRODUCT
+32 DATE
+50° F CARDINAL
+10° CARDINAL
+15 CARDINAL
+140 CARDINAL
+71 CARDINAL
+70 DATE
+U.S. GPE
+daily DATE
+THI ORG
+80 DATE
+California GPE
+Arizona GPE
+July DATE
+August DATE
+two CARDINAL
+the United States GPE
+Selection GPE
+thousands of years DATE
+Polypodiopsida PERSON
+Order Equisetales PERSON
+less than 10 CARDINAL
+PM 2.5 DATE
+2.5 CARDINAL
+thousands CARDINAL
+Carbon ORG
+Migration GPE
+organismwhen GPE
+ATP ORG
+100 CARDINAL
+daily DATE
+half CARDINAL
+daily DATE
+two CARDINAL
+50 degrees QUANTITY
+Hartland, England LOC
+Canberra GPE
+Australia GPE
+1 CARDINAL
+1868 DATE
+the Institut de Physique ORG
+France GPE
+WILDFIRE PERSON
+Earth LOC
+Reptilia ORG
+Order Squamata PERSON
+NASA ORG
+IceSat PRODUCT
+FRACTION OF ABSORBED PHOTOSYNTHETICALLY ACTIVE ORG
+FAPAR ORG
+the Photosynthetically Active Radiation ORG
+Earth LOC
+Earth LOC
+Oxygen PERSON
+CO2 PERSON
+six CARDINAL
+Dissolved CO2 ORG
+5.7 CARDINAL
+Phylum Chordata PERSON
+Mammalia PERSON
+Mysticeti PERSON
+Baleen Whales PERSON
+two CARDINAL
+baleen DATE
+Doppler PERSON
+Dimethyl ORG
+DMS ORG
+Nature WORK_OF_ART
+655 CARDINAL
+1987 DATE
+Nature WORK_OF_ART
+452 CARDINAL
+1972 DATE
+two CARDINAL
+CARIBBEAN ORG
+SST ORG
+Caribbean LOC
+COADS DATE
+1951-1991 DATE
+NCEP ORG
+1951-2000 DATE
+three months DATE
+20 CARDINAL
+Earth LOC
+Earth LOC
+EXPONENT ORG
+= β λα    PERSON
+Angstrom PERSON
+1 CARDINAL
+two CARDINAL
+Angstrom PERSON
+CYCLONIC STORMS PERSON
+N. INDIAN NORP
+approximately 1 - 1.5 CARDINAL
+6 CARDINAL
+Palustrine Wetlands PERSON
+CYCLONES ORG
+INDIAN NORP
+The Cambridge UniversityPress WORK_OF_ART
+Cambridge GPE
+2RU CARDINAL
+UK GPE
+2110 DATE
+Mammalia PERSON
+stocky legs PERSON
+shaggy hairs PERSON
+five CARDINAL
+EAST ATLANTIC LOC
+The East Atlantic LOC
+EA ORG
+second ORDINAL
+the North Atlantic LOC
+all months DATE
+EA ORG
+NAO ORG
+anomaly NORP
+the North Atlantic LOC
+EA ORG
+NAO ORG
+EA ORG
+EA ORG
+NAO ORG
+EA ORG
+Barnston GPE
+Livezey PERSON
+1987 DATE
+EA ORG
+Wallace PERSON
+Gutzler PERSON
+1981).The CARDINAL
+EA ORG
+Europe LOC
+all months DATE
+U.S. GPE
+January-May DATE
+U.S. GPE
+July-October DATE
+Europe LOC
+Scandinavia LOC
+Europe LOC
+EA ORG
+1950-2004 DATE
+1950-1976 DATE
+1977-2004 DATE
+EA ORG
+1997-2004 DATE
+3-month DATE
+1.0 CARDINAL
+Lacustrine Wetlands PERSON
+Division Rhodophyta PERSON
+about 10 CARDINAL
+4 CARDINAL
+the recent ice age DATE
+Earth LOC
+qPCR NORP
+PCR GPE
+Amoebas PERSON
+one CARDINAL
+three CARDINAL
+nutrientand GPE
+Resampling ORG
+Digital ORG
+CO3(-2 PERSON
+about 0.6 CARDINAL
+Solar ORG
+RIVER/LAKE ICE ORG
+Glacier NORP
+PM 2.5 DATE
+2.5 CARDINAL
+thousands CARDINAL
+two CARDINAL
+first ORDINAL
+second ORDINAL
+seasonally DATE
+MEAN SEA SURFACE ORG
+WATERBORNE NORP
+Sanger PERSON
+ddNTPs PERSON
+1 CARDINAL
+0.1 CARDINAL
+between 3.0 μm and 100 μm QUANTITY
+about 5 CARDINAL
+25 CARDINAL
+Sea LOC
+Two CARDINAL
+first ORDINAL
+second ORDINAL
+SALINITY ORG
+Brine PERSON
+zero CARDINAL
+ISOTOPES ORG
+24 CARDINAL
+30Ar CARDINAL
+1 CARDINAL
+32mAr ORG
+three CARDINAL
+36Ar DATE
+38Ar DATE
+Earth LOC
+SUSPENDED SOLIDS: ORG
+linear ORG
+five-fold CARDINAL
+all year DATE
+the summer DATE
+Swamp GPE
+between 50 and 0.05 CARDINAL
+SUSPENDED SOLIDS PERSON
+0.45 CARDINAL
+FEEDBACKS PERSON
+less than 1 mm QUANTITY
+TYPHOONS ORG
+WESTERN N. PACIFIC NORP
+NO2 PRODUCT
+NO2 PRODUCT
+Ammonia GPE
+Ammonia GPE
+Phylum Rotifera PERSON
+RIFTS ORG
+MACROALGAE GPE
+SEAWEEDS ORG
+Macroalgae GPE
+Macroalgae GPE
+only one CARDINAL
+Chlorophyta PERSON
+red algae ORG
+Rhodophyta PERSON
+Ciliates PERSON
+Ciliophora PERSON
+Paramecium ORG
+GLACIER/HANGING/U-SHAPED ORG
+one CARDINAL
+two CARDINAL
+ClO ORG
+Antarctica LOC
+ClO ORG
+one CARDINAL
+thousands CARDINAL
+Earth Island Journal ORG
+7 CARDINAL
+18 CARDINAL
+1992 DATE
+38 CARDINAL
+A6-A7 PERSON
+1992 DATE
+annually DATE
+Earth LOC
+December 2008 DATE
+the Oceanic Nino Index ORG
+ONI ORG
+3b CARDINAL
+monthly DATE
+ERSST ORG
+3 CARDINAL
+ONI ORG
+ERSST.v3b ORG
+Order Pleuronectiformes PERSON
+last Spring DATE
+first ORDINAL
+SW PACIFIC/SE INDIAN ORG
+HURRICANES PERSON
+CONDUCTIVITY PERSON
+three CARDINAL
+Ocean LOC
+Earth LOC
+Earth LOC
+Earth LOC
+Earth LOC
+plankton GPE
+the Pacific Northwest LOC
+CUI ORG
+cubic meters PERSON
+second ORDINAL
+100 meters QUANTITY
+southward ORG
+CUI ORG
+Andrew Bakun PERSON
+Bakun 1973 DATE
+the Pacific Fisheries Environmental Lab ORG
+NOAA National Marine Fisheries Service ORG
+NMFS ORG
+winter DATE
+summer DATE
+1.0 CARDINAL
+Earth LOC
+Stagnation Pressure ORG
+CI ORG
+Chemical ORG
+Chemical ORG
+Earth LOC
+Earth LOC
+8 CARDINAL
+minute TIME
+SW PACIFIC/SE INDIAN ORG
+null
+UV SPECTRAL: PERSON
+three CARDINAL
+2 CARDINAL
+3 CARDINAL
+two CARDINAL
+1b CARDINAL
+four CARDINAL
+SDMs PERSON
+IceBridge ORG
+albedo (reflectivity ORG
+TSUNAMIS ORG
+Japanese NORP
+Tsunamis ORG
+about 700 km QUANTITY
+Pyrocumulonimbus ORG
+five miles QUANTITY
+8 km QUANTITY
+tens of thousands CARDINAL
+Earth LOC
+TSUNAMIS ORG
+Tsunamis ORG
+Earth LOC
+DEW ORG
+DEW ORG
+LAP ORG
+W/m2 ORG
+LAP ORG
+0.350 CARDINAL
+0.876 CARDINAL
+NDVI ORG
+NORTHERN ORG
+NOI ORG
+Northern Oscillation Index ORG
+SOI ORG
+Southern Oscillation Index ORG
+SOI ORG
+Southern Oscillation ORG
+Radon ORG
+Mammalia PERSON
+Order Carnivora PERSON
+Canidae GPE
+first ORDINAL
+Matlab PERSON
+seconds TIME
+first ORDINAL
+GPS ORG
+seconds TIME
+first ORDINAL
+gps_m_time CARDINAL
+CMOS ORG
+seconds TIME
+first ORDINAL
+TT ORG
+Total Totals ORG
+Earth LOC
+CB ORG
+Hypoxic NORP
+Nitric ORG
+Earth LOC
+Crust ORG
+One CARDINAL
+three CARDINAL
+SINKHOLES ORG
+DOLINES ORG
+knob GPE
+acidic groundwater PERSON
+Wayne Palmer PERSON
+the 1960s DATE
+drought¿a ORG
+weeks DATE
+0 CARDINAL
+minus 3 CARDINAL
+minus4 ORG
+CMI ORG
+Wayne Palmer PERSON
+CMI ORG
+from week DATE
+CMI ORG
+previous weeks DATE
+the recent week DATE
+Refer PERSON
+earth LOC
+first ORDINAL
+the Arabian Sea LOC
+six months DATE
+six months DATE
+Europe LOC
+summer DATE
+European NORP
+annual DATE
+winter DATE
+summer DATE
+Asia LOC
+Spain GPE
+Australia GPE
+Africa LOC
+Mediterranean LOC
+Texas GPE
+the United States GPE
+Chile GPE
+India GPE
+Mean Sea Surface LOC
+Earth LOC
+Earth LOC
+up to 25% PERCENT
+400 to 500 Wm−2 DATE
+60 degrees QUANTITY
+Earth LOC
+less than 0.45 CARDINAL
+0.45 CARDINAL
+PCR ORG
+millions to billions MONEY
+FEEDBACKS PERSON
+second ORDINAL
+first ORDINAL
+NEE ORG
+Ra NORP
+AIRSPEED/GROUND SPEED: ORG
+earth LOC
+SALINITY ORG
+two CARDINAL
+WILDFIRES ORG
+all year DATE
+the summer DATE
+Swamp GPE
+TROPICAL/NORTHERN HEMISPHERE ORG
+Tropical/ Northern Hemisphere LOC
+first ORDINAL
+Mo and Livezey ORG
+1986 DATE
+November-February DATE
+one CARDINAL
+the Gulf of Alaska LOC
+the Hudson Bay LOC
+Gulf LOC
+Alaska GPE
+Mexico GPE
+United States GPE
+Pacific LOC
+Hudson Bay Low PERSON
+North America LOC
+Canadian NORP
+United States GPE
+Mesoscale Convective System ORG
+100 km QUANTITY
+at least one CARDINAL
+PRESERVATION PERSON
+HEADLANDS/BAYS/CAPE ORG
+Headlands CARDINAL
+three CARDINAL
+three CARDINAL
+Headlands CARDINAL
+winter DATE
+summer DATE
+at least 1000 CARDINAL
+graben PRODUCT
+Earth LOC
+meltwater PERSON
+DORIS PERSON
+Doppler Orbitography and Radiopositioning PERSON
+Integrated Satellite ORG
+DORIS ORG
+Doppler PERSON
+DORIS ORG
+DORIS ORG
+Doppler PERSON
+DORIS ORG
+DORIS ORG
+CryoSat-2 ORG
+OSTM PERSON
+Michael Freilich PERSON
+SARAL ORG
+SPOT-4 PERSON
+DORIS ORG
+X-RAY ORG
+FIRST ORDINAL
+first ORDINAL
+first ORDINAL
+United States GPE
+first ORDINAL
+first ORDINAL
+Appendicularia GPE
+Phylum Chordata ORG
+seasonally DATE
+monthly DATE
+Eq-20S ORG
+GISST GPE
+NOAA ORG
+1951-2000 DATE
+three CARDINAL
+5/8 to 7/8 CARDINAL
+Order Siluriformes PERSON
+New Ice GPE
+Youg Ice GPE
+First-Year Ice DATE
+Lake Ice LOC
+New Lake
+Ice GPE
+Thin Lake Ice GPE
+Medium Lake Ice GPE
+Thick Lake Ice PERSON
+Very Thick Lake
+Ice PERSON
+Earth LOC
+Glyoxal PERSON
+earth LOC
+BOUNDARY LAYER WATER VAPOR ORG
+Wildland GPE
+Earth LOC
+GNSS NORP
+Earth LOC
+GNSS NORP
+Earth LOC
+GNSS NORP
+Thunder hours TIME
+Thunder hours TIME
+DiGangi et al PERSON
+2022 DATE
+2015 DATE
+Thunder hours TIME
+Thunder hour TIME
+the World Meteorological Organization ORG
+2022 DATE
+that thunder hours TIME
+1 CARDINAL
+hourly TIME
+hours TIME
+EVI ORG
+EVI ORG
+NDVI ORG
+NDVI ORG
+CIRE ORG
+CIre ORG
+NIR GPE
+PHOTOCHEMICAL ORG
+REFLECTANCE INDEX PERSON
+PRI ORG
+PRI ORG
+CAROTENOID CONTENT INDEX PERSON
+CAR ORG
+MARI PERSON
+The Modified Anthocyanin Reflectance Index WORK_OF_ART
+ARI2 ORG
+ARI ORG
+NDII ORG
+NDII ORG
+NDWI ORG
+The Normalized Difference Water Index ORG
+NDWI ORG
+EVI ORG
+EVI ORG
+NDVI ORG
+NDVI ORG
+PHOTOCHEMICAL ORG
+REFLECTANCE INDEX PERSON
+PRI ORG
+PRI ORG
+MARI PERSON
+The Modified Anthocyanin Reflectance Index WORK_OF_ART
+ARI2 ORG
+ARI ORG
+NDWI ORG
+The Normalized Difference Water Index ORG
+NDWI ORG
+NDSI ORG
+The Normalized Difference Snow Index ORG
+NDSI ORG
+NDSI ORG
+The Normalized Difference Snow Index ORG
+NDSI ORG

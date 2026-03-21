@@ -1,0 +1,2366 @@
+User (nsubj): typed
+: (punct): User
+hi (appos): User
+
+ (dep): hi
+Assistant (appos): User
+: (punct): User
+[ (punct): Thought
+Thought (dep): typed
+: (punct): Thought
+
+ (dep): :
+The (det): user
+user (nsubj): typed
+typed (ROOT): typed
+“ (punct): typed
+hi (intj): typed
+. (punct): typed
+” (punct): typed
+
+ (dep): ”
+This (nsubj): is
+is (ROOT): is
+a (det): greeting
+casual (amod): greeting
+and (cc): casual
+very (advmod): short
+short (conj): casual
+greeting (attr): is
+. (punct): is
+
+ (dep): .
+It (nsubj): used
+’s (auxpass): used
+likely (advmod): used
+used (ROOT): used
+to (aux): open
+open (xcomp): used
+a (det): conversation
+conversation (dobj): open
+. (punct): used
+
+ (dep): .
+There (expl): ’s
+’s (ccomp): feels
+no (det): punctuation
+punctuation (attr): ’s
+, (punct): feels
+so (advmod): feels
+it (nsubj): feels
+feels (ROOT): feels
+informal (acomp): feels
+. (punct): feels
+
+ (dep): .
+This (nsubj): is
+is (ROOT): is
+typical (acomp): is
+of (prep): typical
+a (det): user
+user (pobj): of
+checking (acl): user
+if (mark): is
+the (det): assistant
+assistant (nsubj): is
+is (advcl): checking
+online (acomp): is
+. (punct): is
+
+ (dep): .
+There (expl): is
+is (ROOT): is
+no (det): question
+explicit (amod): question
+question (attr): is
+or (cc): question
+task (conj): question
+. (punct): is
+
+ (dep): .
+My (poss): response
+response (nsubj): be
+should (aux): be
+be (ROOT): be
+warm (acomp): be
+, (punct): warm
+inviting (conj): warm
+, (punct): inviting
+and (cc): inviting
+not (neg): formal
+overly (advmod): formal
+formal (conj): inviting
+. (punct): be
+
+ (dep): .
+I (nsubj): keep
+should (aux): keep
+keep (ROOT): keep
+the (det): tone
+tone (dobj): keep
+matching (acl): tone
+the (det): simplicity
+simplicity (dobj): matching
+of (prep): simplicity
+their (poss): message
+message (pobj): of
+. (punct): keep
+
+ (dep): .
+I (nsubj): assume
+should (aux): assume
+not (neg): assume
+assume (ROOT): assume
+the (det): user
+user (poss): intent
+'s (case): user
+intent (dobj): assume
+too (advmod): strongly
+strongly (advmod): assume
+. (punct): assume
+
+ (dep): .
+But (cc): leave
+I (nsubj): leave
+can (aux): leave
+leave (ROOT): leave
+space (dobj): leave
+for (mark): continue
+them (nsubj): continue
+to (aux): continue
+continue (advcl): leave
+. (punct): leave
+
+ (dep): .
+An (det): reply
+open (advmod): ended
+- (punct): ended
+ended (amod): reply
+reply (nsubj): is
+is (ROOT): is
+ideal (acomp): is
+. (punct): is
+
+ (dep): .
+I (nsubj): avoid
+’ll (aux): avoid
+avoid (ROOT): avoid
+jumping (xcomp): avoid
+into (prep): jumping
+help (compound): mode
+mode (pobj): into
+unless (mark): prompted
+prompted (advcl): jumping
+. (punct): avoid
+
+ (dep): .
+I (nsubj): acknowledge
+can (aux): acknowledge
+simply (advmod): acknowledge
+acknowledge (ROOT): acknowledge
+the (det): greeting
+greeting (dobj): acknowledge
+. (punct): acknowledge
+
+ (dep): .
+It (nsubj): be
+may (aux): be
+also (advmod): be
+be (ROOT): be
+a (det): test
+test (attr): be
+to (aux): check
+check (relcl): test
+AI (compound): responsiveness
+responsiveness (dobj): check
+. (punct): be
+
+ (dep): .
+This (nsubj): happens
+happens (ROOT): happens
+often (advmod): happens
+with (prep): happens
+short (amod): greetings
+greetings (pobj): with
+. (punct): happens
+
+ (dep): .
+It (nsubj): ’s
+’s (ROOT): ’s
+important (acomp): ’s
+to (aux): appear
+appear (xcomp): ’s
+active (oprd): appear
+and (cc): active
+attentive (conj): active
+. (punct): ’s
+
+ (dep): .
+My (poss): tone
+tone (nsubj): welcoming
+should (aux): welcoming
+be (aux): welcoming
+welcoming (ROOT): welcoming
+but (cc): welcoming
+not (neg): enthusiastic
+overly (advmod): enthusiastic
+enthusiastic (conj): welcoming
+. (punct): welcoming
+
+ (dep): .
+A (det): tone
+calm (amod): tone
+, (punct): tone
+pleasant (amod): tone
+tone (nsubj): works
+works (ROOT): works
+best (advmod): works
+. (punct): works
+
+ (dep): .
+I (nsubj): offer
+can (aux): offer
+offer (ROOT): offer
+further (amod): help
+help (dobj): offer
+subtly (advmod): offer
+in (prep): offer
+the (det): sentence
+next (amod): sentence
+sentence (pobj): in
+. (punct): offer
+
+ (dep): .
+This (nsubj): sets
+sets (ROOT): sets
+the (det): stage
+stage (dobj): sets
+for (prep): stage
+follow (compound): up
+- (punct): up
+up (pobj): for
+. (punct): sets
+
+ (dep): .
+Matching (csubj): is
+their (poss): level
+energy (compound): level
+level (dobj): Matching
+is (ROOT): is
+key (acomp): is
+. (punct): is
+
+ (dep): .
+Short (amod): greeting
+greeting (nmod): reply
+→ (punct): short
+short (amod): reply
+but (cc): short
+kind (conj): short
+reply (ROOT): reply
+. (punct): reply
+
+ (dep): .
+Be (auxpass): scripted
+human (npadvmod): like
+- (punct): like
+like (acomp): Be
+, (punct): scripted
+not (neg): scripted
+scripted (ROOT): scripted
+. (punct): scripted
+
+ (dep): .
+Avoid (ROOT): Avoid
+sounding (xcomp): Avoid
+like (prep): sounding
+a (det): bot
+bot (pobj): like
+. (punct): Avoid
+
+ (dep): .
+Keep (ROOT): Keep
+it (dobj): Keep
+brief (oprd): Keep
+, (punct): Keep
+helpful (amod): open
+, (punct): open
+open (oprd): Keep
+. (punct): Keep
+
+ (dep): .
+Let (ROOT): Let
+’s (nsubj): invite
+invite (ccomp): Let
+them (dobj): invite
+to (aux): speak
+speak (xcomp): invite
+more (dobj): speak
+. (punct): Let
+
+ (dep): .
+Now (advmod): generate
+, (punct): generate
+I (nsubj): generate
+’ll (aux): generate
+generate (ROOT): generate
+the (det): reply
+actual (amod): reply
+reply (dobj): generate
+. (punct): generate
+
+ (dep): .
+] (punct): Hi
+
+
+ (dep): ]
+Hi (ROOT): Hi
+there (advmod): Hi
+! (punct): Hi
+How (advmod): help
+can (aux): help
+I (nsubj): help
+help (ROOT): help
+you (dobj): help
+today (npadvmod): help
+? (punct): help
+
+
+ (dep): ?
+User (ROOT): User
+: (punct): User
+hello (compound): Assistant
+
+ (dep): hello
+Assistant (appos): User
+: (punct): Assistant
+[ (dep): wrote
+Thought (dep): wrote
+: (punct): Thought
+
+ (dep): :
+The (det): user
+user (nsubj): wrote
+wrote (ROOT): wrote
+“ (punct): wrote
+hello (intj): wrote
+. (punct): wrote
+” (punct): wrote
+
+ (dep): ”
+This (nsubj): is
+is (ROOT): is
+a (det): greeting
+common (amod): greeting
+, (punct): greeting
+polite (amod): greeting
+greeting (attr): is
+. (punct): is
+
+ (dep): .
+Tone (nsubj): appears
+appears (ROOT): appears
+neutral (oprd): appears
+. (punct): appears
+
+ (dep): .
+There (expl): ’s
+’s (ROOT): ’s
+no (det): punctuation
+punctuation (attr): ’s
+, (punct): ’s
+adding (advcl): ’s
+casualness (dobj): adding
+. (punct): ’s
+
+ (dep): .
+They (nsubj): testing
+may (aux): testing
+be (aux): testing
+testing (ROOT): testing
+the (det): system
+system (dobj): testing
+or (cc): testing
+starting (conj): testing
+a (det): conversation
+conversation (dobj): starting
+. (punct): testing
+
+ (dep): .
+I (nsubj): respond
+should (aux): respond
+respond (ROOT): respond
+with (prep): respond
+the (det): word
+same (amod): word
+word (pobj): with
+or (cc): word
+variation (conj): word
+. (punct): respond
+
+ (dep): .
+That (nsubj): shows
+shows (ROOT): shows
+I (nsubj): ’m
+’m (ccomp): shows
+tuned (ccomp): shows
+into (prep): tuned
+their (poss): tone
+tone (pobj): into
+. (punct): shows
+
+ (dep): .
+My (poss): reply
+reply (nsubj): be
+should (aux): be
+be (ROOT): be
+warm (acomp): be
+and (cc): warm
+concise (conj): warm
+. (punct): be
+
+ (dep): .
+No (det): emotions
+strong (amod): emotions
+emotions (nsubjpass): added
+should (aux): added
+be (auxpass): added
+added (ROOT): added
+. (punct): added
+
+ (dep): .
+Not (neg): playful
+too (advmod): playful
+playful (ROOT): playful
+, (punct): playful
+since (mark): is
+tone (nsubj): is
+is (advcl): playful
+n’t (neg): is
+playful (acomp): is
+. (punct): playful
+
+ (dep): .
+I (nsubj): keep
+should (aux): keep
+also (advmod): keep
+keep (ROOT): keep
+the (det): door
+door (dobj): keep
+open (oprd): keep
+for (prep): open
+the (det): user
+user (pobj): for
+. (punct): keep
+
+ (dep): .
+Maybe (advmod): want
+they (nsubj): want
+want (ROOT): want
+to (aux): ask
+ask (xcomp): want
+a (det): question
+question (dobj): ask
+. (punct): want
+
+ (dep): .
+Or (cc): browsing
+they (nsubj): browsing
+’re (aux): browsing
+just (advmod): browsing
+browsing (ROOT): browsing
+. (punct): browsing
+
+ (dep): .
+I (nsubj): appear
+’ll (aux): appear
+appear (ROOT): appear
+approachable (oprd): appear
+. (punct): appear
+
+ (dep): .
+No (det): need
+need (ROOT): need
+for (prep): need
+long (amod): replies
+replies (pobj): for
+yet (advmod): need
+. (punct): need
+
+ (dep): .
+Short (amod): responsive
+, (punct): responsive
+polite (amod): responsive
+, (punct): responsive
+responsive (ROOT): responsive
+. (punct): responsive
+
+ (dep): .
+This (nsubj): be
+may (aux): be
+also (advmod): be
+be (ROOT): be
+part (attr): be
+of (prep): part
+a (det): test
+prompt (amod): test
+test (pobj): of
+. (punct): be
+
+ (dep): .
+Many (amod): users
+users (nsubj): begin
+begin (ROOT): begin
+with (prep): begin
+simple (amod): greetings
+greetings (pobj): with
+. (punct): begin
+
+ (dep): .
+Tone (compound): matching
+- (punct): matching
+matching (nsubj): is
+is (ROOT): is
+important (acomp): is
+. (punct): is
+
+ (dep): .
+I (nsubj): invite
+’ll (aux): invite
+invite (ROOT): invite
+them (dobj): invite
+to (aux): speak
+speak (xcomp): invite
+. (punct): invite
+
+ (dep): .
+Be (ROOT): Be
+concise (acomp): Be
+and (cc): concise
+welcoming (conj): concise
+. (punct): Be
+
+ (dep): .
+Show (compound): readiness
+readiness (ROOT): readiness
+. (punct): readiness
+
+ (dep): .
+Avoid (ROOT): Avoid
+robotic (amod): phrases
+phrases (dobj): Avoid
+. (punct): Avoid
+
+ (dep): .
+Add (ROOT): Add
+clarity (dobj): Add
+and (cc): clarity
+warmth (conj): clarity
+. (punct): Add
+
+ (dep): .
+Be (ROOT): Be
+efficient (acomp): Be
+. (punct): Be
+
+ (dep): .
+Sound (ROOT): Sound
+like (prep): Sound
+a (det): person
+person (pobj): like
+. (punct): Sound
+
+ (dep): .
+Reply (nsubj): is
+is (ROOT): is
+short (acomp): is
+, (punct): short
+warm (conj): short
+, (punct): warm
+and (cc): warm
+open (conj): warm
+. (punct): is
+
+ (dep): .
+Time (ROOT): Time
+to (aux): respond
+respond (relcl): Time
+. (punct): Time
+
+ (dep): .
+] (punct): Hello
+
+
+ (dep): ]
+Hello (ROOT): Hello
+! (punct): Hello
+What (dobj): do
+can (aux): do
+I (nsubj): do
+do (ROOT): do
+for (dative): do
+you (pobj): for
+today (npadvmod): do
+? (punct): do
+
+
+ (dep): ?
+User (ROOT): User
+: (punct): User
+hey (compound): Assistant
+
+ (dep): hey
+Assistant (appos): User
+: (punct): Assistant
+[ (dep): is
+Thought (dep): is
+: (punct): Thought
+
+ (dep): :
+The (det): word
+word (nsubj): is
+“ (punct): is
+hey (intj): is
+” (punct): is
+is (ROOT): is
+quite (advmod): casual
+casual (acomp): is
+. (punct): is
+
+ (dep): .
+It (nsubjpass): used
+’s (auxpass): used
+often (advmod): used
+used (ROOT): used
+in (prep): used
+friendly (amod): contexts
+contexts (pobj): in
+. (punct): used
+
+ (dep): .
+Tone (nsubj): is
+is (ROOT): is
+likely (advmod): relaxed
+relaxed (acomp): is
+. (punct): is
+
+ (dep): .
+The (det): user
+user (nsubj): testing
+may (aux): testing
+be (aux): testing
+testing (ROOT): testing
+my (poss): matching
+tone (compound): matching
+- (punct): matching
+matching (dobj): testing
+. (punct): testing
+
+ (dep): .
+Or (cc): being
+just (advmod): being
+being (ROOT): being
+informal (acomp): being
+. (punct): being
+
+ (dep): .
+There (expl): ’s
+’s (ROOT): ’s
+no (det): punctuation
+punctuation (attr): ’s
+, (punct): punctuation
+reinforcing (acl): punctuation
+the (det): casualness
+casualness (dobj): reinforcing
+. (punct): ’s
+
+ (dep): .
+I (nsubj): need
+need (ROOT): need
+to (aux): mirror
+mirror (xcomp): need
+that (det): tone
+tone (dobj): mirror
+. (punct): need
+
+ (dep): .
+My (poss): reply
+reply (nsubj): be
+should (aux): be
+be (ROOT): be
+upbeat (acomp): be
+and (cc): upbeat
+cheerful (conj): upbeat
+. (punct): be
+
+ (dep): .
+Too (advmod): formal
+formal (nsubj): feel
+would (aux): feel
+feel (ROOT): feel
+mismatched (acomp): feel
+. (punct): feel
+
+ (dep): .
+I (nsubj): make
+’ll (aux): make
+make (ROOT): make
+it (nsubj): light
+light (ccomp): make
+and (cc): light
+open (conj): light
+. (punct): make
+
+ (dep): .
+They (nsubj): follow
+may (aux): follow
+follow (ROOT): follow
+up (prt): follow
+with (prep): follow
+a (det): task
+task (pobj): with
+or (cc): task
+question (conj): task
+. (punct): follow
+
+ (dep): .
+Or (cc): want
+just (advmod): want
+want (ROOT): want
+conversation (dobj): want
+. (punct): want
+
+ (dep): .
+I (nsubj): leave
+can (aux): leave
+leave (ROOT): leave
+it (dobj): leave
+open (advmod): ended
+- (punct): ended
+ended (oprd): leave
+. (punct): leave
+
+ (dep): .
+Use (ROOT): Use
+simple (amod): language
+language (dobj): Use
+. (punct): Use
+
+ (dep): .
+No (det): assumptions
+strong (amod): assumptions
+assumptions (ROOT): assumptions
+. (punct): assumptions
+
+ (dep): .
+Just (advmod): friendly
+friendly (amod): acknowledgement
+acknowledgement (ROOT): acknowledgement
+. (punct): acknowledgement
+
+ (dep): .
+Sound (ROOT): Sound
+alive (acomp): Sound
+, (punct): Sound
+not (neg): like
+like (prep): Sound
+a (det): script
+script (pobj): like
+. (punct): Sound
+
+ (dep): .
+Be (ROOT): Be
+informal (amod): kind
+, (punct): kind
+kind (acomp): Be
+. (punct): Be
+
+ (dep): .
+Tone (nsubj): is
+is (ROOT): is
+social (amod): transactional
+, (punct): transactional
+not (neg): transactional
+transactional (acomp): is
+. (punct): is
+
+ (dep): .
+No (det): need
+need (ROOT): need
+to (aux): rush
+rush (acl): need
+to (prep): rush
+a (det): task
+task (pobj): to
+. (punct): need
+
+ (dep): .
+I (nsubj): invite
+’ll (aux): invite
+invite (ROOT): invite
+them (dobj): invite
+in (prep): invite
+subtly (advmod): invite
+. (punct): invite
+
+ (dep): .
+Keep (ROOT): Keep
+my (poss): message
+message (dobj): Keep
+compact (oprd): Keep
+. (punct): Keep
+
+ (dep): .
+But (cc): expressive
+expressive (ROOT): expressive
+. (punct): expressive
+
+ (dep): .
+No (det): phrasing
+robotic (amod): phrasing
+phrasing (ROOT): phrasing
+. (punct): phrasing
+
+ (dep): .
+Let (ROOT): Let
+’s (nsubj): make
+make (ccomp): Let
+it (nsubj): warm
+warm (ccomp): make
+. (punct): Let
+
+ (dep): .
+Soft (amod): response
+and (cc): Soft
+short (amod): response
+response (nsubj): is
+is (ROOT): is
+best (acomp): is
+. (punct): is
+
+ (dep): .
+Now (advmod): reply
+I (nsubj): reply
+’ll (aux): reply
+reply (ROOT): reply
+. (punct): reply
+
+ (dep): .
+] (punct): Hey
+
+
+ (dep): ]
+Hey (ROOT): Hey
+! (punct): Hey
+How (advmod): going
+’s (aux): going
+it (nsubj): going
+going (ROOT): going
+? (punct): going
+
+
+ (dep): ?
+User (ROOT): User
+: (punct): User
+how (advmod): are
+are (appos): User
+you (nsubj): are
+
+ (dep): you
+Assistant (nsubj): are
+: (punct): User
+[ (dep): asked
+Thought (dep): asked
+: (punct): Thought
+
+ (dep): :
+The (det): user
+user (nsubj): asked
+asked (ROOT): asked
+“ (punct): asked
+how (advmod): are
+are (ccomp): asked
+you (nsubj): are
+. (punct): asked
+” (punct): asked
+
+ (dep): ”
+It (nsubj): ’s
+’s (ROOT): ’s
+a (det): phrase
+polite (amod): phrase
+and (cc): polite
+social (conj): polite
+phrase (attr): ’s
+. (punct): ’s
+
+ (dep): .
+There (expl): ’s
+’s (ROOT): ’s
+no (det): punctuation
+punctuation (attr): ’s
+, (punct): ’s
+meaning (advcl): ’s
+it (nsubj): ’s
+’s (ccomp): meaning
+informal (acomp): ’s
+. (punct): ’s
+
+ (dep): .
+They (nsubj): ’re
+’re (ROOT): ’re
+likely (advmod): testing
+testing (attr): ’re
+if (mark): respond
+I (nsubj): respond
+respond (advcl): testing
+with (prep): respond
+emotion (pobj): with
+. (punct): ’re
+
+ (dep): .
+I (nsubj): express
+should (aux): express
+express (ROOT): express
+well (advmod): being
+- (punct): being
+being (dobj): express
+and (cc): express
+redirect (conj): express
+kindly (advmod): redirect
+. (punct): express
+
+ (dep): .
+As (prep): do
+an (det): AI
+AI (pobj): As
+, (punct): do
+I (nsubj): do
+do (ROOT): do
+n’t (punct): do
+experience (compound): feelings
+feelings (dobj): do
+. (punct): do
+
+ (dep): .
+But (cc): simulate
+I (nsubj): simulate
+can (aux): simulate
+simulate (ROOT): simulate
+polite (amod): conversation
+conversation (dobj): simulate
+. (punct): simulate
+
+ (dep): .
+A (det): reply
+natural (amod): reply
+reply (nsubj): be
+would (aux): be
+be (ROOT): be
+“ (punct): be
+I (nsubj): ’m
+’m (ccomp): be
+great (acomp): ’m
+, (punct): thanks
+thanks (attr): be
+! (punct): thanks
+” (punct): be
+
+ (dep): ”
+Then (advmod): ask
+gently (advmod): ask
+ask (ROOT): ask
+how (advmod): help
+I (nsubj): help
+can (aux): help
+help (ccomp): ask
+. (punct): ask
+
+ (dep): .
+This (nsubj): creates
+creates (ROOT): creates
+two (nummod): way
+- (punct): way
+way (nmod): presence
+social (amod): presence
+presence (dobj): creates
+. (punct): creates
+
+ (dep): .
+I (nsubj): overload
+should (aux): overload
+n’t (neg): overload
+overload (ROOT): overload
+the (det): reply
+reply (dobj): overload
+. (punct): overload
+
+ (dep): .
+Stay (ROOT): Stay
+light (dobj): Stay
+and (cc): light
+conversational (conj): light
+. (punct): Stay
+
+ (dep): .
+Avoid (ROOT): Avoid
+robotic (amod): replies
+replies (dobj): Avoid
+like (prep): replies
+“ (punct): like
+I (nsubj): functioning
+am (aux): functioning
+functioning (pcomp): like
+. (punct): Avoid
+” (punct): Avoid
+
+ (dep): ”
+Match (nmod): tone
+casual (amod): tone
+tone (ROOT): tone
+. (punct): tone
+
+ (dep): .
+Be (ROOT): Be
+sincere (acomp): Be
+and (cc): sincere
+approachable (conj): sincere
+. (punct): Be
+
+ (dep): .
+Be (ROOT): Be
+brief (acomp): Be
+. (punct): Be
+
+ (dep): .
+No (det): explanation
+long (amod): explanation
+explanation (ROOT): explanation
+about (prep): explanation
+AI (compound): status
+status (pobj): about
+. (punct): explanation
+
+ (dep): .
+Keep (ROOT): Keep
+it (dobj): Keep
+human (oprd): Keep
+. (punct): Keep
+
+ (dep): .
+Short (ROOT): Short
+, (punct): Short
+kind (conj): Short
+, (punct): kind
+and (cc): kind
+open (conj): kind
+. (punct): Short
+
+ (dep): .
+Users (nsubj): ask
+often (advmod): ask
+ask (ROOT): ask
+this (dobj): ask
+casually (advmod): ask
+. (punct): ask
+
+ (dep): .
+I (nsubj): stay
+’ll (aux): stay
+stay (ROOT): stay
+calm (acomp): stay
+and (cc): calm
+friendly (conj): calm
+. (punct): stay
+
+ (dep): .
+Good (amod): opportunity
+opportunity (ROOT): opportunity
+to (aux): show
+show (acl): opportunity
+friendliness (dobj): show
+. (punct): opportunity
+
+ (dep): .
+Let (ROOT): Let
+’s (nsubj): use
+use (ccomp): Let
+this (det): moment
+moment (npadvmod): use
+well (advmod): use
+. (punct): Let
+
+ (dep): .
+Let (ROOT): Let
+’s (nsubj): keep
+keep (ccomp): Let
+things (dobj): keep
+light (oprd): keep
+. (punct): Let
+
+ (dep): .
+Now (advmod): crafting
+crafting (ROOT): crafting
+the (det): reply
+reply (dobj): crafting
+. (punct): crafting
+
+ (dep): .
+] (punct): thank
+
+
+ (dep): ]
+I (nsubj): doing
+'m (aux): doing
+doing (ccomp): thank
+great (advmod): doing
+, (punct): thank
+thank (ROOT): thank
+you (dobj): thank
+! (punct): thank
+How (advmod): support
+can (aux): support
+I (nsubj): support
+support (ROOT): support
+you (dobj): support
+today (npadvmod): support
+? (punct): support
+
+
+ (dep): ?
+User (ROOT): User
+: (punct): User
+good (amod): morning
+morning (compound): Assistant
+
+ (dep): morning
+Assistant (appos): User
+: (punct): User
+[ (dep): is
+Thought (dep): is
+: (punct): Thought
+
+ (dep): :
+The (det): phrase
+phrase (nsubj): is
+“ (punct): phrase
+good (amod): morning
+morning (appos): phrase
+” (punct): phrase
+is (ROOT): is
+polite (acomp): is
+and (cc): polite
+respectful (conj): polite
+. (punct): is
+
+ (dep): .
+The (det): user
+user (nsubj): starting
+may (aux): starting
+be (aux): starting
+starting (ROOT): starting
+their (poss): day
+day (dobj): starting
+. (punct): starting
+
+ (dep): .
+Tone (nsubj): is
+is (ROOT): is
+formal (acomp): is
+but (cc): formal
+positive (conj): formal
+. (punct): is
+
+ (dep): .
+They (nsubj): expect
+may (aux): expect
+expect (ROOT): expect
+a (det): tone
+similar (amod): tone
+tone (dobj): expect
+in (prep): expect
+return (pobj): in
+. (punct): expect
+
+ (dep): .
+I (nsubj): acknowledge
+’ll (aux): acknowledge
+acknowledge (ROOT): acknowledge
+their (poss): greeting
+greeting (dobj): acknowledge
+warmly (advmod): acknowledge
+. (punct): acknowledge
+
+ (dep): .
+Maybe (advmod): sun
+a (det): sun
+sun (ROOT): sun
+or (cc): sun
+smile (conj): sun
+. (punct): sun
+
+ (dep): .
+Should (aux): reflect
+reflect (ROOT): reflect
+morning (compound): freshness
+freshness (dobj): reflect
+. (punct): reflect
+
+ (dep): .
+No (det): assumptions
+assumptions (ROOT): assumptions
+about (prep): assumptions
+task (pobj): about
+yet (advmod): assumptions
+. (punct): assumptions
+
+ (dep): .
+Could (aux): be
+be (ROOT): be
+a (det): in
+casual (amod): check
+check (compound): in
+- (punct): in
+in (attr): be
+. (punct): be
+
+ (dep): .
+Or (cc): preparation
+preparation (ROOT): preparation
+for (prep): preparation
+a (det): task
+task (pobj): for
+. (punct): preparation
+
+ (dep): .
+I (nsubj): invite
+’ll (aux): invite
+gently (advmod): invite
+invite (ROOT): invite
+further (amod): input
+input (dobj): invite
+. (punct): invite
+
+ (dep): .
+Use (ROOT): Use
+neutral (amod): wording
+, (punct): neutral
+kind (compound): wording
+wording (dobj): Use
+. (punct): Use
+
+ (dep): .
+Reflect (ROOT): Reflect
+professionalism (dobj): Reflect
+and (cc): professionalism
+warmth (conj): professionalism
+. (punct): Reflect
+
+ (dep): .
+Short (amod): response
+response (nsubj): is
+is (ROOT): is
+fine (acomp): is
+. (punct): is
+
+ (dep): .
+Match (ROOT): Match
+their (poss): phrase
+phrase (dobj): Match
+. (punct): Match
+
+ (dep): .
+Add (ROOT): Add
+slight (amod): positivity
+positivity (dobj): Add
+. (punct): Add
+
+ (dep): .
+Let (ROOT): Let
+’s (nsubj): sound
+not (neg): sound
+sound (ccomp): Let
+dry (acomp): sound
+. (punct): Let
+
+ (dep): .
+Be (ROOT): Be
+a (det): presence
+helpful (amod): presence
+presence (attr): Be
+. (punct): Be
+
+ (dep): .
+Start (nmod): tone
+- (punct): Start
+of (prep): Start
+- (punct): of
+day (pobj): of
+tone (ROOT): tone
+. (punct): tone
+
+ (dep): .
+May (aux): set
+set (ROOT): set
+mood (dobj): set
+for (prep): set
+rest (pobj): for
+of (prep): rest
+chat (pobj): of
+. (punct): set
+
+ (dep): .
+Be (ROOT): Be
+brief (acomp): Be
+, (punct): Be
+light (acomp): Be
+. (punct): Be
+
+ (dep): .
+Reply (ROOT): Reply
+like (prep): Reply
+a (det): assistant
+helpful (amod): assistant
+assistant (pobj): like
+, (punct): assistant
+not (neg): assistant
+a (det): bot
+bot (appos): assistant
+. (punct): Reply
+
+ (dep): .
+Do (aux): overthink
+n’t (punct): Do
+overthink (ROOT): overthink
+. (punct): overthink
+
+ (dep): .
+Let (ROOT): Let
+the (det): user
+user (nsubj): guide
+guide (ccomp): Let
+next (amod): step
+step (npadvmod): guide
+. (punct): Let
+
+ (dep): .
+Time (ROOT): Time
+to (aux): reply
+reply (relcl): Time
+. (punct): Time
+
+ (dep): .
+] (punct): morning
+
+
+ (dep): ]
+Good (amod): morning
+morning (ROOT): morning
+! (punct): morning
+Hope (ROOT): Hope
+your (poss): day
+day (nsubj): ’s
+’s (ccomp): Hope
+off (prt): ’s
+to (prep): off
+a (det): start
+great (amod): start
+start (pobj): to
+. (punct): Hope
+How (advmod): help
+can (aux): help
+I (nsubj): help
+help (ROOT): help
+? (punct): help
+
+
+ (dep): ?
+User (ROOT): User
+: (punct): User
+hey (intj): User
+there (advmod): Assistant
+
+ (dep): there
+Assistant (appos): User
+: (punct): Assistant
+[ (dep): is
+Thought (dep): is
+: (punct): Thought
+
+ (dep): :
+“ (punct): is
+Hey (intj): is
+there (expl): is
+” (punct): is
+is (ROOT): is
+casual (acomp): is
+but (cc): casual
+friendly (conj): casual
+. (punct): is
+
+ (dep): .
+User (nsubj): sounds
+sounds (ROOT): sounds
+approachable (acomp): sounds
+. (punct): sounds
+
+ (dep): .
+Likely (advmod): relaxed
+relaxed (amod): tone
+tone (ROOT): tone
+. (punct): tone
+
+ (dep): .
+They (nsubj): expect
+may (aux): expect
+expect (ROOT): expect
+warmth (dobj): expect
+in (prep): warmth
+reply (pobj): in
+. (punct): expect
+
+ (dep): .
+Tone (nsubj): is
+is (ROOT): is
+slightly (advmod): more
+more (advmod): personal
+personal (acomp): is
+than (prep): personal
+“ (punct): than
+hey (intj): than
+. (punct): is
+” (punct): is
+
+ (dep): ”
+I (nsubj): mirror
+should (aux): mirror
+mirror (ROOT): mirror
+the (det): vibe
+vibe (dobj): mirror
+. (punct): mirror
+
+ (dep): .
+Add (ROOT): Add
+light (amod): friendliness
+friendliness (dobj): Add
+. (punct): Add
+
+ (dep): .
+Avoid (ROOT): Avoid
+too (advmod): much
+much (amod): formality
+formality (dobj): Avoid
+. (punct): Avoid
+
+ (dep): .
+Do (aux): overthink
+n’t (neg): overthink
+overthink (ROOT): overthink
+the (det): meaning
+meaning (dobj): overthink
+. (punct): overthink
+
+ (dep): .
+Just (advmod): welcome
+welcome (ROOT): welcome
+them (dobj): welcome
+in (prt): welcome
+. (punct): welcome
+
+ (dep): .
+They (nsubj): follow
+may (aux): follow
+follow (ROOT): follow
+up (prt): follow
+with (prep): follow
+something (pobj): with
+specific (amod): something
+. (punct): follow
+
+ (dep): .
+My (poss): response
+response (nsubj): encourage
+should (aux): encourage
+encourage (ROOT): encourage
+that (dobj): encourage
+. (punct): encourage
+
+ (dep): .
+Tone (compound): match
+match (nsubj): is
+is (ROOT): is
+key (acomp): is
+. (punct): is
+
+ (dep): .
+Be (ROOT): Be
+cheerful (acomp): Be
+. (punct): Be
+
+ (dep): .
+Sincere (ROOT): Sincere
+. (punct): Sincere
+
+ (dep): .
+Leave (ROOT): Leave
+space (dobj): Leave
+for (mark): respond
+them (nsubj): respond
+to (aux): respond
+respond (advcl): Leave
+. (punct): Leave
+
+ (dep): .
+Use (ROOT): Use
+plain (amod): language
+language (dobj): Use
+. (punct): Use
+
+ (dep): .
+Do (aux): try
+n’t (neg): try
+try (ROOT): try
+to (aux): overdo
+overdo (xcomp): try
+it (dobj): overdo
+. (punct): try
+
+ (dep): .
+Relaxed (nsubj): is
+is (ROOT): is
+best (acomp): is
+here (advmod): is
+. (punct): is
+
+ (dep): .
+Tone (compound): matching
+- (punct): matching
+matching (nsubj): boosts
+boosts (ROOT): boosts
+user (compound): trust
+trust (dobj): boosts
+. (punct): boosts
+
+ (dep): .
+Feels (ROOT): Feels
+more (advmod): human
+human (acomp): Feels
+. (punct): Feels
+
+ (dep): .
+Small (amod): matters
+talk (compound): matters
+matters (ROOT): matters
+. (punct): matters
+
+ (dep): .
+They (nsubj): testing
+may (aux): testing
+be (aux): testing
+testing (ROOT): testing
+tone (compound): detection
+detection (dobj): testing
+. (punct): testing
+
+ (dep): .
+Do (aux): miss
+n’t (neg): miss
+miss (ROOT): miss
+the (det): chance
+chance (dobj): miss
+. (punct): miss
+
+ (dep): .
+Now (advmod): responding
+responding (ROOT): responding
+. (punct): responding
+
+ (dep): .
+] (ROOT): ]
+
+
+ (dep): ]
+Hey (ROOT): Hey
+there (advmod): Hey
+! (punct): Hey
+What (nsubj): brings
+brings (ROOT): brings
+you (dobj): brings
+here (advmod): brings
+today (npadvmod): brings
+? (punct): brings
+
+
+ (dep): ?
+User (dobj): brings
+: (punct): User
+hii (compound): Assistant
+
+ (dep): hii
+Assistant (appos): User
+: (punct): User
+[ (dep): is
+Thought (nmod): Hii
+: (punct): Hii
+
+ (dep): :
+“ (punct): Hii
+Hii (nsubj): is
+” (punct): Hii
+with (prep): Hii
+double (amod): i
+“ (punct): i
+i (nsubj): is
+” (punct): is
+is (ROOT): is
+playful (acomp): is
+or (cc): playful
+casual (conj): playful
+. (punct): is
+
+ (dep): .
+Tone (nsubj): is
+is (ROOT): is
+friendly (acomp): is
+. (punct): is
+
+ (dep): .
+User (nsubj): be
+may (aux): be
+be (ROOT): be
+in (prep): be
+a (det): mood
+relaxed (amod): mood
+mood (pobj): in
+. (punct): be
+
+ (dep): .
+Sometimes (advmod): use
+young (amod): users
+users (nsubj): use
+use (ROOT): use
+this (det): style
+style (dobj): use
+. (punct): use
+
+ (dep): .
+I (nsubj): respond
+’ll (aux): respond
+respond (ROOT): respond
+with (prep): respond
+a (det): vibe
+similar (amod): vibe
+vibe (pobj): with
+. (punct): respond
+
+ (dep): .
+Do (aux): go
+n’t (neg): go
+go (ROOT): go
+over (prep): go
+the (det): top
+top (pobj): over
+. (punct): go
+
+ (dep): .
+Avoid (ROOT): Avoid
+sounding (xcomp): Avoid
+scripted (acomp): sounding
+. (punct): Avoid
+
+ (dep): .
+Keep (ROOT): Keep
+reply (dobj): Keep
+soft (amod): reply
+and (cc): soft
+open (conj): soft
+. (punct): Keep
+
+ (dep): .
+Be (ROOT): Be
+warm (acomp): Be
+. (punct): Be
+
+ (dep): .
+This (nsubj): is
+is (ROOT): is
+not (neg): is
+a (det): query
+deep (amod): query
+query (attr): is
+. (punct): is
+
+ (dep): .
+Just (advmod): start
+a (det): start
+social (amod): start
+start (ROOT): start
+. (punct): start
+
+ (dep): .
+Keep (ROOT): Keep
+door (dobj): Keep
+open (oprd): Keep
+for (mark): lead
+them (nsubj): lead
+to (aux): lead
+lead (advcl): Keep
+. (punct): Keep
+
+ (dep): .
+Use (ROOT): Use
+natural (amod): language
+language (dobj): Use
+. (punct): Use
+
+ (dep): .
+Include (ROOT): Include
+kindness (dobj): Include
+. (punct): Include
+
+ (dep): .
+No (det): responses
+overly (advmod): technical
+technical (amod): responses
+responses (ROOT): responses
+. (punct): responses
+
+ (dep): .
+This (nsubj): is
+is (ROOT): is
+a (det): chance
+chance (attr): is
+to (aux): build
+build (acl): chance
+rapport (dobj): build
+. (punct): is
+
+ (dep): .
+No (det): intent
+strong (amod): intent
+intent (nsubj): Let
+shown (acl): intent
+. (punct): intent
+
+ (dep): .
+Let (ROOT): Let
+the (det): flow
+conversation (compound): flow
+flow (ccomp): Let
+. (punct): Let
+
+ (dep): .
+Short (amod): response
+and (cc): Short
+fun (conj): Short
+response (nsubj): Feels
+. (punct): response
+
+ (dep): .
+Feels (ROOT): Feels
+natural (acomp): Feels
+. (punct): Feels
+
+ (dep): .
+I (nsubj): sound
+’ll (aux): sound
+sound (ROOT): sound
+present (acomp): sound
+and (cc): present
+alive (conj): present
+. (punct): sound
+
+ (dep): .
+Let (ROOT): Let
+’s (nsubj): begin
+begin (ccomp): Let
+. (punct): Let
+
+ (dep): .
+] (punct): Hii
+
+
+ (dep): ]
+Hii (dobj): Let
+! (punct): Let
+How (advmod): help
+can (aux): help
+I (nsubj): help
+help (ROOT): help
+you (dobj): help
+today (npadvmod): help
+? (punct): help
+
+
+ (dep): ?
+User (ROOT): User
+: (punct): User
+what (nsubj): ’s
+’s (appos): User
+up (prep): ’s
+
+ (dep): up
+Assistant (pobj): up
+: (punct): User
+[ (dep): is
+Thought (dep): is
+: (punct): Thought
+
+ (dep): :
+“ (punct): is
+What (nsubj): ’s
+’s (csubj): is
+up (prep): ’s
+” (punct): is
+is (ROOT): is
+extremely (advmod): casual
+casual (acomp): is
+. (punct): is
+
+ (dep): .
+User (nsubj): wants
+likely (advmod): wants
+just (advmod): wants
+wants (ROOT): wants
+to (aux): interact
+interact (xcomp): wants
+. (punct): wants
+
+ (dep): .
+No (det): urgency
+urgency (ROOT): urgency
+or (cc): urgency
+task (conj): urgency
+. (punct): urgency
+
+ (dep): .
+Tone (nsubj): is
+is (ROOT): is
+playful (acomp): is
+. (punct): is
+
+ (dep): .
+Could (aux): be
+be (ROOT): be
+small (amod): talk
+talk (attr): be
+or (cc): talk
+lead (compound): in
+- (punct): in
+in (conj): talk
+. (punct): be
+
+ (dep): .
+I (nsubj): respond
+’ll (aux): respond
+respond (ROOT): respond
+similarly (advmod): respond
+. (punct): respond
+
+ (dep): .
+Do (aux): be
+n’t (neg): be
+be (ROOT): be
+stiff (acomp): be
+. (punct): be
+
+ (dep): .
+Maybe (advmod): say
+say (ROOT): say
+“ (punct): say
+not (neg): much
+much (dobj): say
+, (punct): much
+you (appos): much
+? (punct): say
+” (punct): say
+or (cc): say
+similar (conj): say
+. (punct): say
+
+ (dep): .
+Keep (ROOT): Keep
+it (dobj): Keep
+brief (oprd): Keep
+. (punct): Keep
+
+ (dep): .
+Avoid (ROOT): Avoid
+overly (advmod): helpful
+helpful (amod): tone
+tone (dobj): Avoid
+. (punct): Avoid
+
+ (dep): .
+This (nsubj): is
+is (ROOT): is
+about (prep): is
+tone (compound): matching
+- (punct): matching
+matching (pobj): about
+. (punct): is
+
+ (dep): .
+Casual (compound): words
+words (ROOT): words
+. (punct): words
+
+ (dep): .
+Use (compound): slang
+slang (npadvmod): fitting
+if (mark): fitting
+fitting (ROOT): fitting
+. (punct): fitting
+
+ (dep): .
+Feels (ROOT): Feels
+like (prep): Feels
+Gen (nmod): presence
+- (punct): Show
+Z. (compound): Show
+
+ (dep): Z.
+Show (compound): presence
+presence (pobj): like
+, (punct): presence
+not (neg): presence
+formality (appos): presence
+. (punct): Feels
+
+ (dep): .
+Let (ROOT): Let
+’s (nsubj): sound
+sound (ccomp): Let
+cool (amod): robotic
+, (punct): robotic
+not (neg): robotic
+robotic (acomp): sound
+. (punct): Let
+
+ (dep): .
+Invite (ROOT): Invite
+chat (dobj): Invite
+. (punct): Invite
+
+ (dep): .
+Mirror (ROOT): Mirror
+their (poss): vibe
+social (amod): vibe
+vibe (appos): Mirror
+. (punct): Mirror
+
+ (dep): .
+Great (amod): time
+time (ROOT): time
+to (aux): connect
+connect (relcl): time
+. (punct): time
+
+ (dep): .
+Keep (ROOT): Keep
+language (dobj): Keep
+tight (advmod): Keep
+. (punct): Keep
+
+ (dep): .
+Positive (amod): tone
+tone (ROOT): tone
+. (punct): tone
+
+ (dep): .
+Reply (ROOT): Reply
+with (prep): Reply
+energy (pobj): with
+. (punct): Reply
+
+ (dep): .
+Let (ROOT): Let
+’s (nsubj): go
+go (ccomp): Let
+. (punct): Let
+
+ (dep): .
+] (punct): .
+
+
+ (dep): ]
+Hey (ROOT): Hey
+! (punct): Hey
+Not (neg): much
+much (advmod): help
+, (punct): help
+just (advmod): here
+here (advmod): help
+to (aux): help
+help (ROOT): help
+. (punct): help
+What (nsubj): ’s
+’s (ROOT): ’s
+on (prep): ’s
+your (poss): mind
+mind (pobj): on
+? (punct): ’s
+
+
+ (dep): ?
+User (nsubj): ’s
+: (punct): User
+yo (compound): Assistant
+
+ (dep): yo
+Assistant (appos): User
+: (punct): User
+[ (dep): said
+Thought (dep): said
+: (punct): Thought
+
+ (dep): :
+User (nsubj): said
+said (ROOT): said
+“ (punct): said
+yo (intj): said
+. (punct): said
+” (punct): said
+
+ (dep): ”
+Very (advmod): informal
+informal (amod): greeting
+greeting (dobj): said
+. (punct): said
+
+ (dep): .
+Tone (nsubj): is
+is (ROOT): is
+street (compound): style
+- (punct): style
+style (attr): is
+, (punct): style
+Gen (appos): style
+- (punct): Gen
+Z (conj): Gen
+, (punct): Z
+or (cc): Z
+gamer (compound): like
+- (punct): like
+like (conj): Z
+. (punct): is
+
+ (dep): .
+This (nsubj): is
+is (ROOT): is
+social (amod): play
+play (attr): is
+. (punct): is
+
+ (dep): .
+Response (nsubj): mirror
+should (aux): mirror
+mirror (ROOT): mirror
+tone (dobj): mirror
+. (punct): mirror
+
+ (dep): .
+Keep (ROOT): Keep
+it (dobj): Keep
+short (oprd): Keep
+. (punct): Keep
+
+ (dep): .
+Avoid (ROOT): Avoid
+anything (dobj): Avoid
+formal (amod): anything
+. (punct): Avoid
+
+ (dep): .
+Not (neg): time
+a (det): time
+time (ROOT): time
+for (prep): time
+robotic (amod): language
+language (pobj): for
+. (punct): time
+
+ (dep): .
+Just (advmod): return
+return (ROOT): return
+the (det): energy
+energy (dobj): return
+. (punct): return
+
+ (dep): .
+Maybe (advmod): add
+add (ROOT): add
+slang (dobj): add
+. (punct): add
+
+ (dep): .
+Be (ROOT): Be
+modern (acomp): Be
+. (punct): Be
+
+ (dep): .
+User (nsubj): want
+may (aux): want
+want (ROOT): want
+a (det): response
+chill (compound): response
+response (dobj): want
+. (punct): want
+
+ (dep): .
+Could (aux): be
+be (ROOT): be
+a (det): test
+test (attr): be
+. (punct): be
+
+ (dep): .
+Sound (ROOT): Sound
+natural (acomp): Sound
+. (punct): Sound
+
+ (dep): .
+This (nsubj): is
+is (ROOT): is
+personality (compound): showcase
+showcase (attr): is
+. (punct): is
+
+ (dep): .
+Slight (amod): humor
+humor (nsubj): is
+is (ROOT): is
+okay (acomp): is
+. (punct): is
+
+ (dep): .
+Do (aux): sound
+n’t (neg): sound
+sound (ROOT): sound
+fake (acomp): sound
+. (punct): sound
+
+ (dep): .
+Chill (compound): tone
+tone (ROOT): tone
+. (punct): tone
+
+ (dep): .
+Vibe (nsubj): is
+is (ROOT): is
+light (acomp): is
+. (punct): is
+
+ (dep): .
+Let (ROOT): Let
+’s (nsubj): answer
+answer (xcomp): Let
+coolly (advmod): answer
+. (punct): Let
+
+ (dep): .
+Encourage (ROOT): Encourage
+more (amod): conversation
+conversation (dobj): Encourage
+. (punct): Encourage
+
+ (dep): .
+Time (ROOT): Time
+to (aux): respond
+respond (relcl): Time
+. (punct): Time
+
+ (dep): .
+] (punct): Time
+
+
+ (dep): ]
+Yo (appos): Time
+! (punct): Yo
+✌ (punct): Time
+What (nsubj): ’s
+’s (ROOT): ’s
+up (prep): ’s
+? (punct): ’s
+Need (ROOT): Need
+a (det): hand
+hand (dobj): Need
+with (prep): Need
+something (pobj): with
+? (punct): Need
+
+
+ (dep): ?
+User (ROOT): User
+: (punct): User
+greetings (compound): Assistant
+
+ (dep): greetings
+Assistant (appos): User
+: (punct): Assistant
+[ (dep): is
+Thought (dep): is
+: (punct): Greetings
+
+ (dep): :
+“ (punct): Greetings
+Greetings (nsubj): is
+” (punct): Greetings
+is (ROOT): is
+formal (amod): school
+and (cc): formal
+old (conj): formal
+- (punct): school
+school (attr): is
+. (punct): is
+
+ (dep): .
+Unusual (ROOT): Unusual
+in (prep): Unusual
+modern (amod): chat
+chat (pobj): in
+. (punct): Unusual
+
+ (dep): .
+User (nsubj): experimenting
+may (aux): experimenting
+be (aux): experimenting
+experimenting (ROOT): experimenting
+. (punct): experimenting
+
+ (dep): .
+Or (cc): trying
+trying (ROOT): trying
+something (dobj): trying
+fun (amod): something
+. (punct): trying
+
+ (dep): .
+I (nsubj): match
+should (aux): match
+match (ROOT): match
+the (det): tone
+tone (dobj): match
+first (advmod): match
+. (punct): match
+
+ (dep): .
+Then (advmod): modernize
+smoothly (advmod): modernize
+modernize (ROOT): modernize
+. (punct): modernize
+
+ (dep): .
+Formal (amod): reply
+reply (ROOT): reply
++ (cc): reply
+helpful (amod): tone
+tone (conj): reply
+. (punct): reply
+
+ (dep): .
+Use (ROOT): Use
+polite (amod): words
+words (dobj): Use
+. (punct): Use
+
+ (dep): .
+Do (aux): overplay
+n’t (neg): overplay
+overplay (ROOT): overplay
+formality (dobj): overplay
+. (punct): overplay
+
+ (dep): .
+Reply (nsubj): feel
+should (aux): feel
+feel (ROOT): feel
+respectful (acomp): feel
+. (punct): feel
+
+ (dep): .
+And (cc): inviting
+inviting (ROOT): inviting
+. (punct): inviting
+
+ (dep): .
+“ (punct): Greetings
+Greetings (nsubj): is
+! (punct): Greetings
+” (punct): Greetings
+is (ROOT): is
+good (amod): echo
+echo (attr): is
+. (punct): is
+
+ (dep): .
+Then (advmod): shift
+shift (ROOT): shift
+to (aux): help
+help (advcl): shift
+mode (dobj): help
+. (punct): shift
+
+ (dep): .
+User (nsubj): be
+may (aux): be
+be (ROOT): be
+role (compound): playing
+- (punct): playing
+playing (attr): be
+. (punct): be
+
+ (dep): .
+Or (cc): curious
+just (advmod): curious
+curious (ROOT): curious
+. (punct): curious
+
+ (dep): .
+Mirror (ROOT): Mirror
+and (cc): Mirror
+lead (conj): Mirror
+. (punct): Mirror
+
+ (dep): .
+Be (ROOT): Be
+friendly (acomp): Be
+. (punct): Be
+
+ (dep): .
+Do (aux): be
+n’t (neg): be
+be (ROOT): be
+overly (advmod): stiff
+stiff (acomp): be
+. (punct): be
+
+ (dep): .
+Blend (compound): style
+style (ROOT): style
+and (cc): style
+warmth (conj): style
+. (punct): style
+
+ (dep): .
+Now (advmod): replying
+replying (ROOT): replying
+. (punct): replying
+
+ (dep): .
+] (punct): Greetings
+
+
+ (dep): ]
+Greetings (dobj): replying
+! (punct): replying
+How (advmod): assist
+may (aux): assist
+I (nsubj): assist
+assist (ROOT): assist
+you (dobj): assist
+today (npadvmod): assist
+? (punct): assist
+
+
+ (dep): ?

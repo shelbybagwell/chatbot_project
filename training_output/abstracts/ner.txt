@@ -1,0 +1,5335 @@
+Venus ORG
+Earth LOC
+today DATE
+Earth LOC
+Venus PERSON
+VERITAS PERSON
+Mercury ORG
+Mars LOC
+Moon PERSON
+VERITAS PERSON
+Earth LOC
+VERITAS PERSON
+the Venus Interferometric Synthetic Aperture Radar ORG
+the Venus Emissivity Mapper ORG
+1 CARDINAL
+250 CARDINAL
+6 CARDINAL
+2 CARDINAL
+30 CARDINAL
+3 CARDINAL
+15 CARDINAL
+4 CARDINAL
+2-cm QUANTITY
+200\ CARDINAL
+\boldsymbol PERSON
+six CARDINAL
+NIR ORG
+five CARDINAL
+eight CARDINAL
+VERITAS PERSON
+two CARDINAL
+\boldsymbol PERSON
+0.01 CARDINAL
+Rayleigh−1 pixel−1 ORG
+140–180 CARDINAL
+two CARDINAL
+two CARDINAL
+WAI ORG
+China GPE
+Earth LOC
+Earth LOC
+Xiao-Xin Zhang PERSON
+Bo Chen PERSON
+two CARDINAL
+Earth LOC
+10 kilometer QUANTITY
+Xianan Jiang∗,§ PERSON
+Daehyun PERSON
+Eric D. Maloney‡,‖ PERSON
+Institute for Regional Earth System Science & Engineering ORG
+University of California ORG
+Los Angeles GPE
+CA 900035 DATE
+USA †Department of Atmospheric Sciences ORG
+University of Washington ORG
+Seattle GPE
+Colorado State University ORG
+Fort Collins GPE
+USA § ORG
+‖emaloney@atmos.colostate.edu
+Climate ORG
+Carbon Dioxide (CO2 ORG
+Methane PERSON
+CH4 ORG
+The Inter-Governmental Panel on Climatic Change ORG
+Fifth Assessment Report FAC
+International Journal of Current Microbiology and Applied Sciences ORG
+2319-7706 PERCENT
+7 Number 02 (2018 DATE
+Journal ORG
+India GPE
+1.25 + billion MONEY
+Projected ORG
+of1.6 billion MONEY
+2050 DATE
+four CARDINAL
+three CARDINAL
+six CARDINAL
+Anthropocene GPE
+SOC ORG
+India GPE
+SOC ORG
+C Sequestration ORG
+Carbon ORG
+Smart ORG
+17 January 2018 DATE
+10 February 2018 DATE
+Info Int PERSON
+Sci PERSON
+2018 DATE
+7(2 CARDINAL
+1668-1673 1669 DATE
+almost two-third CARDINAL
+India GPE
+IPCC ORG
+2014 DATE
+two CARDINAL
+Indian NORP
+GHG ORG
+GHG Agriculture ORG
+CH4 ORG
+CO2 PRODUCT
+CH4 ORG
+CH4 ORG
+Continuous PERSON
+Puddled GPE
+CH4 ORG
+CH4 ORG
+One CARDINAL
+Int ORG
+Sci PERSON
+2018 DATE
+7(2 CARDINAL
+1668-1673 1670 DATE
+about 40 CARDINAL
+150 CARDINAL
+20% PERCENT
+2011 CO2 DATE
+CH4 ORG
+400 CARDINAL
+2013 DATE
+CO2 PRODUCT
+carbon(C ORG
+Srinivasa Rao PERSON
+2016 DATE
+Secondly ORDINAL
+Schrag GPE
+2007 DATE
+30 to 75% PERCENT
+SOC ORG
+Lal et al. PERSON
+2007 DATE
+AFOLU ORG
+less than 25% PERCENT
+12 CARDINAL
+/year DATE
+GHG ORG
+Srinivasa Rao PERSON
+2013 DATE
+the ESA Copernicus ORG
+Earth LOC
+Earth LOC
+Earth LOC
+Earth LOC
+MAR ORG
+Queen Maud Land PERSON
+daily DATE
+two CARDINAL
+’s PRODUCT
+Earth LOC
+one CARDINAL
+GIANT ORG
+Hack PERSON
+GIANT ORG
+GIANT ORG
+U.S. GPE
+AeroCom ORG
+GIANT ORG
+two CARDINAL
+the Community Earth System Model ORG
+NCEP ORG
+two CARDINAL
+0.1 CARDINAL
+0.1 degrees QUANTITY
+0.25 CARDINAL
+0.25 degrees QUANTITY
+200 CARDINAL
+100 CARDINAL
+the last 66 DATE
+two CARDINAL
+11 CARDINAL
+3.4 CARDINAL
+200 CARDINAL
+2.5 CARDINAL
+2.5 degrees QUANTITY
+68 CARDINAL
+1949–2016 CARDINAL
+12 CARDINAL
+3.6 CARDINAL
+two CARDINAL
+the North Paciﬁc LOC
+North Atlantic LOC
+the Paciﬁc Decadal Oscillation FAC
+North Atlantic LOC
+two CARDINAL
+11–12-yr TIME
+CESM ORG
+CESM ORG
+12 CARDINAL
+11 CARDINAL
+Manuscript PERSON
+April 20, 2020 DATE
+April 20, 2020 DATE
+May 4, 2020 DATE
+Mehdi Darvishi PERSON
+the Institute for Earth Observation ORG
+Eurac Research ORG
+39100 CARDINAL
+Italy GPE
+the Department of Information Engineering ORG
+Computer Science, University of Trento ORG
+38122 DATE
+Trento GPE
+Italy GPE
+Giovanni Cuozzo PERSON
+the Institute for Earth Observation ORG
+Eurac Research ORG
+39100 CARDINAL
+Italy GPE
+Lorenzo Bruzzone PERSON
+the Department of Information Engineering ORG
+Computer Science, University of Trento ORG
+38122 DATE
+Trento GPE
+Italy GPE
+Faramarz Nilfouroushan PERSON
+the Faculty of Engineering and Sustainable Development ORG
+ATM ORG
+University of Gävle ORG
+76 DATE
+Sweden GPE
+the Geodata Division ORG
+Lantmäteriet GPE
+802 64 Gävle PERCENT
+Sweden GPE
+Digital ORG
+College Park GPE
+MD GPE
+20740 DATE
+USA 2State Key Laboratory ORG
+Institute of Remote Sensing ORG
+Digital Earth ORG
+Chinese Academy of Sciences ORG
+100101 DATE
+China GPE
+Environmental Health, Rollins School of Public Health, Emory University ORG
+Atlanta GPE
+Nello Carrara” del Consiglio Nazionale delle Ricerche WORK_OF_ART
+IFAC-CNR ORG
+Sesto Fiorentino PERSON
+50019 DATE
+Firenze GPE
+Italy 5Universities Space Research Association ORG
+NASA ORG
+Greenbelt GPE
+MD GPE
+20771 DATE
+USA GPE
+Atmospheric Science PERSON
+University of Missouri ORG
+302 CARDINAL
+Anheuser Busch Natural Resources Building ORG
+Columbia GPE
+MO 65211 GPE
+Earth LOC
+Atmospheric Sciences ORG
+Cornell University ORG
+Bradfield Hall ORG
+Ithaca GPE
+NY 14853 ORG
+USA 3 State Key Laboratory of Severe Weather ORG
+Chinese Academy of Meteorological Sciences ORG
+46 CARDINAL
+Zhongguancun Southern Street PERSON
+Haidian GPE
+Beijing GPE
+100081 DATE
+China GPE
+Obukhov Institute of Atmospheric Physics ORG
+Russian Academy of Sciences ORG
+3 CARDINAL
+Pyzhevsky GPE
+Moscow GPE
+119017 DATE
+Russia GPE
+The World Multidisciplinary Earth Sciences ORG
+2016 DATE
+Prague GPE
+5th to 9th September, 2016 DATE
+WMESS 2015 EVENT
+more than 500 CARDINAL
+more than 50 CARDINAL
+Journal ORG
+175 CARDINAL
+four CARDINAL
+The World Multidisciplinary Earth Sciences ORG
+Earth Sciences ORG
+Tectonics & Structural Geology - Engineering Geology - Geotechnics - Hydro-Hydrogeological Sciences - Natural Hazards - Oil ORG
+Petrology & Volcanology - Stratigraphy, Sedimentology & Palaeontology - Geophysics & Seismology - Geodesy ORG
+Geoinformatics & Remote Sensing - Mining Engineering - Mineral Processing - Blasting & New Technologies - Natural Resources - Environmental Sciences - Energy, Resources & Pollution & the Environment - Environmental Legislation - Biogeosciences - Geological Heritage & Geoparks - Urban Planning - Atmospheric Sciences - Climatology - Glaciology - Modelling ORG
+Soft Computing Techniques PERSON
+Earth Sciences LOC
+World Multidisciplinary Earth Sciences Symposium - WMESS WORK_OF_ART
+Earth LOC
+Earth LOC
+This year DATE
+the Scientific Committee and Institutional Scientific Partners of ORG
+International Association for Engineering Geology & the Environment - IAEG ORG
+International Union of Soil Sciences ORG
+International Geographical Union - IGU ORG
+The International Association of Hydrogeologists - IAH ORG
+Geological Sciences of Italy - SGI ORG
+Czech NORP
+Arabian Geosciences Union - ArabGU ORG
+The Society of Economic Geology of Romania - SEGR ORG
+World Meteorological Organization - WMO ORG
+International Medical Geology Association - IMGA ORG
+Russian Mineralogical Society - RMS ORG
+University of Petrosani ORG
+Geological Society of Africa ORG
+WMESS GPE
+LAMA Gas & ORG
+This year DATE
+Marian Drusa PERSON
+Isik Yilmaz PERSON
+Marian Marschalko PERSON
+Anna Maria Ferrero PERSON
+Ibolya Torok GPE
+Nazan Yalcin Erik PERSON
+the World Multidisciplinary Earth Sciences Symposium – WMESS ORG
+2016 DATE
+Prague GPE
+2017 DATE
+Prague GPE
+Czech Republic GPE
+11-15 September, 2017 DATE
+18 CARDINAL
+Earth LOC
+Sun ORG
+Aim PERSON
+Ukraine GPE
+NOAA ORG
+Sentinel ORG
+the Institute of Agroecology and Environmental Economics ORG
+the National Academy of Agrarian Sciences ORG
+agrarian NORP
+Earth LOC
+Earth LOC
+SUC ORG
+01.1-37-907:2011 DATE
+three CARDINAL
+Chernihiv GPE
+Poltava ORG
+Zaporizhzhia PERSON
+two CARDINAL
+NDVI ORG
+the National Oceanic and Atmospheric Administration ORG
+NOAA ORG
+NDVI NORP
+NDVI ORG
+Polissia ORG
+0.64 CARDINAL
+0.77 CARDINAL
+Steppe FAC
+0.35 CARDINAL
+Zoboi PERSON
+Ibi PERSON
+My Life PRODUCT
+Penguin Random House PERSON
+2019 DATE
+Ibi Zoboi’s PERSON
+YA ORG
+Pride PRODUCT
+the National Book Award ORG
+American Street ORG
+Zoboi PERSON
+YA PERSON
+Zoboi PERSON
+sci- ORG
+Harlem LOC
+the summer of 1984 DATE
+Ebony-Grace Norfleet Freeman ORG
+E-Grace Starfleet ORG
+Nine CARDINAL
+Flavas ORG
+seventh ORDINAL
+Huntsville ORG
+New York City GPE
+the summer DATE
+NASA ORG
+Ebony-Grace ORG
+E-Grace Starfleet ORG
+Fleet PERSON
+the Sonic King on Planet Boom Box ORG
+the Sonic Boom ORG
+Huntsville ORG
+Harlem LOC
+one CARDINAL
+Nine CARDINAL
+Flavas ORG
+one CARDINAL
+Ebony-Grace ORG
+New York GPE
+Ebony-Grace’s ORG
+Ebony-Grace ORG
+New York GPE
+4 CARDINAL
+4 CARDINAL
+Amanda Daignault
+ PERSON
+PhD Candidate WORK_OF_ART
+the Department of English ORG
+the University of Alberta ORG
+China GPE
+summer monsoon TIME
+the 21st century DATE
+China GPE
+first ORDINAL
+China GPE
+five CARDINAL
+China GPE
+the Journal of Physics: Conference Series ORG
+the 2017 International Conference on Space Science and Communication EVENT
+Kuala Lumpur GPE
+Malaysia GPE
+May 3-5, 2017 DATE
+Space Science Centre ORG
+ANGKASA ORG
+Institute of Climate Change ORG
+Universiti ORG
+Malaysia GPE
+UKM ORG
+Space Science for Sustainability WORK_OF_ART
+fifth ORDINAL
+one CARDINAL
+four CARDINAL
+Astrophysics EVENT
+Astronomy, Atmospheric and Magnetospheric Sciences ORG
+Communication Technology ORG
+Space Exploration & Updates ORG
+5 May 2017 DATE
+More than 100 CARDINAL
+Europe LOC
+Asia LOC
+Australia GPE
+Africa LOC
+Americas LOC
+at least two CARDINAL
+Malaysian Communications ORG
+Multimedia Commission ORG
+Wayan Suparta PERSON
+Wayan Suparta PERSON
+Mahamod Ismail PERSON
+Mardina Abdullah PERSON
+Mohammad Rashed Iqbal Faruque Khairul Nizam PERSON
+Sabirin Abdullah Teh PERSON
+Leong Md Firoz PERSON
+Islam Siti PERSON
+Bahari Noridawaty PERSON
+Astronomy Surface PERSON
+K Anuar Limiting ORG
+the Langkawi National Observatory ORG
+C-C Ngeow and S-C Luo Limb ORG
+Langkawi National Observatory ORG
+5th ORDINAL
+F Kamarudin PERSON
+MR Tahar GPE
+Saibaka Comparison PERSON
+Malaysia GPE
+SIDC-SILSO N Rasmani ORG
+N S A Hamid ORG
+F Kamarudin PERSON
+W M A W M Kamil ORG
+I Sarudin Atmospheric and Magnetospheric Sciences ORG
+Bolgatanga-Ghana M E Emetere FAC
+Tunji-Olayen ORG
+M Bakeko PERSON
+L Onyechekwa GPE
+W Ayara Satellite ORG
+Monrovia-Liberia M E Emetere ORG
+F Esisio PRODUCT
+F Oladapo Effect PRODUCT
+DJF ORG
+L Onyechekwa GPE
+Tunji-Olayeni Aerosols PERSON
+SerekundaGambia M E Emetere ORG
+Ekene PERSON
+Covenant University ORG
+M R Usikalu ORG
+Ota ORG
+Nigeria GPE
+the year 2012 to 2015 DATE
+Sarudin, N S A Hamid, M Abdullah and S M Buhari Peak ORG
+N S A Hamid, H Liu ORG
+Uozumi ORG
+Yoshikawa ORG
+N M N Annadurai Comparison ORG
+Jicamarca S A Bello ORG
+N S A Hamid and B W Reinisch Irregularities ORG
+Antarctic Peninsula LOC
+W N A Wan Mohd Nor Derivation ORG
+Langkawi PERSON
+Malaysia GPE
+W S Chen ORG
+M Abdullah Longitudinal ORG
+EEJ ORG
+W N I Ismail, N S A Hamid, M Abdullah ORG
+Yoshikawa ORG
+Uozumi Response PERSON
+Antarctic Peninsula LOC
+N Yusop Geoscience PRODUCT
+Klang GPE
+Sulaiman FAC
+K N Abdul Maulud ORG
+Abdul Wahid PERSON
+A B Pour, M Hashim PRODUCT
+Y Park Mapping FAC
+Kelantan GPE
+Malaysia M Hashim ORG
+Misbari Spectral ORG
+Antarctic ORG
+A B Pour PRODUCT
+malaysia GPE
+OMI ORG
+Aura satellite ORG
+H S Lim and M Z Mat Jafri Measurement ORG
+Ibadan GPE
+the Prince William Sound ORG
+Alaska GPE
+Idris PERSON
+X Deng PERSON
+Selangor LOC
+GIS ORG
+S N Selamat, K N Abdul Maulud ORG
+Ahmad Estimation PERSON
+Penang GPE
+Malaysia GPE
+H S Lim Application ORG
+2D CARDINAL
+CPT ORG
+Lagos GPE
+E S Joel Satellite ORG
+Communication Technology Design ORG
+F Mohamed Design PRODUCT
+U ORG
+M. Amin PERSON
+28 CARDINAL
+N I Mohd Ali WORK_OF_ART
+N Misran LOC
+OFDM ORG
+Yuwono PERSON
+Ota ORG
+Southwest Nigeria GPE
+M R Usikalu ORG
+M Abdullah Installing PERSON
+Ka-band ORG
+Malaysia GPE
+M R Mahmud PRODUCT
+S W Jaw PERSON
+ANFIS ORG
+W Suparta GPE
+K M Alhasa and ORG
+Ota Southwestern Nigeria ORG
+K D Oyeyemi ORG
+M R Usikalu ORG
+J A Achuka and O Jonathan Micro WORK_OF_ART
+Mulyanti PERSON
+W S Putro ORG
+L Hasanah GPE
+A B Pantjawati Development ORG
+W A Ayara ORG
+W Suparta Background FAC
+Ota and Environs M R Usikalu ORG
+Antarctica LOC
+Suparta Photographs PERSON
+PDF ORG
+daily DATE
+Solar System ORG
+Solar System ORG
+Earth LOC
+the years ahead DATE
+the Mars Science Laboratory ORG
+MSL ORG
+Mars 2020 DATE
+Mars LOC
+Earth LOC
+1 CARDINAL
+Mars 2020 DATE
+Mars LOC
+EDL ORG
+MSL ORG
+2 CARDINAL
+3 CARDINAL
+July 2020 DATE
+Mars LOC
+February 2021 DATE
+Mars 2020 DATE
+Martian NORP
+Apollo ORG
+21.45 meter QUANTITY
+Mars LOC
+Sky Crane PRODUCT
+Mars 2020 DATE
+EDL ORG
+MSL ORG
+Mars 2020 DATE
+2020 DATE
+Mars LOC
+EDL ORG
+MSL ORG
+ASPIRE ORG
+Mars 2020 DATE
+Terrain Relative Navigation ORG
+TRN ORG
+Mars 2020 DATE
+40% PERCENT
+MSL ORG
+the Mars Entry, Descent ORG
+MSL MEDLI ORG
+first ORDINAL
+Mars Helicopter LOC
+EDL ORG
+EDL ORG
+EDL ORG
+July 2020 DATE
+third ORDINAL
+Earth LOC
+Wang ORG
+al ORG
+1999 DATE
+5-20μm DATE
+Al2O3 DATE
+alumina PERSON
+Materials Engineering ORG
+AlN ORG
+SOC ORG
+United States GPE
+SOC ORG
+Earth LOC
+seven CARDINAL
+SOC ORG
+30 CARDINAL
+metadata PERSON
+Jetstream GPE
+first ORDINAL
+NSF ORG
+Jetstream GPE
+Jetstream GPE
+the first year DATE
+Jetstream GPE
+US GPE
+Jetstream GPE
+Jetstream GPE
+Earth LOC
+a few to thousands CARDINAL
+three CARDINAL
+OGWD ORG
+AMIP ORG
+CMIP6 NORP
+OGWD ORG
+OGWD ORG
+OGWD ORG
+ELT-HIRES ORG
+Nasmyth ORG
+ELT ORG
+between 0.4 and 1.8 CARDINAL
+One CARDINAL
+Earth LOC
+UBVRI ORG
+two CARDINAL
+Wollaston ORG
+four CARDINAL
+Stokes ORG
+one CARDINAL
+four CARDINAL
+the Front End ORG
+Nasmyth ORG
+Phase A ORG
+10-5 S/I (S PERCENT
+one CARDINAL
+Stokes PERSON
+two CARDINAL
+Zernike GPE
+Eric Dupuy PERSON
+Isamu Morino PERSON
+Nicholas M. Deutscher PERSON
+2,3 CARDINAL
+Yukio Yoshida PERSON
+1 CARDINAL
+Brian J. Connor 4 PERSON
+Martine De Mazière PERSON
+David W. T. Griffith PERSON
+2 CARDINAL
+Frank Hase 6 PERSON
+Pauli Heikkinen 7 PERSON
+Patrick W. Hillyard 8,9 PERSON
+Laura T. Iraci PERSON
+Shuji Kawakami PERSON
+10 CARDINAL
+Rigel Kivi 7 PERSON
+1 CARDINAL
+3 CARDINAL
+Christof Petri PERSON
+James R. Podolske 8 PERSON
+David F. Pollard 11 PERSON
+Markus Rettinger 12 PERSON
+Coleen M. Roehl PERSON
+Vanessa Sherlock PERSON
+11 DATE
+Ralf Sussmann 12 PERSON
+Geoffrey C. Toon PERSON
+14 DATE
+Voltaire A. Velazco 2 PERSON
+Paul O. Wennberg PERSON
+13 CARDINAL
+Debra Wunch PERSON
+Tatsuya Yokota PERSON
+1 1 CARDINAL
+16 CARDINAL
+Tsukuba GPE
+Ibaraki 305-8506 ORG
+Japan GPE
+morino@nies.go.jp PERSON
+I.M. ORG
+Y.Y. GPE
+O.U. PERSON
+T.M. PERSON
+T.Y. GPE
+2 Center for Atmospheric Chemistry, ORG
+School of Chemistry ORG
+Northfields Ave ORG
+University of Wollongong ORG
+Wollongong PERSON
+NSW 2522 DATE
+Australia GPE
+ndeutsch@uow.edu.au GPE
+N.M.D. ORG
+griffith@uow.edu.au PERSON
+D.W.T.G. ORG
+V.A.V. ORG
+3 Institute of Environmental Physics ORG
+University of Bremen ORG
+Otto-Hahn-Allee PERSON
+1 CARDINAL
+Germany GPE
+J.N. ORG
+C.P. ORG
+4 CARDINAL
+BC Consulting Limited ORG
+6 CARDINAL
+Alexandra 9320 PERSON
+New Zealand GPE
+5 CARDINAL
+3 CARDINAL
+Avenue Circulaire PERSON
+Brussels B-1180 ORG
+Belgium GPE
+6 CARDINAL
+Karlsruhe Institute of Technology ORG
+IMK-ASF ORG
+Hermann-von-Helmholtz-Platz 1 PERSON
+Leopoldshafen 76344 PERSON
+Germany GPE
+7 CARDINAL
+FMI-Arctic Research Center ORG
+Sodankylä FIN-99600 ORG
+Finland GPE
+Pauli.Heikkinen@fmi.fi GPE
+P.H. ORG
+R.K. GPE
+8 CARDINAL
+NASA Ames Research Center ORG
+245 CARDINAL
+Moffett Field GPE
+CA 94035 DATE
+USA GPE
+P.W.H. ORG
+L.T.I. GPE
+J.R.P. ORG
+9 CARDINAL
+Bay Area Environmental Research Institute ORG
+625 CARDINAL
+209 CARDINAL
+Petaluma GPE
+CA 94952 DATE
+USA 10 Earth Observation Research Center ORG
+EORC ORG
+Japan Aerospace Exploration Agency ORG
+JAXA PERSON
+2 CARDINAL
+Tsukuba GPE
+Ibaraki NORP
+305-8505 DATE
+Japan GPE
+11 CARDINAL
+National Institute of Water and Atmospheric Research ORG
+NIWA ORG
+50061 DATE
+9352 DATE
+New Zealand GPE
+Dave.Pollard@niwa.co.nz ORG
+D.F.P. ORG
+vj.sherlock@gmail.com ORG
+V.S. GPE
+12 CARDINAL
+Karlsruhe Institute of Technology ORG
+IMK-IFU ORG
+Kreuzeckbahnstr PERSON
+19 CARDINAL
+Garmisch-Partenkirchen 82467 PERSON
+Germany GPE
+M.R. ORG
+R.S. GPE
+13 CARDINAL
+California Institute of Technology ORG
+131 CARDINAL
+E. California Blvd. ORG
+Pasadena GPE
+CA 91125 DATE
+USA GPE
+coleen@gps.caltech.edu GPE
+C.M.R. ORG
+14 CARDINAL
+Jet Propulsion Laboratory ORG
+California Institute of Technology ORG
+Pasadena GPE
+CA 91109 DATE
+USA GPE
+Department of Physics, ORG
+University of Toronto ORG
+60 CARDINAL
+St. George Street LOC
+Toronto GPE
+ON M5S 1A7 ORG
+Canada GPE
+five CARDINAL
+EFF ORG
+GATM ORG
+annual DATE
+CO2 PRODUCT
+SOCEAN ORG
+CO2 PRODUCT
+BIM ORG
+the last decade DATE
+2007–2016 CARDINAL
+EFF ORG
+9.4 CARDINAL
+0.5 CARDINAL
+0.7 CARDINAL
+4.7 CARDINAL
+0.1 CARDINAL
+SOCEAN ORG
+2.4 CARDINAL
+0.5 CARDINAL
+0.8 CARDINAL
+BIM ORG
+0.6 CARDINAL
+yr−1 CARDINAL
+year 2016 DATE
+EFF ORG
+approximately zero CARDINAL
+9.9 CARDINAL
+0.5 CARDINAL
+2016 DATE
+ELUC ORG
+1.3 CARDINAL
+0.7 CARDINAL
+GATM ORG
+6.1 CARDINAL
+0.2 CARDINAL
+SOCEAN ORG
+2.6 CARDINAL
+0.5 CARDINAL
+SLAND ORG
+2.7 CARDINAL
+1.0 CARDINAL
+BIM ORG
+−0.3 GPE
+2016 DATE
+the past decade DATE
+2007–2016 CARDINAL
+El Nino ORG
+402.8 CARDINAL
+0.1 CARDINAL
+2016 DATE
+2017 DATE
+the first 6–9 months DATE
+EFF ORG
++2.0 % ORG
+0.8 CARDINAL
+3.0 % PERCENT
+China GPE
+USA GPE
+India GPE
+Le Quere ORG
+2016 DATE
+2015b DATE
+2014 DATE
+2013 DATE
+https://doi.org/10.18160/GCP-2017 ORG
+2017 DATE
+LES ORG
+Reynolds ORG
+three CARDINAL
+LES ORG
+LES ORG
+LES ORG
+LES ORG
+LES ORG
+Fortran PRODUCT
+LES ORG
+Predicting INteractions of Aerosol and Clouds ORG
+the Department of Energy’s Earth System Model Development ORG
+Enabling Aerosol-cloud PERSON
+EAGLES GPE
+LES ORG
+a fiscal year 2021 DATE
+Seed Laboratory Directed Research Project ORG
+two CARDINAL
+First ORDINAL
+Second ORDINAL
+DOE ORG
+Significance Motivated PERSON
+the atmospheric sciences ORG
+Earth LOC
+the past few years DATE
+One CARDINAL
+Granger Causality GPE
+1 CARDINAL
+2 CARDINAL
+GHG Emissions PERSON
+3 CARDINAL
+Herfindahl-Hirschman Index ORG
+HHI ORG
+ReferencesAstana ORG
+T. GPE
+Ayşe GPE
+2013 DATE
+The Impact of Electricity Consumption on Economic Development ORG
+Istanbul University School of Economics ORG
+Edomah ORG
+N. PERSON
+2018 DATE
+10.1016/B978-0 CARDINAL
+Elahee PERSON
+K. PERSON
+2004 DATE
+March 06, 2015 DATE
+International Research Foundation for Development Research ORG
+Policy and Planning Bureau - Department of Energy Philippines ORG
+2014 DATE
+Philippine Energy Plan 2012-2030 ORG
+Department of Energy ORG
+D. NORP
+2003 DATE
+Econometrics ORG
+4th Ed PERSON
+McGraw-Hill ORG
+Hamilton PERSON
+C. PERSON
+Kellett PERSON
+J. & Moore ORG
+T. PERSON
+2021 DATE
+Hossain PERSON
+Mondal et al. PERSON
+2018 DATE
+Philippines GPE
+Atomic Energy Agency ORG
+2005 DATE
+2005 DATE
+IAEA.International Energy Agency ORG
+2013 DATE
+2010 DATE
+Paris GPE
+IEA.Kanchana ORG
+K. & Unesaki ORG
+2014 DATE
+ASEAN Energy Security ORG
+Assessment ORG
+56 CARDINAL
+163–171 CARDINAL
+10.1016 CARDINAL
+2014 DATE
+Renewable Energy Production ORG
+China GPE
+University of Colorado Boulder ORG
+Mendoza Jr PERSON
+Cayonte GPE
+D. D. D. NORP
+Leabres PERSON
+M. S., & Manaligod PERSON
+L. R. A. PERSON
+2019 DATE
+Philippines GPE
+133 CARDINAL
+McDade GPE
+Lallement GPE
+D. NORP
+& Saghir ORG
+J. PERSON
+2005 DATE
+Energy Services ORG
+the Millennium Development Goals ORG
+The International Bank for Reconstruction and Development/TheWorld Bank/ESMAP.Modi ORG
+McDade GPE
+Lallement GPE
+D. NORP
+& Saghir ORG
+J. PERSON
+2005 DATE
+Energy Services ORG
+the Millennium Development Goals ORG
+United Nations Development Programme ORG
+Navarro ORG
+J. L. PERSON
+October 2013 DATE
+Energy Market Integration and Energy Poverty ORG
+ASEAN ORG
+October 2000 DATE
+Global Energy Futures and Human Development ORG
+Department of Energy ORG
+n.d. GPE
+2020 DATE
+D.I. GPE
+2004 DATE
+J. E. PERSON
+2009 DATE
+the Measurement of Economic Performance and ORG
+Social Progress ORG
+Corporation for Atmospheric Research ORG
+UCAR ORG
+https://scied.ucar.edu/learning-zone/how-climateworks/greenhouse-effect.U.S. Energy Information Association ORG
+2013 DATE
+March 22 DATE
+Today DATE
+Energy GPE
+February 28, 2014 DATE
+U.S. Energy Information Association - Independent Statistics ORG
+Analysis ORG
+Center for Social Research Method ORG
+n.d. GPE
+March 15, 2015 DATE
+http://www.socialresearchmethods.net/kb/convdisc.phpWorld Business Council for Sustainable Development ORG
+2012 DATE
+Zou PERSON
+Xiaohua PERSON
+2018 DATE
+VECM Model Analysis of Carbon Emissions ORG
+International Crude Oil Prices ORG
+Infrared Exoplanet Large PERSON
+one CARDINAL
+three CARDINAL
+M4 PRODUCT
+the Cosmic Vision ORG
+the European Space Agency ORG
+ESA ORG
+ARIEL ORG
+European NORP
+ESA ORG
+M4 PRODUCT
+November 2017 DATE
+ARIEL ORG
+hundreds CARDINAL
+Jupiter LOC
+F to M- PRODUCT
+Solar System ORG
+the Milky Way LOC
+between February and May 2017 DATE
+Phase B1 ORG
+M4 ORG
+POLarization ORG
+Reflectances for Atmospheric Sciences ORG
+Lidar FAC
+one CARDINAL
+PARASOL ORG
+AOD ORG
+The International Association of Meteorology and Atmospheric
+Sciences ORG
+IAMAS ORG
+1919 DATE
+the Section of Meteorology ORG
+the International Union of Geodesy and Geophysics ORG
+the 19th
+century DATE
+the World Meteorological
+Organization ORG
+IAMAS ORG
+10 CARDINAL
+Earth LOC
+PE ORG
+PE ORG
+PE ORG
+the National Oceanic and Atmospheric Administration ORG
+NOAA ORG
+Earth System Research Laboratory ORG
+ESRL ORG
+Global Monitoring Division ORG
+GMD ORG
+30 CARDINAL
+Asian NORP
+Saharan NORP
+Asian NORP
+NOAA ORG
+the World Meteorological Organization ORG
+Global Atmosphere Watch WORK_OF_ART
+GAW ORG
+the U.S. Department of Energy ORG
+DOE ORG
+U.S. GPE
+GAW ORG
+ESRL ORG
+GAW ORG
+Earth LOC
+the Intergovernmental Panel for Climate Change ORG
+IPCC ORG
+RFari ORG
+Paris GPE
+1 CARDINAL
+2 CARDINAL
+Earth System Models ORG
+3 CARDINAL
+Earth LOC
+zero CARDINAL
+Atmos PERSON
+11 DATE
+13181–13199 DATE
+2011 DATE
+2011 DATE
+3.0 CARDINAL
+Atmospheric Chemistry and ORG
+Physics Reactive ORG
+Arctic LOC
+Q. Liang PERSON
+J. M. Rodriguez 1 PERSON
+A. R. Douglass 1 PERSON
+J. H. Crawford 2 PERSON
+J. R. Olson 2 PERSON
+H. Bian PERSON
+1,4 CARDINAL
+D. R. Blake 5 NORP
+W. Brune 6 PERSON
+M. Chin 1 PERSON
+P. R. Colarco 1 PERSON
+A. da Silva PERSON
+G. S. Diskin 2 PERSON
+B. N. Duncan 1 PERSON
+L. G. Huey PERSON
+D. D. NORP
+J. E. Nielsen PERSON
+S. Pawson 7 PERSON
+D. D. NORP
+A. Wisthaler PERSON
+10 1 PRODUCT
+613.3 CARDINAL
+Greenbelt GPE
+MD GPE
+20771 DATE
+USA 2 ORG
+NASA Langley Research Center ORG
+Hampton GPE
+23681-2199 DATE
+USA 3 National Center for Atmospheric Research ORG
+1850 DATE
+Table Mesa Dr. ORG
+Boulder PERSON
+USA 4 Joint Center for Environmental Technology ORG
+University of Maryland ORG
+Baltimore County GPE
+Maryland GPE
+USA 5 University of California ORG
+570 CARDINAL
+Irvine GPE
+CA 92697 DATE
+USA 6 Department of Meteorology ORG
+Pennsylvania State University ORG
+University Park GPE
+PA 16802 DATE
+Goddard Space Flight Center PERSON
+Global Modeling and Assimilation Office ORG
+Greenbelt GPE
+MD GPE
+20771 DATE
+USA 8 School of Earth and Atmospheric Sciences ORG
+Georgia Institute of Technology ORG
+Atlanta GPE
+30332 DATE
+Lanham GPE
+Maryland GPE
+USA 10 Institute for Ion Physics & Applied Physics, ORG
+University of Innsbruck ORG
+6020 DATE
+Innsbruck WORK_OF_ART
+Austria GPE
+Goddard Earth Sciences & Technology Center ORG
+University of Maryland ORG
+Baltimore County GPE
+Maryland GPE
+USA GPE
+Universities Space Research Association ORG
+GESTAR GPE
+Columbia GPE
+Maryland GPE
+USA GPE
+23 March 2011 DATE
+Atmos PERSON
+6 April 2011 DATE
+21 October 2011 DATE
+9 December 2011 DATE
+21 December 2011 Abstract DATE
+the Arctic Research of the Composition of the Troposphere from Aircraft and Satellites (ARCTAS ORG
+3 and NO WORK_OF_ART
+Arctic LOC
+Arctic LOC
+3 CARDINAL
+3 CARDINAL
+Arctic LOC
+Arctic LOC
+3 CARDINAL
+spring DATE
+summer DATE
+CO ORG
+spring DATE
+1988 DATE
+ABLE-3A PRODUCT
+2002 DATE
+TOPSE ORG
+the past two decades DATE
+Arctic LOC
+Air ORG
+spring DATE
+summer DATE
+3 CARDINAL
+140–160 CARDINAL
+3 in the Arctic troposphere WORK_OF_ART
+3 CARDINAL
+Arctic LOC
+75 CARDINAL
+spring DATE
+110 CARDINAL
+spring DATE
+ARCTAS ORG
+PAN ORG
+PAN ORG
+CH ORG
+CHO ORG
+PAN ORG
+3 CARDINAL
+Arctic LOC
+3 CARDINAL
+PAN ORG
+ARCTAS ORG
+PAN ORG
+3 CARDINAL
+Arctic LOC
+spring DATE
+3 in the Arctic troposphere WORK_OF_ART
+summer DATE
+Q. Liang PERSON
+Copernicus Publications ORG
+the European Geosciences Union ORG
+ADDIE ORG
+five CARDINAL
+twenty CARDINAL
+38 CARDINAL
+five CARDINAL
+twenty CARDINAL
+10.7176/JEP/11-17 MONEY
+June 30th DATE
+2020 DATE
+CTM ORG
+Earth LOC
+Earth System Modeling Framework ORG
+ESMF ORG
+ESM ORG
+CTM ORG
+CTM ORG
+ESM ORG
+CTM ORG
+ESM ORG
+ESMF ORG
+NASA ORG
+ESM ORG
+120 CARDINAL
+66 CARDINAL
+48–240 CARDINAL
+Australia GPE
+Two CARDINAL
+SWL ORG
+SM ORG
+SWL ORG
+SM ORG
+SWL ORG
+SM ORG
+today DATE
+SWL ORG
+SM ORG
+SWL ORG
+SM ORG
+0.2 CARDINAL
+the Murray-Darling Basin FAC
+Australia GPE
+SWL ORG
+SM ORG
+SM ORG
+the Earth-Atmospheric ORG
+SM ORG
+four CARDINAL
+SWL ORG
+SM ORG
+first ORDINAL
+monthly DATE
+SWL ORG
+three CARDINAL
+ANN ORG
+IIS-ANN ORG
+MODWT ORG
+MODWT ORG
+second ORDINAL
+MRA ORG
+EEMD ORG
+CEEMDAN ORG
+monthly DATE
+seven CARDINAL
+SM ORG
+EEMD ORG
+ELM ORG
+RF ORG
+EEMD-ELM ORG
+the CEEMDAN-ELM ORG
+EEMD ORG
+CEEMDAN-RF PERSON
+ELM ORG
+RF ORG
+SM ORG
+third ORDINAL
+four CARDINAL
+ANN ORG
+ANN-CoM ORG
+two CARDINAL
+Neighborhood Component Analysis ORG
+ELM ORG
+ANN ORG
+second ORDINAL
+Volterra ORG
+Model Tree PERSON
+RF ORG
+ELM ORG
+fourth ORDINAL
+EEMD ORG
+EEMD ORG
+EEMD ORG
+SM ORG
+EEMD ORG
+ELM ORG
+weekly DATE
+SM ORG
+four CARDINAL
+EEMD-Boruta-ELM ORG
+MARS ORG
+EEMD-Boruta-MARS ORG
+ELM ORG
+MARS ORG
+MRA ORG
+weekly DATE
+Earth LOC
+the mid-1980s DATE
+the Goddard Earth Sciences Data and Information Services Center ORG
+GES DISC ORG
+one CARDINAL
+12 CARDINAL
+NASA ORG
+Earth LOC
+NASA ORG
+TRMM ORG
+GPM ORG
+the years DATE
+the GES DISC ORG
+Giovanni GPE
+2000 DATE
+GES ORG
+two CARDINAL
+the Tropical Tropopause Layer ORG
+TTL ORG
+$\sim$18 km MONEY
+Earth LOC
+TTL ORG
+several decades DATE
+TTL ORG
+Isotopic NORP
+ACE ORG
+CALIOP ORG
+TTL ORG
+CALIOP ORG
+TTL ORG
+Jupiter LOC
+Galilean NORP
+Io LOC
+one CARDINAL
+Solar System ORG
+Io LOC
+Europa LOC
+Ganymede PERSON
+the past decades DATE
+Io LOC
+Earth LOC
+Io LOC
+Galileo PRODUCT
+10 CARDINAL
+Io LOC
+Io LOC
+Io LOC
+the Atacama Large Millimeter ORG
+Array PRODUCT
+Io LOC
+Io LOC
+Galileo PRODUCT
+Io LOC
+Io LOC
+the Annual Review of Earth and Planetary Sciences ORG
+49 DATE
+May 2021 DATE
+Jane Bennett PERSON
+William Connolly PERSON
+Anthropocene GPE
+geo- GPE
+Anthropocene GPE
+Western NORP
+Bennett PERSON
+Bennett PERSON
+Bennett PERSON
+Connolly ORG
+Anthropocene GPE
+Connolly PERSON
+Bennett PERSON
+1.75 CARDINAL
+American NORP
+first ORDINAL
+2.75 CARDINAL
+Arase ORG
+2.75 CARDINAL
+H ORG
+Earth LOC
+Venus ORG
+Venus ORG
+Venusian NORP
+Earth LOC
+the European Venus Express’s Visible and ORG
+Venus FAC
+Venus ORG
+JPL ORG
+SmallSats ORG
+SmallSat ORG
+December 1968 DATE
+annual DATE
+the American Association for the Advancement of Science ORG
+the Global Effects of Environmental Pollution WORK_OF_ART
+S. Fred Singer PERSON
+four CARDINAL
+1 CARDINAL
+2 CARDINAL
+3 CARDINAL
+4 CARDINAL
+ERIC W. MOOD PERSON
+ABEP ORG
+ABEP ORG
+ABEP ORG
+Earth LOC
+The Korea Aerospace Research Institute ORG
+KOMPSAT-5 ORG
+August 22, 2013 DATE
+10 years DATE
+KOMPSAT-5 PERSON
+SAR (Synthetic Aperture Radar ORG
+GNSS RO ORG
+Radio Occultation ORG
+Korea GPE
+US GPE
+KARI ORG
+KOMPSAT-5 GPE
+the United States GPE
+National Oceanic and Atmospheric Administration ORG
+2018 DATE
+KARI ORG
+about 12 CARDINAL
+3 CARDINAL
+Daejeon GPE
+Alaska GPE
+U.S. GPE
+Sodankyla GPE
+Finland GPE
+University Corporation for Atmospheric Research ORG
+U.S. GPE
+KASI ORG
+Korea Astronomy and ORG
+KOMPSAT-5 GPE
+Atmospheric Chemistry and ORG
+14 DATE
+3063–3064 CARDINAL
+2014 DATE
+3.0 CARDINAL
+California GPE
+winter DATE
+CalWater 2011 EVENT
+Atmos PERSON
+14 DATE
+81–101 GPE
+2014 DATE
+L. R. Leung 1 PERSON
+P. J. DeMott 2 PERSON
+J. M. Comstock PERSON
+3 CARDINAL
+J. M. Tomlinson 1 PERSON
+A. White PERSON
+P. Minnis PERSON
+6 CARDINAL
+J. K. Ayers 7 PERSON
+Q. Min PERSON
+8 1 DATE
+Pacific Northwest National Laboratory ORG
+99352 DATE
+USA of Atmospheric Science ORG
+Colorado State University ORG
+Fort Collins GPE
+CO ORG
+80523 DATE
+USA 3 Institute of Earth Sciences ORG
+The Hebrew University of Jerusalem ORG
+Jerusalem GPE
+91904 DATE
+Israel GPE
+ESRL ORG
+325 CARDINAL
+Broadway FAC
+Boulder GPE
+USA 5 Department of Chemistry and ORG
+Biochemistry, Scripps Institution of Oceanography, University of California ORG
+San Diego GPE
+La Jolla GPE
+CA 92093-0314 DATE
+6 CARDINAL
+NASA Langley Research Center ORG
+LaRC ORG
+Hampton GPE
+VA GPE
+USA 7 Science Systems and Applications Incorporated ORG
+Hampton GPE
+VA GPE
+USA 8 Atmospheric Sciences Research Center ORG
+State University of New York at ORG
+Albany GPE
+Albany GPE
+12203 DATE
+USA 2 Department Correspondence ORG
+J. Fan ORG
+California GPE
+winter DATE
+CalWater 2011: EVENT
+J. Fan PERSON
+Fig ORG
+8 CARDINAL
+Fig PERSON
+12 CARDINAL
+Fig PERSON
+8 CARDINAL
+2 CARDINAL
+the day DATE
+UTC ORG
+Copernicus Publications ORG
+the European Geosciences Union ORG
+Archean NORP
+Earth LOC
+biospheric evolution PERSON
+Archean NORP
+Earth LOC
+Earth LOC
+Earth LOC
+Earth LOC
+Earth LOC
+GMT ORG
+seven CARDINAL
+8.4 CARDINAL
+25.4 CARDINAL
+GMT ORG
+GMT ORG
+30 cm gaps QUANTITY
+GMT ORG
+NGSAO ORG
+seven CARDINAL
+GMT ORG
+seven CARDINAL
+0.03 CARDINAL
+the Acquisition Guiding ORG
+Wavefront Sensing System’s ORG
+Natural Guide ORG
+Wavefront Sensor PERSON
+GMT High Contrast PRODUCT
+Optics ORG
+Testbed ORG
+MagAO-X ExAO ORG
+AO ORG
+GMT ORG
+NGWS ORG
+first ORDINAL
+one CARDINAL
+GMT ORG
+MagAO-X’s PRODUCT
+PyWFS ORG
+12-33 DATE
+0 CARDINAL
+5 CARDINAL
+0.6 CARDINAL
+GMT ORG
+and∼ ORG
+1.2 CARDINAL
+PyWFS ORG
+PyWFS ORG
+GMT ORG
+TMT PERSON
+ELT ORG
+second ORDINAL
+Holographic Dispersed Fringe Sensor ORG
+PyWFS ORG
+second ORDINAL
+50 CARDINAL
+0.6 CARDINAL
+GMT ORG
+HDFS ORG
+second ORDINAL
+ELT ORG
+TMT PERSON
+four CARDINAL
+256 CARDINAL
+one CARDINAL
+Summit ORG
+two CARDINAL
+six CARDINAL
+one CARDINAL
+Earth LOC
+millions CARDINAL
+the International Laboratory ORG
+Qingdao Pilot National Laboratory for Marine Science ORG
+Texas A&M University ORG
+the National Center for
+Atmospheric Research ORG
+25 CARDINAL
+10 km ocean QUANTITY
+Community Earth System Model ORG
+CESM ORG
+1 CARDINAL
+3.4 CARDINAL
+several hundred years of pre DATE
+CPU ORG
+Sunway ORG
+GPU ORG
+HPC ORG
+Earth LOC
+NASA ORG
+Earth Observing System ORG
+one CARDINAL
+the 1990s and DATE
+2000s DATE
+NASA Goddard Space Flight Center ORG
+the Moderate Resolution Imaging Spectroradiometer ORG
+NASA ORG
+Aqua PRODUCT
+Venus LOC
+Martian NORP
+the Earth of between LOC
+3 and 4 degrees QUANTITY
+2030 DATE
+Earth LOC
+Weijun Li PERSON
+Lei Liu PERSON
+Qi Yuan PERSON
+Liang Xu PERSON
+Yanhong Zhu PERSON
+Bingbing Wang PERSON
+Hua Yu PERSON
+Xiaokun Ding PERSON
+Jian Zhang PERSON
+Dao Huang PERSON
+Dantong Liu PERSON
+Wei Hu PERSON
+Daizhou Zhang PERSON
+Pingqing Fu GPE
+Maosheng Yao PERSON
+Min Hu PERSON
+Xiaoye Zhang PERSON
+Zongbo Shi Department PERSON
+School of Earth Sciences ORG
+Zhejiang University ORG
+Hangzhou GPE
+310027 DATE
+China State Key Laboratory ORG
+Marine Environmental Science, College of Ocean and Earth Sciences ORG
+Xiamen University ORG
+China GPE
+College of Life and Environmental Sciences ORG
+Hangzhou Normal University ORG
+310036 DATE
+Hangzhou GPE
+China Department of Chemistry ORG
+Zhejiang University ORG
+Hangzhou GPE
+310027 DATE
+China Institute of Surface-Earth System Science ORG
+Tianjin University ORG
+300072 DATE
+Tianjin GPE
+China Faculty of Environmental and Symbiotic Sciences ORG
+Prefectural University of Kumamoto ORG
+Kumamoto PERSON
+862-8502 DATE
+Japan State Key Joint Laboratory of Environmental Simulation and Pollution Control, College of Environmental Sciences and ORG
+Peking University ORG
+Beijing GPE
+100871 DATE
+China Key Laboratory of Atmospheric Chemistry ORG
+Chinese Academy of Meteorological Sciences ORG
+Beijing GPE
+Climate Change ORG
+the World Meteorological Organization Global Atmosphere Watch ORG
+2018 DATE
+today DATE
+the European Union ORG
+EU ORG
+Earth LOC
+third ORDINAL
+Munich GPE
+Venice GPE
+Climate Change ORG
+PIONEER ORG
+the Research Executive Agency ORG
+Grant Agreement PERSON
+844526 DATE
+1 CARDINAL
+Alastair PERSON
+W. Richard Peltier PERSON
+Erika von Schneidemesser PERSON
+2018 DATE
+2 CARDINAL
+Crutzen NORP
+P.J. PERSON
+Lawrence PERSON
+M.G. PERSON
+Poschl PERSON
+Tellus AB PRODUCT
+51, 123–146 (1999 DATE
+3 CARDINAL
+al PERSON
+Chapter 2 LAW
+2007 DATE
+The Physical Science Basis ORG
+2007 DATE
+4 CARDINAL
+Owen R. PERSON
+al PERSON
+2014 DATE
+5 CARDINAL
+al PERSON
+21st century DATE
+the Atmospheric Chemistry and Climate Model Intercomparison Project ORG
+ACCMIP ORG
+2013 DATE
+2063-2090 DATE
+Cube Shaped Satellite ORG
+CubeSat ORG
+CubeSat ORG
+CubeSat ORG
+SST ORG
+Pacific LOC
+the Chinese Academy of Sciences ORG
+CAS ORG
+SST ORG
+Pacific LOC
+SST ORG
+Pacific LOC
+SST ORG
+two CARDINAL
+SST ORG
+Pacific LOC
+Pacific LOC
+SST ORG
+Pacific LOC
+the Global Change Observation Mission-Climate ORG
+GCOM-C ORG
+five CARDINAL
+Voronoi GPE
+GCOM-C ORG
+2017 DATE
+the Japan Aerospace Exploration Agency ORG
+36 CARDINAL
+SGLI ORG
+between 6 and 9000 CARDINAL
+six nonzero QUANTITY
+five CARDINAL
+five CARDINAL
+five CARDINAL
+Earth LOC
+Polarization FAC
+Lidar FAC
+PARASOL ORG
+SGLI ORG
+Deff PERSON
+10 CARDINAL
+Voronoi PERSON
+Deff GPE
+10 CARDINAL
+60 DATE
+100 CARDINAL
+Voronoi GPE
+Voronoi PERSON
+SGLI ORG
+Voronoi GPE
+Deff PERSON
+60 CARDINAL
+five CARDINAL
+Voronoi GPE
+The Oxygen Spectrometer for Atmospheric Science on a Balloon WORK_OF_ART
+Earth LOC
+4.75 THz QUANTITY
+MLT ORG
+first ORDINAL
+4.75 CARDINAL
+SOFIA ORG
+the Stratospheric Observatory ORG
+1 CARDINAL
+first ORDINAL
+autumn 2022 DATE
+the European HEMERA ORG
+2 CARDINAL
+1 CARDINAL
+Communications Earth & Environment ORG
+2021 DATE
+2 CARDINAL
+Mars LOC
+Mars LOC
+Mars LOC
+Mars LOC
+Earth LOC
+Mars LOC
+one CARDINAL
+Noise Ratio PERSON
+BER ORG
+Mars LOC
+Mars LOC
+Mars LOC
+Mars-Earth LOC
+Mars LOC
+Mars LOC
+Mars LOC
+1 CARDINAL
+EDL ORG
+Down PERSON
+the Mars Science Laboratory ORG
+2 CARDINAL
+3 CARDINAL
+4 CARDINAL
+Mars LOC
+Mars LOC
+5 CARDINAL
+6 CARDINAL
+7 CARDINAL
+8 CARDINAL
+Mars LOC
+Microsoft Foundation Classes ORG
+two CARDINAL
+Mars LOC
+One CARDINAL
+Direct to Earth ORG
+DTE ORG
+Mars LOC
+three CARDINAL
+7th ORDINAL
+International Conference on Education ORG
+Management, Computer and Medicine ORG
+2017 DATE
+Atlantis Press PERSON
+Computer Science Research ORG
+59 CARDINAL
+Earth LOC
+Moon PERSON
+Mars LOC
+non-Earth NORP
+one CARDINAL
+CEA ORG
+Laurentide Ice Sheet ORG
+the Last Glacial Cycle FAC
+Carolyne ORG
+Hugo EVENT
+Jean-Claude Mareschal1 ORG
+Centre de Recherche ORG
+Géochimie PERSON
+Géodynamique ORG
+Montréal GPE
+Canada 2Climate & Atmospheric Sciences Institute ORG
+Department of Earth Sciences ORG
+Antigonish NORP
+Nova Scotia GPE
+Canada GPE
+3Centre CARDINAL
+ESCER ORG
+Université du Québec à Montréal ORG
+Hugo EVENT
+Earth LOC
+Earth LOC
+today DATE
+the Southern Alps LOC
+NE Italy ORG
+F. CASETTA1 GPE
+R.B. GPE
+D.F. MARK3 PERSON
+P.P. GIACOMONI1 ORG
+T. NTAFLOS4 ORG
+Physics ORG
+Earth Science, University of Ferrara ORG
+Italy GPE
+Earth LOC
+Planetary Sciences College of Science, Purdue University ORG
+550 CARDINAL
+Stadium Mall Dr. ORG
+West Lafayette GPE
+47907 DATE
+USA GPE
+Scottish Enterprise Technology Park ORG
+East Kilbride GPE
+G75 0QF ORG
+UK GPE
+Lithospheric Research ORG
+Universitat Wien PERSON
+1090 DATE
+Wien GPE
+Austria GPE
+present-day Mars DATE
+early Noachian Mars ORG
+4 billion CARDINAL
+1 CARDINAL
+Mars LOC
+2 CARDINAL
+Noachian ORG
+Hesperian NORP
+4 to 3.5 CARDINAL
+present-day DATE
+Martian NORP
+Hesperian NORP
+Gale ORG
+3 CARDINAL
+Mars LOC
+Earth LOC
+years 4 DATE
+5 CARDINAL
+Martian NORP
+Mars LOC
+Mars LOC
+Basque NORP
+Mars LOC
+Mars LOC
+The Open University’s Mars ORG
+the Sample Analysis at ORG
+SAM ORG
+NASA ORG
+MSL ORG
+the Mars Organic Molecular Organizer ORG
+ExoMars PRODUCT
+Martian NORP
+Martian NORP
+Mars LOC
+1 CARDINAL
+Head JW PERSON
+2010 DATE
+Earth LOC
+294 CARDINAL
+185 CARDINAL
+2 CARDINAL
+2019 DATE
+189 CARDINAL
+99-124 CARDINAL
+3 CARDINAL
+2019 DATE
+12:889–895 CARDINAL
+4 CARDINAL
+2006 DATE
+Reviews in Environmental Science and Biotechnology 5 WORK_OF_ART
+203 CARDINAL
+5 CARDINAL
+Johnson PERSON
+al. PERSON
+2020 DATE
+2020 DATE
+Marine Environmental Science, College of Ocean and Earth Sciences ORG
+Xiamen University ORG
+Xiamen GPE
+China GPE
+National Institute of Biology ORG
+Marine Biology Station Piran ORG
+Piran GPE
+Slovenia GPE
+Graduate School of Oceanography, University of Rhode Island ORG
+Narragansett GPE
+RI GPE
+United States GPE
+National Oceanic and Atmospheric Administration ORG
+NOAA ORG
+Pacific Marine Environmental Laboratory ORG
+Seattle GPE
+WA GPE
+United States GPE
+Department of Oceanography ORG
+The Martian Moon eXploration WORK_OF_ART
+the Japan Aerospace Exploration ORG
+JAXA PERSON
+Mars LOC
+Phobos WORK_OF_ART
+Martian NORP
+September 2024 DATE
+Mars LOC
+August 2025 DATE
+three years DATE
+Quasi Satellite Orbits ORG
+QSO ORG
+Phobos ORG
+several hours TIME
+at least 10 CARDINAL
+Earth LOC
+Spectrometer PERSON
+CNES ORG
+LESIA-Paris Observatory ORG
+four CARDINAL
+French NORP
+LAM ORG
+IRAP-OMP ORG
+JAXA PERSON
+MELCO ORG
+MIRS ORG
+0.9 CARDINAL
+3.6 CARDINAL
+0.35 CARDINAL
+FOV of + ORG
+SNR ORG
+higher than 100 CARDINAL
+3.2 CARDINAL
+less than 2s CARDINAL
+Mars LOC
+MIRS ORG
+10 km QUANTITY
+10% and PERCENT
+1% PERCENT
+Signal ORG
+Constrain LOC
+the Martian Surface FAC
+Martian NORP
+Barucci PERSON
+2021 DATE
+Ogohara et al GPE
+2021 DATE
+Table 1 LAW
+Martian NORP
+1 CARDINAL
+Mars LOC
+Barucci PERSON
+2021 DATE
+1.5 CARDINAL
+2 CARDINAL
+3 CARDINAL
+0.9 CARDINAL
+2.6 CARDINAL
+CO 2 PRODUCT
+2.0 CARDINAL
+2.3 CARDINAL
+2 day DATE
+1.27 CARDINAL
+evening TIME
+TKE ORG
+TKE ORG
+TKE ORG
+Two CARDINAL
+ABL ORG
+three CARDINAL
+LES ORG
+one CARDINAL
+Reynolds ORG
+Navier-Stokes ORG
+evening TIME
+CBL ORG
+CBL ORG
+TKE ORG
+evening TIME
+LES ORG
+two CARDINAL
+TKE ORG
+SBL ORG
+1 CARDINAL
+CBL ORG
+2 CARDINAL
+Russian Foundation of Basic Research ORG
+RF ORG
+1 CARDINAL
+Mortikov E. V. PERSON
+Lykosov V. N. PERSON
+Zilitinkevich S. S. Modeling PERSON
+the Dissipation Rate of Turbulent Kinetic Energy ORG
+Doklady Earth Sciences ORG
+2019 DATE
+1440-1443 DATE
+2 CARDINAL
+Burchard H. Applied Turbulence Modelling PERSON
+Marine Waters GPE
+Berlin GPE
+Germany GPE
+57 CARDINAL
+Earth LOC
+Google Earth Engine ORG
+GEE ORG
+Earth LOC
+GEE ORG
+200 CARDINAL
+up to 10 meters QUANTITY
+GEE ORG
+JavaScript ORG
+Earth LOC
+the last decades DATE
+Earth Science LOC
+12th ORDINAL
+International School-Seminar “Satellite Methods and Systems for Earth Exploration EVENT
+Tarusa ORG
+Intercosmos ORG
+Space Research Institute ORG
+the Russian Academy of Sciences ORG
+March 21–25, 2024 DATE
+Six CARDINAL
+6 CARDINAL
+14 CARDINAL
+“Neural Networks ORG
+14 CARDINAL
+the School-Conference ORG
+first ORDINAL
+the People’s Republic of China GPE
+the School-Seminar FAC
+the School-Seminar ORG
+Earth LOC
+Traveling Ionospheric Disturbances ORG
+Fourier PRODUCT
+the Fast Fourier Transform ORG
+FFT ORG
+The Lomb-Scargle Periodogram ORG
+LSP ORG
+LSP ORG
+LSP ORG
+ND LSP ORG
+four CARDINAL
+a quiescent day DATE
+12 CARDINAL
+Australia GPE
+June 29, 2019 DATE
+3 CARDINAL
+the ND LSP ORG
+TEC ORG
+70o DATE
+TEC ORG
+the Optical Ground Support Equipment ( ORG
+Ariel PERSON
+Ariel PERSON
+ESA ORG
+~1000 CARDINAL
+Ariel PERSON
+1 CARDINAL
+40 CARDINAL
+the Earth-Sun L2 FAC
+Ariel PERSON
+≥ PERSON
+15 CARDINAL
+three CARDINAL
+1.1 CARDINAL
+7.9 μm QUANTITY
+0.5 CARDINAL
+1.1 μm QUANTITY
+Ariel’s PERSON
+Ariel PERSON
+2026 DATE
+5-meter QUANTITY
+the Rutherford Appleton Laboratory’s Space Instruments Test Facility ORG
+a Cryogenic Test Rig ( LAW
+CTR ORG
+OGSE ORG
+OGSE ORG
+Ariel’s PERSON
+Ariel PERSON
+OGSE ORG
+PDR ORG
+OGSE ORG
+OGSE ORG
+1 CARDINAL
+Massachusetts Institute of Technology ORG
+Earth LOC
+& Planetary Sciences ORG
+United States GPE
+cyc@mit.edu GPE
+2 CARDINAL
+Department of Geology and Environmental Science, University of Pittsburgh ORG
+Pittsburgh GPE
+PA GPE
+USA GPE
+3 CARDINAL
+College of Earth ORG
+Atmospheric Sciences ORG
+Oregon State University ORG
+Corvallis PERSON
+USA GPE
+4 CARDINAL
+Department of Earth Sciences, ORG
+University of Minnesota Twin Cities ORG
+Minneapolis GPE
+MN ORG
+USA GPE
+5 CARDINAL
+Instituto Pirenaico de Ecología-CSIC ORG
+Huesca GPE
+Spain GPE
+6 CARDINAL
+Peruana Cayetano Heredia PERSON
+Lima GPE
+Peru GPE
+7 CARDINAL
+Department of Biological Sciences ORG
+Florida Institute of Technology ORG
+Melbourne GPE
+FL ORG
+USA GPE
+8) Department of Geology, Union College ORG
+Schenectady GPE
+NY GPE
+USA GPE
+China GPE
+Ningxiang Station PERSON
+the Institute of Atmospheric Physics ORG
+Chinese Academy of Sciences ORG
+2012–2024 CARDINAL
+hourly TIME
+the Science Data Bank ORG
+Los sistemas GPE
+humanos de la Tierra PERSON
+dramaticas GPE
+al cambio climatico PERSON
+gran cantidad de evidencia PERSON
+que el cambio climatico es PERSON
+El inicio de la revolucion ORG
+1750 DATE
+intensifico la tasa de acumulacion de PERSON
+GEI ORG
+la GPE
+atmosfera terrestre PERSON
+sin duda PERSON
+el clima del planeta ORG
+a su vez un PERSON
+de las temperaturas PERSON
+del suelo GPE
+los oceanos GPE
+el aire PERSON
+los sistemas GPE
+Cientificos PERSON
+politicas GPE
+han NORP
+los gobiernos GPE
+para mitigar el cambio climatico PERSON
+el clima ORG
+debajo de los ORG
+de la literatura PERSON
+la ciencia PERSON
+del cambio climatico FAC
+la respuesta politica global ORG
+ademas PERSON
+el cambio climatico PERSON
+Earth LOC
+1750 DATE
+Earth LOC
+Earth LOC
+Palabras PERSON
+Cambio Climatico PERSON
+Ciencia Medioambiental PERSON
+Politica Medioambiental ORG
+Royal Society ORG
+2009 DATE
+1 CARDINAL
+two CARDINAL
+Carbon Dioxide Removal ORG
+CDR ORG
+Solar Radiation Management ORG
+Earth LOC
+Sun ORG
+decades DATE
+2006 DATE
+Paul Crutzen PERSON
+Crutzen NORP
+2006 DATE
+Crutzen’s PERSON
+212 CARDINAL
+217 CARDINAL
+217 CARDINAL
+Crutzen’s PERSON
+the intervening decade DATE
+Royal Society ORG
+2009 DATE
+National Research Council ORG
+2015 DATE
+Bipartisan Policy Center 2011 WORK_OF_ART
+2018 DATE
+The Earth Polychromatic Imaging Camera ORG
+EPIC ORG
+the Deep Space Climate Observatory ORG
+SO2 PERSON
+June 2015 DATE
+EPIC ORG
+Earth LOC
+each day DATE
+EPIC ORG
+Earth LOC
+each day DATE
+10 years DATE
+TCO ORG
+EPIC ORG
+Modern-Era Retrospective ORG
+Research ORG
+daily DATE
+hourly TIME
+the Geostationary Environmental ORG
+hourly TIME
+1o CARDINAL
+June 2015 DATE
+NASA ORG
+SDL ORG
+SDL ORG
+SDL ORG
+three CARDINAL
+SDL ORG
+Clouds PERSON
+the Earth’s Radiant Energy System-Synoptic Radiative Fluxes ORG
+Clouds ORG
+CERES-SYN ORG
+the European Centre for Medium Range Weather Forecasts-Surface Radiation Budget (ECMWF-SRB ORG
+the Global Energy and Water Exchanges Project-Surface Radiation Budget ORG
+three CARDINAL
+SDL ORG
+Arctic LOC
+Antarctic LOC
+Sahara LOC
+the Tibet Plateau LOC
+Greenland GPE
+greater than 20% PERCENT
+MBEab ORG
+about 20 Wm−2 DATE
+−20 Wm−2 PERSON
+about 10% PERCENT
+−10% PERCENT
+three CARDINAL
+SDL ORG
+GEWEX-SRB ORG
+SDL ORG
+three CARDINAL
+Firstly ORDINAL
+three CARDINAL
+SDL ORG
+months DATE
+Secondly ORDINAL
+SDL ORG
+SDL ORG
+SDL ORG
+monthly DATE
+SDL ORG
+SDL ORG
+Earth LOC
+SWaP GPE
+NASA ORG
+Earth Science Technology Office ORG
+ESTO ORG
+HSI ORG
+HSI ORG
+HSI ORG
+CubeSat ORG
+SmallSat ORG
+HSI ORG
+HSI ORG
+Practice ORG
+PEARC ORG
+PEARC ORG
+PEARC ORG
+XSEDE ORG
+NSF Extreme Science and Engineering Discovery Environment ORG
+XSEDE ORG
+PEARC17 DATE
+three CARDINAL
+Hu et al 1 PERSON
+TopoLens PRODUCT
+HPC ORG
+TopoLens PRODUCT
+Hancock PERSON
+Jetstream GPE
+NSF ORG
+first ORDINAL
+XSEDE ORG
+US GPE
+Jetstream GPE
+XSEDE ORG
+Jetstream GPE
+Earth LOC
+7500 Gg PERSON
+the year 2000 DATE
+2000 DATE
+29000 CARDINAL
+almost 3 CARDINAL
+1750 to 2005 DATE
++0.71 W m−2 ORG
+90% PERCENT
++1.1 W PERSON
+90% PERCENT
++1.1 W m−2 PRODUCT
+second ORDINAL
+present‐day DATE
+the first year DATE
+black‐carbon‐rich ORG
+90% PERCENT
++1.29 W m−2 LAW
+black‐carbon‐rich ORG
+Earth LOC
+CCN ORG
+two CARDINAL
+up to CARDINAL
+100-1000 CARDINAL
+2-10 CARDINAL
+SPP ORG
+SSP ORG
+10 6 DATE
+Wozniak PERSON
+al PERSON
+2018 DATE
+32% PERCENT
+CCN ORG
+CCN ORG
+SMPS ORG
+50 CARDINAL
+100 CARDINAL
+200 CARDINAL
+Chemical ORG
+Wozniak PERSON
+M. C. GPE
+Solmon GPE
+A. L. PERSON
+2018 DATE
+Pollen PERSON
+Geophysical Research Letters ORG
+45 DATE
+7156–7164 CARDINAL
+the Spanish ORG
+Ministry of Science and Innovation ORG
+CGL2016 GPE
+CGL2017 ORG
+RTI2018.101154.A.I00 PRODUCT
+Junta de Andalucía ORG
+UGR ORG
+University of Granada Plan Propio ORG
+Andrea Casans PERSON
+FPI PERSON
+PRE2019-090827 DATE
+CCN ORG
+The Town Energy Budget ORG
+TEB ORG
+the Regional Atmospheric Modeling System ORG
+RAMS ORG
+the Urban Heat Island ORG
+UHI ORG
+Beijing GPE
+TEB ORG
+Colorado State University ORG
+CSU ORG
+Mission Research Corporation ORG
+2 CARDINAL
+TEB ORG
+0000 CARDINAL
+UTC ORG
+UTC ORG
+July 2003 DATE
+116 CARDINAL
+39.6 CARDINAL
+Beijing GPE
+TEB ORG
+four CARDINAL
+two CARDINAL
+1 km QUANTITY
+An Anthropogenic Heat ORG
+TEB ORG
+the Land Ecosystem-Atmosphere Feedback ORG
+TEB ORG
+daily DATE
+2 CARDINAL
+Beijing GPE
+2 CARDINAL
+TEB ORG
+0.6 CARDINAL
+TEB ORG
+Beijing GPE
+UHI ORG
+UHI ORG
+USGS ORG
+the year 2010 DATE
+the Institute of Remote Sensing ORG
+Digital Earth ORG
+Chinese Academy of Sciences ORG
+CAS ORG
+2 CARDINAL
+0.68 K CARDINAL
+01 to 02 July 2003 DATE
+the final decades of the eighteenth century DATE
+the first decades of the nineteenth century DATE
+Europe LOC
+Western NORP
+Kant ORG
+Humboldt NORP
+Earth LOC
+Europe LOC
+SSB ORG
+SSH ORG
+SSH ORG
+the Savu Sea LOC
+the GDR Ku Band ORG
+SSH ORG
+two CARDINAL
+two CARDINAL
+2756.35–2751.28 CARDINAL
+Hovea GPE
+the Kockatea Shale LOC
+Cimmeriella PERSON
+Etherilosia PERSON
+Elivina PERSON
+Cleiothyridina GPE
+indet PERSON
+Changhsingian NORP
+Dulhuntyispora parvithola Zone PERSON
+Hovea GPE
+the Kockatea Shale LOC
+3786 CARDINAL
+indet PERSON
+brachiopod PERSON
+Claraia perthensis PERSON
+Dickins & McTavish ORG
+Crittendenia GPE
+australasiatica PERSON
+Krumbeck ORG
+Otoceras PERSON
+Magniestheria GPE
+first ORDINAL
+Otoceras PERSON
+Protohaploxypinus microcorpus Zone FAC
+Changhsingian NORP
+Kraeuselisporites GPE
+Triassic (Griesbachian) age WORK_OF_ART
+G.R. Shi PERSON
+Sangmin Lee PERSON
+School of Earth, Atmospheric and Life Sciences ORG
+University of Wollongong ORG
+Northfields Ave ORG
+Wollongong PERSON
+NSW 2522 DATE
+Australia GPE
+Ian Metcalfe PERSON
+Earth Sciences ORG
+School of Environmental and Rural Science, University of New England ORG
+2351 DATE
+Australia GPE
+Daoliang Chu PERSON
+State Key Laboratory of Biogeology and Environmental Geology ORG
+School of Earth Sciences ORG
+China University of Geosciences ORG
+Wuhan GPE
+PR China ORG
+Huiting Wu PERSON
+College of Geoscience and Surveying Engineering ORG
+China University of Mining & Technology ORG
+Beijing GPE
+China GPE
+Tinglu Yang PERSON
+Faculty of Geosciences ORG
+East China University of Technology ORG
+330013 DATE
+PR China ORG
+Yuri D. Zakharov PERSON
+Far East Geological Institute ORG
+Far East Branch ORG
+Russian Academy of Sciences ORG
+Vladivostok GPE
+690022 DATE
+Russia GPE
+ESA ORG
+2035–2050 DATE
+Venus FAC
+Earth LOC
+Mars LOC
+Venus PERSON
+Earth LOC
+thousands CARDINAL
+millions CARDINAL
+Earth LOC
+Mars LOC
+Venus ORG
+Venus ORG
+2050 DATE
+ESA ORG
+at least two CARDINAL
+Venus PERSON
+M5 EnVision ORG
+1 CARDINAL
+2 CARDINAL
+3–5 CARDINAL
+two CARDINAL
+atmospheric and/or PERSON
+Sputnik PERSON
+1957 DATE
+Space Technologies ORG
+hundreds CARDINAL
+Pelton GPE
+2017 DATE
+Earth LOC
+Astronomy and Astrophysics ORG
+Space Technology ORG
+Moon PERSON
+the Blue Marble (Wuebbles ORG
+2012 DATE
+Space Technologies ORG
+the end of the past century DATE
+Aerospace ORG
+the International Space Station ORG
+the years DATE
+Space Technologies ORG
+today DATE
+Space 4.0 PRODUCT
+2019 DATE
+S. Kim PERSON
+Kim PERSON
+M. Lee PERSON
+H. Shim PERSON
+G. M. Wolfe PERSON
+A. B. Guenther PERSON
+Y. Hong PERSON
+J. Han Department of Earth System Science, School of Physical Sciences ORG
+University of California ORG
+Irvine GPE
+Irvine California PERSON
+92697 DATE
+USA National Institute Environmental Research ORG
+Incheon ORG
+South Korea Department of Earth and Environmental Sciences ORG
+Korean University ORG
+Seoul GPE
+South Korea GPE
+University of Maryland Baltimore County ORG
+Baltimore GPE
+MD GPE
+USA Atmospheric Chemistry and Dynamics Laboratory ORG
+NASA ORG
+Greenbelt GPE
+MD GPE
+USA GPE
+the Solar System ORG
+Universe PERSON
+atmospheric composition ORG
+Project Starshot PERSON
+Gram ORG
+0.2c CARDINAL
+the next two decades DATE
+Earth LOC
+47th ORDINAL
+Solar System Science Missions ORG
+Space Agency Strategies ORG
+Plans NORP
+hourly TIME
+4 km QUANTITY
+North American NORP
+less than 10 CARDINAL
+CHRONOS ORG
+more than 17 years DATE
+the Measurements of Pollution WORK_OF_ART
+MOPITT ORG
+NASA ORG
+Earth LOC
+hourly TIME
+CHRONOS PERSON
+the Committee on Earth Observing Satellites ORG
+the U.S. National Academy's ORG
+2007 DATE
+the Russian Academy of Sciences ORG
+24 CARDINAL
+up to CARDINAL
+200 kW QUANTITY
+Earth LOC
+up to 1 CARDINAL
+13.5 CARDINAL
+11.2 CARDINAL
+24 CARDINAL
+the Russian Academy of Sciences ORG
+Earth LOC
+Valerian Il'ich ORG
+Kharkov GPE
+1920s±1930s CARDINAL
+USSR GPE
+Tatarskiis ORG
+one CARDINAL
+Valerian NORP
+Kharkiv LOC
+Krasnoyarsk GPE
+Kharkiv PERSON
+Valerian NORP
+the Physical Faculty of ORG
+Moscow State University ORG
+MSU ORG
+the Physical Faculty of MSU ORG
+1947± 1952 DATE
+MSU ORG
+the Geophysical Institute of the USSRAcademy of Sciences ORG
+the Laboratory for Turbulence Research ORG
+A M Obukhov WORK_OF_ART
+A M Obukhov PRODUCT
+the 1940s± 1950s DATE
+SM Rytov ORG
+1959 DATE
+English LANGUAGE
+1961 DATE
+a Turbulent Medium EVENT
+New York GPE
+1961 DATE
+the Institute of Atmospheric Physics ORG
+1956 DATE
+the Geophysical Institute ORG
+1964 DATE
+English LANGUAGE
+1971 DATE
+National Technical Information Office ORG
+1971 DATE
+Fizicheskikh Nauk PERSON
+189 CARDINAL
+10) 1125 ± DATE
+1126 DATE
+2019 DATE
+Call ORG
+the European Space Agency ORG
+March 2013 DATE
+ESA ORG
+Universe ORG
+13 billion years MONEY
+Universe ORG
+950 CARDINAL
+50–100 CARDINAL
+Universe ORG
+Earth LOC
+50–100 CARDINAL
+Earth LOC
+Earth LOC
+ATMOSPHERIC ORG
+PLANETARY SCIENCES Correction ORG
+Oliver Branch PERSON
+Volker Wulfmeyer PERSON
+September 3, 2019 DATE
+10.1073 CARDINAL
+Sci PERSON
+116 CARDINAL
+18841–18847 CARDINAL
+the United Arab Emirates Research Program GPE
+Harmony NORP
+European Space Agency ORG
+ESA ORG
+10 CARDINAL
+two CARDINAL
+TIR ORG
+TIR ORG
+TIR ORG
+four CARDINAL
+three CARDINAL
+≃1 km QUANTITY
+PAN ORG
+8–12 μm ORG
+Harmony NORP
+SST ORG
+PAN ORG
+TOA ORG
+PAN ORG
+Harmony NORP
+1 CARDINAL
+SST ORG
+up to 85% PERCENT
+The El Nino-Southern Oscillation GPE
+Earth LOC
+ENSO ORG
+El Nino ORG
+La Nina GPE
+the past 30 years DATE
+ENSO ORG
+ENSO ORG
+SST ORG
+anomaly GPE
+El Nino ORG
+La Nina GPE
+El Nino ORG
+La Nina GPE
+Pacific LOC
+Pacific LOC
+SST ORG
+ENSO ORG
+the past 136 years DATE
+Earth LOC
+NASA ORG
+Apollo Landing Mirror Experiment ORG
+Unidata ORG
+NSF ORG
+1983 DATE
+Unidata ORG
+Earth LOC
+Unidata ORG
+JupyterHub ORG
+Kubernetes ORG
+JupyterHub ORG
+Unidata GPE
+Jetstream GPE
+JupyterHub ORG
+Jetstream GPE
+Kubernetes ORG
+JupyterHub ORG
+Kubernetes ORG
+JupyterHub ORG
+JupyterHub ORG
+Science
+Atmospheric ORG
+Perspective GPE
+Shahar ORG
+Earth LOC
+434][1 CARDINAL
+1 CARDINAL
+Beijing Normal University ORG
+Beijing GPE
+ChinaCorrespondence ORG
+C. Cudennec PERSON
+Mankind ORG
+1123 DATE
+WMO ORG
+2014 DATE
+2015 DATE
+1 CARDINAL
+Sci-ence ORG
+Aitsi-Selmi et ORG
+2015 DATE
+two CARDINAL
+Anthropocene GPE
+eight CARDINAL
+IUGG ORG
+the International Unionof Geodesy and Geophysics ORG
+scientiﬁc knowledgeand PERSON
+IUGG ORG
+Ismail-Zadeh PERSON
+One CARDINAL
+symposia during Union ORG
+2015 DATE
+PragueAssembly ORG
+U2 ORG
+Associations ORG
+WMO ORG
+PIAHS ORG
+Earth LOC
+Montanariet al. PERSON
+2013 DATE
+WaterSecurity ORG
+Cudennec et al. PERSON
+2015 DATE
+Water Security ORG
+Zhenning PERSON
+Ming Cai6 PERSON
+Mengmeng PERSON
+Song PERSON
+1 CARDINAL
+Chongqing Research Institute of Big Data ORG
+Peking University ORG
+Chongqing GPE
+China 2 School of Atmospheric Sciences ORG
+Sun Yat-sen University ORG
+Zhuhai GPE
+China GPE
+Zhuhai GPE
+Zhuhai GPE
+China GPE
+Guangdong GPE
+Province Key Laboratory for Climate Change and ORG
+Sun Yat-sen University ORG
+Zhuhai GPE
+China 5 Division of Environment and Sustainability ORG
+The Hong Kong University of Science and Technology ORG
+Hong Kong GPE
+China 6 Department of Earth ORG
+Atmospheric Science PERSON
+Florida State University ORG
+Tallahassee GPE
+FL ORG
+USA 7 State Key Laboratory of Severe Weather ORG
+Institute of Climate System ORG
+Chinese Academy of Meteorological Sciences ORG
+Beijing GPE
+China GPE
+Figs PERSON
+7 and CARDINAL
+8 CARDINAL
+first ORDINAL
+Earth LOC
+second ORDINAL
+Earth LOC
+Earth LOC
+CCT ORG
+Earth LOC
+CCT ORG
+NanoSats PRODUCT
+GEOSCAN ORG
+GEOSCAN ORG
+Earth LOC
+GEOSCAN ORG
+CCT ORG
+NanoSat ORG
+GEOSCAN ORG
+Light Detection and Ranging EVENT
+LIDAR ORG
+EarthCARE PERSON
+sixth ORDINAL
+the European Space Agency ORG
+ESA ORG
+ATLID ORG
+100 CARDINAL
+0 to 20 CARDINAL
+500 CARDINAL
+20 km to QUANTITY
+40 km QUANTITY
+51 CARDINAL
+620 mm QUANTITY
+Rayleigh ORG
+2019 DATE
+ATLID ORG
+ATLID ORG
+EarthCARE PERSON
+2023 DATE
+The West Antarctic Ice Sheet LOC
+WAIS ORG
+the last several million years DATE
+WAIS ORG
+3.3–4.3 CARDINAL
+WAIS ORG
+WAIS ORG
+the Amundsen Sea LOC
+the Amundsen Sea Embayment LOC
+ASE ORG
+Antarctica LOC
+Paolo et al. FAC
+2015 DATE
+ASE ORG
+ASE ORG
+ASE ORG
+ASE ORG
+the Amundsen Sea LOC
+the Amundsen Sea LOC
+Neogene PERSON
+Quaternary PERSON
+five CARDINAL
+Expedition 379 EVENT
+1. CARDINAL
+West Antarctica LOC
+Paleogene PERSON
+Neogene PERSON
+Quaternary PERSON
+Emphasis ORG
+Earth LOC
+400 CARDINAL
+2. CARDINAL
+the Amundsen Sea LOC
+3. CARDINAL
+Circumpolar Deep Water (CDW WORK_OF_ART
+the Amundsen Sea Embayment ORG
+4. CARDINAL
+Miocene PERSON
+Antarctic ORG
+5. CARDINAL
+first ORDINAL
+ASE ORG
+Marie Byrd Land PERSON
+Expedition 379 EVENT
+IODP ORG
+IODP ORG
+Proposal 839-Full LAW
+839 CARDINAL
+the IODP Science Evaluation Panel ORG
+the JOIDES Resolution Science Operator ORG
+this Scientific Prospectus ORG
+Punta Arenas GPE
+Chile GPE
+18 January 2019 DATE
+Punta Arenas GPE
+Chile GPE
+20 March 2019 DATE
+56 days DATE
+http://iodp.tamu.edu/publicinfo/drillship.html TIME
+decades DATE
+the Amundsen Sea Embayment ORG
+ASE ORG
+the West Antarctic Ice Sheet LOC
+Hughes ORG
+1981 DATE
+Schoof, 2007 DATE
+2014 DATE
+DeConto and Pollard ORG
+2016 DATE
+ASE ORG
+First ORDINAL
+WAIS ORG
+ASE ORG
+today DATE
+2012 DATE
+Today DATE
+Circumpolar Deep Water (CDW WORK_OF_ART
+the Amundsen Sea LOC
+CDW ORG
+Hillenbrand GPE
+2017 DATE
+Minzoni PERSON
+2017 DATE
+Antarctica LOC
+Paolo et al. FAC
+2015 DATE
+Antarctic IODP ORG
+today DATE
+Sun LOC
+Earth LOC
+5 CARDINAL
+6 CARDINAL
+Bulgarian NORP
+2019 July 2 DATE
+MIR ORG
+Quanz ORG
+2018 DATE
+Bayesian NORP
+MIR ORG
+SNR ORG
+first ORDINAL
+NASA ORG
+HabEx ORG
+NIR ORG
+Quanz ORG
+2018 DATE
+Angerhausen et al. PERSON
+MIR ORG
+NIR ORG
+CH 4 ORG
+CO ORG
+MIR ORG
+NIR ORG
+Quanz ORG
+2019 DATE
+Earth LOC
+Earth LOC
+1D CARDINAL
+2019 DATE
+Earth LOC
+4th ORDINAL
+3 CARDINAL
+2 CARDINAL
+SNR ORG
+Earth LOC
+10 CARDINAL
+Sun LOC
+G2 PRODUCT
+3 CARDINAL
+3-20 CARDINAL
+6-17 CARDINAL
+20, 35 DATE
+50 CARDINAL
+SNR ORG
+5 CARDINAL
+10 DATE
+15 CARDINAL
+Multinest LOC
+Feroz et al. PERSON
+2009 DATE
+Earth LOC
+SNR ORG
+first ORDINAL
+Earth LOC
+1 CARDINAL
+2 CARDINAL
+Earth LOC
+3 - 25 CARDINAL
+1000 CARDINAL
+SNR ORG
+50 CARDINAL
+10 CARDINAL
+Sun LOC
+1 CARDINAL
+2 CARDINAL
+CO 2 PRODUCT
+first ORDINAL
+Superficial Peat With Nutrient Status ORG
+Mats B. Nilsson 2 PERSON
+Wei Zhu 2 PERSON
+Kevin Bishop 3 PERSON
+1]Department CARDINAL
+Earth Sciences ORG
+Uppsala University ORG
+Uppsala GPE
+Sweden GPE
+2]Department CARDINAL
+Forest Ecology ORG
+Swedish University of Agricultural Sciences ORG
+Umeå GPE
+Sweden GPE
+3]Department CARDINAL
+Aquatic Sciences and Assessment ORG
+Swedish University of Agricultural Sciences ORG
+Uppsala GPE
+Sweden GPE
+Mercury ORG
+recent decades DATE
+Hg NORP
+the Minamata Convention LOC
+Sweden GPE
+2 CARDINAL
+Hg GPE
+just one CARDINAL
+10 cm QUANTITY
+50 years old DATE
+the last 200 years DATE
+Sweden GPE
+Umeå GPE
+Triplicate ORG
+54 CARDINAL
+50 cm deep QUANTITY
+2 cm QUANTITY
+100-2000 years DATE
+Helsinki GPE
+the Institute for Atmospheric and Earth System Research ORG
+INAR NORP
+Finnish Meteorological Institute ORG
+Helsinki Urban Art ORG
+Alice GPE
+Wonderland GPE
+1.5 CARDINAL
+4 CARDINAL
+caterpillar ORG
+ScienceInHelsinki PERSON
+INAR NORP
+The Climate Wall WORK_OF_ART
+Helsinki Central Library Oodi ORG
+December 2019 DATE
+The Art of Asking Questions WORK_OF_ART
+May 2019 DATE
+October 2019 DATE
+the Finnish Arts Promotion Center ORG
+one CARDINAL
+Bill Gates PERSON
+Bill Gates PERSON
+Melinda PERSON
+the Gates Foundation ORG
+US GPE
+Two CARDINAL
+the Gates Foundation ORG
+First ORDINAL
+860 million CARDINAL
+Second ORDINAL
+billions CARDINAL
+Bill Gates PERSON
+Bill Gates PERSON
+Foundation ORG
+Microsoft ORG
+Microsoft ORG
+2020 DATE
+2030 DATE
+1975 DATE
+2050 DATE
+Microsoft ORG
+Earth LOC
+first ORDINAL
+Bill Gates’s PERSON
+zero CARDINAL
+2050 DATE
+zero CARDINAL
+2050 DATE
+Bill Gates PERSON
+zero CARDINAL
+2050 DATE
+the century DATE
+2 CARDINAL
+Paris GPE
+2015 DATE
+zero CARDINAL
+Bill Gates PERSON
+51 billion tons QUANTITY
+zero CARDINAL
+Chapter 4 LAW
+27% PERCENT
+51 billion tons QUANTITY
+Chapter 5 LAW
+31% PERCENT
+6th ORDINAL
+Chapter 6 LAW
+19% PERCENT
+Chapter 7 LAW
+16% PERCENT
+up to $ MONEY
+Advanced Technology Microwave Sounder ORG
+ATMS ORG
+up to $\sim$50% MONEY
+Earth LOC
+about 10,000 CARDINAL
+more than 50% PERCENT
+Two CARDINAL
+O2 ORG
+Earth LOC
+V4332 Sgr PERSON
+present-day DATE
+Millions of years DATE
+1-3 CARDINAL
+thousands of years DATE
+Cold Explosion EVENT
+1980 DATE
+the Institute of Chemical Physics ORG
+the USSR Academy of Sciences ORG
+the Cold Explosion EVENT
+N. Bohr's PERSON
+N. L. Ng PERSON
+M. R. Canagaratna PERSON
+Q. Zhang PERSON
+J. L. Jimenez PERSON
+J. Tian PERSON
+I. M. Ulbrich PERSON
+J. H. Kroll PERSON
+K. S. Docherty PERSON
+P. S. Chhabra PERSON
+R. Bahreini PERSON
+S. M. Murphy PERSON
+J. H. Seinfeld PERSON
+L. Hildebrandt PERSON
+P. F. DeCarlo PERSON
+V. A. Lanz PERSON
+A. S. H. Prevot PERSON
+Y. Rudich PERSON
+D. R. Worsnop Aerodyne Research PERSON
+Billerica GPE
+MA GPE
+USA Atmospheric Sciences Research Center ORG
+State University of New York ORG
+Albany GPE
+NY GPE
+USA CIRES, ORG
+University of Colorado ORG
+Boulder GPE
+CO, USA Department of Chemistry and ORG
+Biochemistry, University of Colorado ORG
+Boulder GPE
+CO, USA Department of Civil and Environmental Engineering ORG
+Massachusetts Institute of Technology ORG
+Cambridge GPE
+MA GPE
+USA Department of Chemical Engineering ORG
+California Institute of Technology ORG
+Pasadena GPE
+CA GPE
+Earth System Research Laboratory ORG
+Boulder GPE
+CO, USA Center for Atmospheric Particle Studies ORG
+Carnegie Mellon University ORG
+Pittsburgh GPE
+PA GPE
+USA Department of Atmospheric and Oceanic Science, University of Colorado ORG
+Boulder GPE
+Two CARDINAL
+50 CARDINAL
+4 CARDINAL
+Earth LOC
+two CARDINAL
+James Webb Space Telescope PERSON
+seven CARDINAL
+Neptunes PERSON
+Jupiters PERSON
+3 CARDINAL
+NO 2 LAW
+The TROPOspheric Monitoring Instrument ORG
+Copernicus ORG
+3 CARDINAL
+NO 2 , SO 2 LAW
+CH 4 ORG
+HCHO ORG
+NIR ORG
+SWIR GPE
+The Ozone Monitoring Instrument ORG
+OMI ORG
+Aura PERSON
+NO 2 , SO 2 LAW
+HCHO ORG
+BrO ORG
+OClO ORG
+OMPS ORG
+the Suomi National Polar-Orbiting Partnership (Suomi-NPP ORG
+SNPP ORG
+3 CARDINAL
+NO 2 , SO 2 LAW
+The Microwave Limb Sounder ORG
+MLS ORG
+Aura PERSON
+CO ORG
+SO 2 PRODUCT
+3 CARDINAL
+BrO ORG
+2004 DATE
+MLS ORG
+The Thermal And Near infrared Sensor WORK_OF_ART
+Observation - Fourier Transform Spectrometer ORG
+the Greenhouse Gases Observing Satellite ORG
+TIR ORG
+2 CARDINAL
+second ORDINAL
+Modern-Era Retrospective ORG
+Research and Applications ORG
+NASA ORG
+atmospheric reanalysis data collection ORG
+the Goddard Earth Observing System Model ORG
+5 CARDINAL
+Earth LOC
+The NASA Goddard Earth Sciences Data and Information Services Center ORG
+GES DISC ORG
+over a thousand CARDINAL
+Atmospheric Composition, Water & Energy Cycles ORG
+Climate Variability ORG
+TROPOMI ORG
+OMI ORG
+OMPS ORG
+MLS ORG
+TANSO-FTS ORG
+GES ORG
+Earth LOC
+Tebaldi ORG
+Eyring PERSON
+al. PERSON
+2020 DATE
+CMIP6 NORP
+Earth LOC
+Nowack ORG
+Causal Discovery PRODUCT
+Runge GPE
+V. et al PERSON
+Nat Commun PERSON
+11, 1415 DATE
+2020 DATE
+Runge GPE
+M. Kretschmer PERSON
+S. Flaxman PERSON
+D. Sejdinovic PERSON
+Sci. ORG
+5 CARDINAL
+2019 DATE
+Runge GPE
+Practical Estimation ORG
+An Interdisciplinary Journal of Nonlinear Science 28 ORG
+075310 DATE
+2018 DATE
+Tebaldi ORG
+Eyring PERSON
+Fyfe PERSON
+J. PERSON
+Friedlingstein PERSON
+Knutti PERSON
+R. NORP
+Lowe GPE
+O'Neill PERSON
+B. NORP
+Sanderson GPE
+B. PERSON
+van Vuuren PERSON
+D. NORP
+Riahi PRODUCT
+K. NORP
+Z. PERSON
+Hurtt ORG
+G. PERSON
+Kriegler PERSON
+Lamarque GPE
+J.-F. GPE
+Meehl PERSON
+G. PERSON
+R. NORP
+Bauer ORG
+S. E. PERSON
+Boucher PERSON
+Brovkin GPE
+Golaz ORG
+J.-C. ORG
+Gualdi ORG
+H. PERSON
+John PERSON
+J. G. PERSON
+Kharin GPE
+S. GPE
+Koshiro GPE
+Ma GPE
+Olivié GPE
+D. NORP
+Panickal PERSON
+S. GPE
+Qiao GPE
+N., Schupfner PERSON
+Seferian NORP
+R. NORP
+A. PERSON
+Swart ORG
+N. NORP
+Tachiiri NORP
+K. NORP
+Voldoire GPE
+Volodin GPE
+Wyser PERSON
+K. NORP
+Xin GPE
+X. PERSON
+Xinyao GPE
+R. NORP
+Yang PERSON
+S. PERSON
+Yu GPE
+Y. PERSON
+Ziehn PERSON
+CMIP6 NORP
+2020 DATE
+Earth LOC
+2016 DATE
+five CARDINAL
+1 CARDINAL
+Schwieterman et al. PERSON
+2018 DATE
+2 CARDINAL
+O2 GPE
+Meadows et al. PERSON
+2018 DATE
+3 CARDINAL
+Bayesian NORP
+biosignature CARDINAL
+2018 DATE
+4 CARDINAL
+Bayesian NORP
+2018 DATE
+5 CARDINAL
+Fujii GPE
+2018 DATE
+2030 DATE
+Key Words: Exoplanets ORG
+Bayesian NORP
+18 CARDINAL
+619–626 CARDINAL
+Ethan Hyland PERSON
+Ph.D. WORK_OF_ART
+today DATE
+today DATE
+Maine GPE
+Ethan Hyland PERSON
+Carleton College ORG
+the National Park Service ORG
+the University of Michigan ORG
+Ph.D. WORK_OF_ART
+Hyland PERSON
+the “Future of Ice ORG
+the University of Washington ORG
+Los Alamos National Laboratory ORG
+NC State ORG
+the Paleo³ Research Group ORG
+2017 DATE
+Hyland PERSON
+the Department of Marine ORG
+Earth LOC
+NC State FAC
+3rd International Seminar on Earth Science and Technology FAC
+ISEST ORG
+ISEST ORG
+3 CARDINAL
+first ORDINAL
+ISEST ORG
+December 2021 DATE
+COVID-19 ORG
+second ORDINAL
+ISEST ORG
+March 2023 DATE
+2nd ORDINAL
+ISEST ORG
+This year DATE
+3rd ORDINAL
+ISEST ORG
+4 CARDINAL
+Solid Earth Sciences ORG
+Ocean Sciences, Atmospheric Sciences ORG
+Interdisciplinary Earth Science and Technology ORG
+two CARDINAL
+first ORDINAL
+today DATE
+the Blue Economy ORG
+the Ministry of Maritime Affairs ORG
+the next day DATE
+second ORDINAL
+Disaster Risk Financing ORG
+Directorate General of Budget Financing and Risk Management of Ministry of Finance ORG
+List of Executive Committee ORG
+Editorial Board ORG
+International Reviewer ORG
+National Reviewer, Steering Committee ORG
+Keynote Speakers ORG
+Invited Speakers ORG
+Pdf ORG
+NASA ORG
+Goddard Earth Observing System ORG
+ESM ORG
+GCM ORG
+DAS ORG
+the Global Modeling and Assimilation Office ORG
+NASA Goddard Space Flight Center ORG
+Earth System ORG
+GCM ORG
+NASA ORG
+Earth Science Mission FAC
+Earth System Modeling Framework ORG
+hourly TIME
+the U.S. Department of Energy ORG
+first Mobile Facility ORG
+mid-Atlantic DATE
+Baltimore GPE
+four CARDINAL
+Baltimore GPE
+three CARDINAL
+Earth LOC
+Baltimore GPE
+Baltimore’s ORG
+Baltimore GPE
+bay breeze PERSON
+Baltimore GPE
+CoURAGE ORG
+Earth LOC
+Baltimore GPE
+the Baltimore Social-Environmental Collaborative ORG
+Northern Hemisphere LOC
+Two-thirds CARDINAL
+the Northern Hemisphere LOC
+Northern Eurasia LOC
+the 20th century DATE
+Earth LOC
+Three years ago DATE
+the Northern Eurasia Earth Science Partnership Initiative (NEESPI ORG
+The NEESPI Science Plan LAW
+Executive Summary ORG
+NEESPI ORG
+2004 DATE
+NEESPI ORG
+the International Polar Year ORG
+NEESPI ORG
+Earth System Science Partnership ORG
+the International Geosphere and Biosphere Programme FAC
+the World Climate Research Programme ORG
+the Global Energy and Water Cycle Experiment and Climate and Cryosphere Projects ORG
+the Global Water System Project ORG
+Global Carbon Project ORG
+Global Land Project ORG
+the Integrated Land Ecosystem?Atmosphere Processes Study ORG
+more than 100 CARDINAL
+the United States GPE
+Russian Federation GPE
+China GPE
+European Union ORG
+Japan GPE
+Canada GPE
+Northern Eurasian NORP
+the past two years DATE
+more than 200 CARDINAL
+Northern Eurasia LOC
+the Annual EVENT
+Fall American Geophysical Union Meeting ORG
+San Francisco GPE
+December 2006 DATE
+two CARDINAL
+Leptoukh et al FAC
+Initiative ORG
+five CARDINAL
+Focus on Northern Hemisphere High Latitude Climate and Environmental Change Contents Editorials NASA NEESPI Data and Services Center for Satellite Remote Sensing Information Gregory Leptoukh ORG
+Ivan Csiszar PERSON
+Peter Romanov PERSON
+Suhung Shen PERSON
+Tatiana Loboda PERSON
+Irina Gerasimov NEESPI PERSON
+Obninsk GPE
+Russia GPE
+P Ya Groisman Climate PERSON
+Arctic LOC
+Jennifer A Francis PERSON
+Elias Hunter Spatial PERSON
+summer DATE
+South Korea GPE
+Heejun Chang PERSON
+Won-Tae Kwon Climate ORG
+Russia GPE
+N N Korshunova ORG
+P Ya Groisman Land PERSON
+20th century DATE
+Andrea H Lloyd PERSON
+Andrew G Bunn Mapping Russian PERSON
+Houghton GPE
+Schlesinger PERSON
+Sphagnum LOC
+Siberia LOC
+Anna Peregon PERSON
+Masao Uchida ORG
+Yasuyuki Shibata Methane PERSON
+Siberian NORP
+T J Bohn, D P Lettenmaier WORK_OF_ART
+K Sathulur GPE
+L C Bowling ORG
+K C McDonald ORG
+Eurasia GPE
+North America S J Goetz LOC
+K R Gurney ORG
+Houghton Ecosystems PERSON
+Eurasia N N Vygodskaya ORG
+P Ya Groisman PERSON
+N M Tchebakova ORG
+J A Kurbatova ORG
+A F Sogachev PRODUCT
+Anisimov Glacier PERSON
+the Siberian Altai Mountains FAC
+1952?2006 DATE
+Surazakov PERSON
+the Tien Shan FAC
+Daniel M White PERSON
+Craig Gerlach PERSON
+Philip Loring PERSON
+Amy C Tidwell PERSON
+Molly C Chambers ORG
+NASA ORG
+ESD ORG
+Earth LOC
+NASA ORG
+Earth LOC
+ESD ORG
+Earth LOC
+2017 DATE
+NASA ORG
+ESD ORG
+the next decade DATE
+• Extending ORG
+• Reducing ORG
+• Sea LOC
+• Surface ORG
+ESD ORG
+Earth LOC
+The Flight Program ORG
+The Flight Program ORG
+24 CARDINAL
+Earth LOC
+18 CARDINAL
+2017 DATE
+NASA ORG
+Landsat PERSON
+the Earth Venture ORG
+EV ORG
+Michael PERSON
+first ORDINAL
+November 2020 DATE
+Libera Earth PERSON
+ERB ORG
+the National Oceanic and Atmospheric Administration’s ORG
+NOAA ORG
+Joint Polar Satellite ORG
+JPSS-3 GPE
+Libera PERSON
+first ORDINAL
+Earth Venture Continuity ORG
+Climate Data Record ( ORG
+CDR ORG
+2017 DATE
+four CARDINAL
+Flight Program PRODUCT
+Incubation Targeted Observables ORG
+the Program of Record ORG
+POR ORG
+Multi-Center ORG
+the Designated Targeted Observables ORG
+Flight Program PRODUCT
+Flight Program ORG
+Earth LOC
+3 K MONEY
+zero CARDINAL
+Tamm LOC
+Bragg PERSON
+one CARDINAL
+nine CARDINAL
+seven CARDINAL
+seven CARDINAL
+CH4–O2 PRODUCT
+Earth LOC
+School of Geosciences, ORG
+University of Edinburgh ORG
+Grant Institute ORG
+The King’s Buildings ORG
+James Hutton Road PERSON
+Edinburgh GPE
+3FE CARDINAL
+UK School of Geography and Geosciences, ORG
+University of St Andrews ORG
+North Street GPE
+St Andrews PERSON
+9AL CARDINAL
+UK GPE
+10 CARDINAL
+Earth LOC
+Planetary Sciences, University of California Davis ORG
+2119 DATE
+Earth and Physical Sciences ORG
+One CARDINAL
+Shields Avenue FAC
+Davis PERSON
+CA 95616 ORG
+College of Earth ORG
+Atmospheric Sciences ORG
+Oregon State University ORG
+Corvallis GPE
+Oregon GPE
+School of Biological Sciences ORG
+University of Edinburgh ORG
+Roger Land Building PERSON
+The King’s Buildings WORK_OF_ART
+Alexander Crum Brown Road PERSON
+Edinburgh GPE
+3FF CARDINAL
+UK GPE
+15 CARDINAL
+Biological and Environmental Sciences ORG
+Faculty of Natural Sciences ORG
+Cottrell Building ORG
+University of Stirling ORG
+Stirling GPE
+FK9 4LA PERSON
+the first days DATE
+the early 1960 DATE
+Stanford University ORG
+the Jet Propulsion Laboratory ORG
+Earth LOC
+the Mariner 3 LAW
+4 CARDINAL
+Mars LOC
+Earth LOC
+1980 DATE
+JPL ORG
+first ORDINAL
+NASA ORG
+1988 DATE
+the University Corporation for Atmospheric Research ORG
+the US National Science Foundation ORG
+GPSIMET ORG
+NASA ORG
+five CARDINAL
+between 1999 and 2001 DATE
+first ORDINAL
+Earth and Atmospheric Sciences ORG
+Indiana University ORG
+Bloomington GPE
+47405 DATE
+Environmental GPE
+Earth LOC
+Atmospheric Sciences ORG
+University of Massachusetts Lowell ORG
+Lowell GPE
+Earth LOC
+Environmental Sciences ORG
+Lehigh University ORG
+Bethlehem GPE
+18015 DATE
+Earth LOC
+Arizona State University ORG
+85287 DATE
+ATMOSPHERIC ORG
+PLANETARY SCIENCES Correction ORG
+the Mid-Ocean Ridge FAC
+MOR ORG
+Stacey L. Worman PERSON
+Lincoln F. Pratson ORG
+Jeffrey A. Karson PERSON
+William H. Schlesinger PERSON
+June 1, 2020 DATE
+10.1073 CARDINAL
+Sci PERSON
+117 CARDINAL
+CO 2 PRODUCT
+1 CARDINAL
+1D CARDINAL
+5 CARDINAL
+Earth LOC
+Sun ORG
+Mercury ORG
+2 CARDINAL
+2 CARDINAL
+3 CARDINAL
+Mercury ORG
+Earth LOC
+CO 2 PRODUCT
+Earth LOC
+1 CARDINAL
+N. et al PERSON
+A&A 605 PRODUCT
+A71 PERSON
+2017 DATE
+2 CARDINAL
+L. PERSON
+A. & Van Hoolst ORG
+T. Volcanism PERSON
+Earth LOC
+269 CARDINAL
+2017 DATE
+3 CARDINAL
+B. J. & Smye ORG
+A. J. Carbon Cycling PERSON
+18 CARDINAL
+2018 DATE
+25% PERCENT
+Earth LOC
+Australian NORP
+about 10% PERCENT
+Australia GPE
+Standards, Certification and Assurance ( WORK_OF_ART
+SCA ORG
+Australian NORP
+SCA ORG
+SCA ORG
+one CARDINAL
+Earth LOC
+CAMP ORG
+CAMP ORG
+continental ORG
+CAMP ORG
+CAMP ORG
+mid‐paleolatitude Pan‐European NORP
+CAMP ORG
+87Sr/86Sr CARDINAL
+10 1 Department of Geosciences and Natural Resource Mana­ PERCENT
+University of Copenhagen ORG
+Copenhagen ORG
+Denmark 2 Department of Geology ORG
+Trinity College Dublin ORG
+The University of Dublin ORG
+Dublin GPE
+Ireland 3 Department of Earth Sciences ORG
+University of Oxford ORG
+Oxford GPE
+United Kingdom 4 Deapartment of Geology GPE
+Eötvös University ORG
+Budapest GPE
+Hungary 5 Research Group for Paleontology ORG
+Hungarian Academy ORG
+Budapest GPE
+Hungary GPE
+Sustain­ ability Institute, ORG
+University of Exeter ORG
+Cornwall GPE
+United Kingdom GPE
+186 CARDINAL
+euxinia GPE
+the Central Atlantic ORG
+CAMP ORG
+Marzoli GPE
+al. GPE
+1999 DATE
+Schoene PERSON
+2010 DATE
+Whiteside ORG
+al. GPE
+2010 DATE
+Blackburn PERSON
+al. PERSON
+2013 DATE
+Davies ORG
+2017 DATE
+Percival GPE
+2017 DATE
+1999 DATE
+van de Schootbrugge PERSON
+2009 DATE
+Ruhl PERSON
+2011 DATE
+anoxia/euxinia ORG
+2012 DATE
+Jaraula PERSON
+2013 DATE
+Kasprak PERSON
+2015 DATE
+Hautmann et al. PERSON
+2008 DATE
+Hönisch et al. PERSON
+2012 DATE
+Greene PERSON
+2012 DATE
+Hallam GPE
+Wignall GPE
+1997 DATE
+Pálfy et al. ORG
+2001 DATE
+Cohen PERSON
+Coe PERSON
+2002 DATE
+2007 DATE
+Hesselbo PERSON
+2002 DATE
+Pálfy ORG
+2003 DATE
+Tanner et al. PERSON
+2004 DATE
+McElwain GPE
+Punyasena GPE
+2007 DATE
+Hautmann et al. PERSON
+2008 DATE
+2009 DATE
+Kiessling GPE
+2009 DATE
+2012 DATE
+Bottini ORG
+al. PERSON
+2016 DATE
+Sections GPE
+30 CARDINAL
+30 CARDINAL
+Ocean and Ecological Sciences ORG
+School of Environmental Sciences ORG
+University of Liverpool ORG
+UK GPE
+Universidad Nacional de San Juan ORG
+Argentina GPE
+New York University ORG
+6 CARDINAL
+University of Illinois at Urbana-Champaign ORG
+University of Washington Applied Physics Lab ORG
+The US National Center for Atmospheric Research ORG
+9 CARDINAL
+10.21105 CARDINAL
+Earth LOC
+Eocene NORP
+the Community Earth System Model ORG
+ESM ORG
+Earth LOC
+Eocene PRODUCT
+seasonal DATE
+the Annual Review of Earth and Planetary Sciences ORG
+52 CARDINAL
+May 2024 DATE
+first ORDINAL
+May of this year DATE
+Earth LOC
+15 to 150 km QUANTITY
+two CARDINAL
+first ORDINAL
+second ORDINAL
+Clouds PERSON
+Earth LOC
+daytime TIME
+the Cloud-Aerosol Transport System ORG
+the International Space Station ORG
+SNR ORG
+50% PERCENT
+daytime TIME
+60 km QUANTITY
+ML ORG
+1 CARDINAL
+1064 DATE
+SNR ORG
+75% PERCENT
+2 CARDINAL
+30% PERCENT
+3 CARDINAL
+40% PERCENT
+daytime TIME
+5 km QUANTITY
+60 km QUANTITY
+daytime TIME
+Convolutional Neural Network ORG
+CNN ORG
+daytime DATE
+the past few decades DATE
+thousands CARDINAL
+Causal Space‐Time Stencil Learning ORG
+causal discovery algorithm PERSON
+1991 DATE
+Mount Pinatubo EVENT
+CO2 PRODUCT
+the Industrial Revolution EVENT
+Emissions of CO2 ORG
+13C/12C CARDINAL
+CO2 PRODUCT
+δ13CO2 GPE
+12C DATE
+δ13CO2 DATE
+Emissions of CO2 ORG
+14C CARDINAL
+14C CARDINAL
+14C. Atmospheric ORG
+the 1950s to 1960s DATE
+14C CARDINAL
+Δ14C ORG
+CO2 PRODUCT
+the first few decades DATE
+14C CARDINAL
+δ13CO2 DATE
+12C DATE
+δ13CO2 DATE
+δ13CO2 GPE
+Δ14CO2 GPE
+CO2 PRODUCT
+δ13CO2 DATE
+δ13CO2 DATE
+six CARDINAL
+6th ORDINAL
+δ13CO2 DATE
+the Earth System ORG
+INAR (Institute for Atmospheric and Earth System Research ORG
+University of Helsinki ORG
+1200 CARDINAL
+ICOS ORG
+ACTRIS ORG
+AnaEE PERSON
+30 years DATE
+30 years DATE
+one CARDINAL
+14 CARDINAL
+One CARDINAL
+the early years DATE
+site´s NORP
+INAR NORP
+2017 DATE
+winter DATE
+the last ten years DATE
+ages 5-18 DATE
+Pirkanmaa ORG
+NASA ORG
+Earth Observing System Data and Information System ORG
+EOSDIS ORG
+Earth Observation ORG
+EOSDIS ORG
+the next few years DATE
+1 CARDINAL
+ESSIC ORG
+University of Maryland ORG
+College Park GPE
+MD GPE
+USA 2 Joint Global Change Research Institute ORG
+Pacific Northwest National Laboratory ORG
+PNNL ORG
+College Park GPE
+MD GPE
+USA 3 School of Public Policy ORG
+University of Maryland ORG
+College Park GPE
+MD GPE
+USA 4 Department of Atmospheric and Oceanic Science, University of Maryland ORG
+College Park GPE
+MD GPE
+USA GPE
+10.21105 CARDINAL
+Lagrangian NORP
+Earth Science FAC
+the Labrador Current ORG
+Lagrangian NORP
+Cartesian NORP
+the Labrador Current ORG
+20% and 50% PERCENT
+4%–42% PERCENT
+24%–73% PERCENT
+Two thirds CARDINAL
+the Grand Banks FAC
+one quarter DATE
+Flemish Cap LOC
+fed ORG
+the Labrador Current ORG
+the Gulf Stream FAC
+Weather GPE
+Weather PERSON
+Atmospheric / Oceanic / Climate / Earth Sciences ORG
+Neural Network ORG
+Chonggang Xu PERSON
+Youzuo Lin PERSON
+Nishant Panda PERSON
+Vesselinov PERSON
+Humberto Godinez PERSON
+Los Alamos National Laboratory Focal Area 2 ORG
+AI GPE
+DOE ORG
+AI GPE
+AI GPE
+the Functionally Assembled Terrestrial Simulator ( ORG
+first ORDINAL
+two CARDINAL
+First ORDINAL
+FATES ORG
+Second ORDINAL
+FATES ORG
+two CARDINAL
+Markov Chain Monte-Carlo PERSON
+One CARDINAL
+1 CARDINAL
+Rationale Earth System ORG
+systems2 PERSON
+3,4 CARDINAL
+first ORDINAL
+ESMs5,6 ORG
+water5 PERSON
+DOE ORG
+E3SM ORG
+FATES ORG
+FATES ORG
+January 28, 2021 DATE
+a Nobel Prize WORK_OF_ART
+Earth LOC
+Paul Josef Crutzen PERSON
+Amsterdam GPE
+1933 DATE
+1957 DATE
+The Netherlands GPE
+Sweden GPE
+Paul PERSON
+the Meteorology Institute of Stockholm University ORG
+Gustav Rossby PERSON
+Paul PERSON
+MISU PERSON
+Bert Bolin PERSON
+the Intergovernmental Panel on Climate Change ORG
+Paul PERSON
+The Netherlands GPE
+Stockholm University ORG
+1968 DATE
+MISU NORP
+Paul PERSON
+Paul PERSON
+the United States GPE
+Boulder GPE
+1977 DATE
+Germany GPE
+Max Planck Institute for Chemistry ORG
+Mainz PERSON
+1980 DATE
+Stockholm GPE
+between 15 and 35 CARDINAL
+Earth LOC
+up to 99% PERCENT
+Sun ORG
+Paul PERSON
+1 CARDINAL
+A few years later DATE
+Sherwood PERSON
+Mario Molina PERSON
+Paul J. Crutzen PERSON
+Carsten Costard Photography PERSON
+first ORDINAL
+A.L. Chizhevsky ORG
+Sun ORG
+Earth LOC
+10 до 1000 CARDINAL
+характерных для облаков верхнего PERSON
+непоглощающих длин PERSON
+Исследование PERSON
+данных PERSON
+полученных PERSON
+пространственной NORP
+однократного рассеяния PERSON
+Исследовалось GPE
+форм частиц PERSON
+0,355 CARDINAL
+2,15 CARDINAL
+Полученные PERSON
+могут NORP
+данных лазерного зондирования PERSON
+облаков с PERSON
+Земли ORG
+космоса GPE
+10 to 1000 CARDINAL
+the Institute of Atmospheric Optics ORG
+Siberian Branch PERSON
+the Russian Academy of Sciences ORG
+0.355 CARDINAL
+2.15 CARDINAL
+Earth LOC
+Earth LOC
+Earth LOC
+four centuries DATE
+Earth LOC
+Earth LOC
+Earth LOC
+more than a hundred CARDINAL
+Earth LOC
+recent years DATE
+the last decade DATE
+the Earth Sciences Department ORG
+the Barcelona Supercomputing Center ORG
+Ph.D. WORK_OF_ART
+Global / Regional ORG
+NMMB/BSC-CTM ORG
+NMMB ORG
+Ph.D. WORK_OF_ART
+Ph.D. WORK_OF_ART
+first ORDINAL
+a full year DATE
+the Air Quality Model Evaluation International Initiative ORG
+AQMEII PERSON
+North America LOC
+Europe LOC
+European NORP
+NMMB/BSC-CTM ORG
+La contaminació de l’aire ORG
+el medi ambient ORG
+de contaminació de l’aire ORG
+la química GPE
+el transport ORG
+Els Models de Qualitat de
+l’Aire ( ORG
+la mala qualitat de l’aire PERSON
+han NORP
+La capacitat de la ORG
+dècada ORG
+més processos PERSON
+D’una CARDINAL
+altra banda ORG
+la química GPE
+l’augment de la potència de càlcul PERSON
+cada ORG
+vegada més ORG
+la comunitat atmosfèrica FAC
+El NMMB/BSC Chemical Transport Model ORG
+un ORG
+al Departament de Ciències de la Terra PERSON
+d’aquesta GPE
+al desenvolupament PERSON
+un ORG
+rang d’escales PERSON
+el principal PERSON
+d’aquesta GPE
+troposfèrica PERSON
+NMMB/BSC-CTM ORG
+Utilitzant el nucli PERSON
+NMMB ORG
+de processos PERSON
+ara la PERSON
+la química dels núvol ORG
+la química GPE
+la primera ORG
+la química GPE
+un ORG
+el projecte de l’Air Quality Model Evaluation International Initiative ORG
+AQMEII PERSON
+l’Amèrica del Nord PERSON
+Europa LOC
+El nostre ORG
+va participar GPE
+el domini europeu PERSON
+el model PERSON
+NMMB/BSC-CTM ORG
+mostra una bona avinença amb PRODUCT
+amb l’estat de l’art dels ORG
+the first half of the 19th century DATE
+Earth LOC
+the middle and second half of the century DATE
+Earth LOC
+the turn of the 19th century to the 20th DATE
+first ORDINAL
+the 1930s DATE
+the mid-20th century DATE
+today DATE
+The Apache Point Observatory Lunar Laser-ranging ORG
+Operation (APOLLO ORG
+2006 DATE
+3.5 CARDINAL
+the Sacramento Mountains LOC
+New Mexico GPE
+SG ORG
+2009 DATE
+mm PERSON
+10 years DATE
+GPS Plate Boundary Observatory ORG
+SG ORG
+the Ecole et Observatoire des Sciences de la Terre ORG
+EOST ORG
+the International Earth Rotation Service ORG
+12 CARDINAL
+EOST ORG
+SG ORG
+more than 90% PERCENT
+up to 4 CARDINAL
+μGal ORG
+1.5 CARDINAL
+μGal ORG
+two CARDINAL
+2009-2012 DATE
+2013-2018 DATE
+UNAVCO ORG
+the Planetary Ephemeris Program ORG
+ALTIUS ORG
+Atmospheric Limb Tracker PERSON
+Earth LOC
+atmospheric sciences ORG
+Fussen et al. PERSON
+JQSRT ORG
+2019 DATE
+the ESA Earth Watch ORG
+2024 DATE
+three CARDINAL
+ALTIUS ORG
+ALTIUS ORG
+Aura Microwave Limb Sounder ORG
+MLS ORG
+between June and September 2008 DATE
+MLS ORG
+the Belgian Assimilation System ORG
+MLS ORG
+ALTIUS ORG
+ALTIUS ORG
+ALTIUS ORG
+ALTIUS ORG
+ALTIUS ORG
+MLS ORG
+ALTIUS ORG
+the polar night TIME
+June-August DATE
+September DATE
+the Surface Ocean-Lower Atmosphere Study LOC
+Earth LOC
+Special Feature ORG
+2014 DATE
+CCN ORG
+A. Petzold PERSON
+M. Gysel PERSON
+X. Vancassel PERSON
+R. Hitzenberger PERSON
+H. Puxbaum PERSON
+S. Vrochticky PERSON
+E. Weingartner ORG
+P. Mirabel Institut PERSON
+Physik ORG
+Atmosphäre PERSON
+Oberpfaffenhofen PERSON
+82234 DATE
+Wessling GPE
+Germany School of Earth, Atmospheric and Environmental Sciences ORG
+University of Manchester ORG
+P.O. Box PERSON
+Manchester M60 ORG
+1QD CARDINAL
+UK Atmospheric, Oceanic and Planetary Physics, ORG
+University of Oxford ORG
+Clarendon Laboratory ORG
+Parks Road GPE
+Oxford OX1 3PU ORG
+UK Institute for Experimental Physics ORG
+Univ PERSON
+Vienna GPE
+Boltzmanngasse 5 GPE
+1090 DATE
+Vienna GPE
+Austria Institute for Chemical Technologies and Analytics ORG
+Vienna University of Technology ORG
+Vienna GPE
+Austria Laboratory of Atmospheric Chemistry ORG
+Paul Scherrer Institut PERSON
+PSI ORG
+5232 DATE
+Villigen ORG
+Switzerland GPE
+Universite Louis Pasteur FAC
+28 DATE
+rue Goethe FAC
+67000 DATE
+Strasbourg GPE
+France GPE
+Mediterranean LOC
+Mediterranean LOC
+the fall season DATE
+summer DATE
+the last decade DATE
+NWP ORG
+One CARDINAL
+Mediterranean LOC
+Mediterranean LOC
+MEDUP ORG
+2008–2011 CARDINAL
+the French National Research Agency ORG
+ANR ORG
+Vulnerabilite Milieux GPE
+Climat ORG
+NWP ORG
+MEDUP PERSON
+1–4 day DATE
+1–3 month DATE
+MEDUP PERSON
+Mediterranean LOC
+France GPE
+MEDUP GPE
+Natural Hazards ORG
+Earth System Sciences ORG
+14 CARDINAL
+MEDUP ORG
+MEDUP PERSON
+The El Niño Southern Oscillation ORG
+El Niño ORG
+La Niña ORG
+linear ORG
+ENSO ORG
+ENSO ORG
+El Niño ORG
+La Niña ORG
+Indian NORP
+Atlantic Oceans NORP
+Pacific LOC
+ENSO ORG
+ENSO ORG
+1 CARDINAL
+Department of Atmospheric Sciences ORG
+Yonsei University ORG
+Seoul GPE
+Republic of Korea 2 Department of Earth GPE
+Planetary Sciences and School of Engineering and ORG
+Applied Sciences ORG
+Harvard University ORG
+Cambridge GPE
+MA GPE
+USA 3 Institute for Geophysics ORG
+The University of Texas ORG
+Austin GPE
+Austin GPE
+TX ORG
+USA 4 Department of Atmospheric Sciences/ ORG
+University of Hawai’i ORG
+Honolulu GPE
+154 CARDINAL
+T. Li PERSON
+1997b DATE
+An & Jin ORG
+2000 DATE
+Fedorov & Philander ORG
+2000 DATE
+An & Jin ORG
+2001 DATE
+some decades DATE
+ENSO ORG
+Kirtman & Schopf ORG
+1998 DATE
+Levine & Jin ORG
+2010 DATE
+5 CARDINAL
+20–40 degrees QUANTITY
+5–30 days DATE
+around 5 to 10 CARDINAL
+Harrison & Vecchi ORG
+1997 DATE
+L. Yu et PERSON
+2003 DATE
+Seiki & Takayabu ORG
+2007a DATE
+ENSO ORG
+Harrison & Vecchi ORG
+1997 DATE
+Eisenman PERSON
+2005 DATE
+Levine & Jin ORG
+2010 DATE
+Rong et al. PERSON
+2011 DATE
+D. Chen et al. PERSON
+2015 DATE
+Hayashi & Watanabe ORG
+2017 DATE
+1999 DATE
+SST ORG
+El Niño ORG
+Verbickas PERSON
+1998 DATE
+L. Yu et PERSON
+2003 DATE
+Eisenman PERSON
+2005 DATE
+El Niño ORG
+El Niño ORG
+La Niña ORG
+La Niña ORG
+1987 DATE
+Burgers & tephenson ORG
+1999 DATE
+An & Jin ORG
+2004 DATE
+El Niño ORG
+a La Niña ORG
+the following year DATE
+Larkin & Harrison ORG
+2002 DATE
+M. Chen et al. PERSON
+2016 DATE
+An & Kim ORG
+2017 DATE
+La Niñas ORG
+the following year DATE
+El Niños ORG
+next summer DATE
+Ohba & Ueda ORG
+2007 DATE
+Okumura & Deser ORG
+2010 DATE
+Choi ORG
+2013 DATE
+DiNezio & Deser ORG
+2014 DATE
+An & Kim ORG
+2018 DATE
+El Niños ORG
+Pacific LOC
+La Niñas FAC
+Pacific LOC
+1997 DATE
+Kang & Kug ORG
+2002 DATE
+Takahashi ORG
+2011 DATE
+Dommenget et al. PERSON
+2013 DATE
+El Niño ORG
+La Niña ORG
+An & Kim ORG
+2018 DATE
+Zebiak & Cane ORG
+1986 DATE
+An & Jin ORG
+2004 DATE
+Su et al PERSON
+2010 DATE
+SST ORG
+2002 DATE
+Frauen & Dommenget ORG
+2010 DATE
+Choi ORG
+2013 DATE
+An & Kim ORG
+2017 DATE
+2018 DATE
+Battisti & Hirst ORG
+1989 DATE
+2002 DATE
+An & Jin ORG
+2004 DATE
+Jin et al. PERSON
+2007 DATE
+Kug et al. FAC
+2008 DATE
+Rong et al. PERSON
+2011 DATE
+Levine et al. PERSON
+2016 DATE
+Hayashi & Watanabe ORG
+2017 DATE
+J. Yu & Liu ORG
+2003 DATE
+An, 2008a DATE
+2008b DATE
+Timmermann & Jin ORG
+2002 DATE
+Lloyd et al. PERSON
+2012 DATE
+Indian NORP
+Atlantic LOC
+Ohba & Ueda ORG
+2007 DATE
+Okumura & Deser ORG
+2010 DATE
+An & Kim ORG
+2018 DATE
+Pacific LOC
+ENSO ORG
+ENSO ORG
+B. Wang PERSON
+1999 DATE
+B. Wang PERSON
+2001 DATE
+Y. Li PERSON
+2007 DATE
+B. Wu PERSON
+Choi ORG
+2013 DATE
+2015 DATE
+M. Chen et al. PERSON
+2016 DATE
+An & Kim ORG
+2017 DATE
+2018 DATE
+M. Chen & Li ORG
+2018 DATE
+ENSO ORG
+section 7.2 LAW
+section 7.5 LAW
+10.7185 CARDINAL
+Nitrogen ORG
+δ15N ORG
+1878 DATE
+Ma Gunflint Formation PRODUCT
+the Animikie Basin LOC
+13 CARDINAL
+δ15N ORG
+two CARDINAL
+500 CARDINAL
+575 CARDINAL
+575 CARDINAL
+δ15N ORG
+Pr/Sm ORG
+δ15N ORG
+δ15N ORG
+Animikie PERSON
+17 CARDINAL
+February 2017 DATE
+21 June 2017 DATE
+August 2017 1 DATE
+Department of Earth Science ORG
+Tohoku University ORG
+Sendai ORG
+Japan GPE
+Institute for Excellence ORG
+Tohoku University ORG
+Sendai ORG
+Japan GPE
+2 CARDINAL
+Department of Earth and Space Sciences ORG
+Graduate School of Science ORG
+Osaka University ORG
+Toyonaka ORG
+Japan GPE
+Division of Earth and Environmental Science, Faculty of Science ORG
+Ibaraki University ORG
+Japan Introduction ORG
+δ15N ORG
+Beaumont GPE
+Robert PERSON
+1999 DATE
+Shen PERSON
+2006 DATE
+Ader et al. PERSON
+2016 DATE
+Stüeken PERSON
+al. GPE
+2016 DATE
+two CARDINAL
+the Gunflint Formation PRODUCT
+δ15N ORG
+Ishida PERSON
+2012 DATE
+11 CARDINAL
+δ15N ORG
+Gunflint PERSON
+The Gunflint Formation PRODUCT
+the Animikie Group ORG
+Lake Superior LOC
+Ontario GPE
+Canada GPE
+Goodwin PERSON
+1956 DATE
+1878 DATE
+1.3 Ma PERSON
+U-Pb ORG
+Fralick et al. PERSON
+2002 DATE
+the Animikie Basin LOC
+Schulz PERSON
+Cannon ORG
+2007 DATE
+Supplementary Information ORG
+Kerogen ORG
+Ishida PERSON
+2012 DATE
+Kerogen ORG
+450 CARDINAL
+1100 CARDINAL
+450 CARDINAL
+two CARDINAL
+one CARDINAL
+575 CARDINAL
+more than 575 CARDINAL
+Ishida PERSON
+2012 DATE
+Between 475 CARDINAL
+575 CARDINAL
+25 CARDINAL
+oC DATE
+one CARDINAL
+1100 DATE
+δ15N ORG
+2017 DATE
+4 CARDINAL
+13 CARDINAL
+10.7185 CARDINAL
+14 CARDINAL
+δ15N ORG
+Beaumont GPE
+Robert PERSON
+1999 DATE
+Godfrey et al. PERSON
+2013 DATE
+14N DATE
+the Gunflint Formation ORG
+up to 5 CARDINAL
+Haendal ORG
+1986 DATE
+Ader et al. PERSON
+2016 DATE
+δ15N ORG
+C/N ORG
+Haendal ORG
+1986 DATE
+Fig PERSON
+δ15N ORG
+δ15N ORG
+Shen et al. PERSON
+2006 DATE
+Brandes PERSON
+2007 DATE
+Sigman NORP
+2009 DATE
+Hashizume et al. PERSON
+2016 DATE
+δ15N ORG
+Lehmann PERSON
+al. GPE
+2002 DATE
+Pinti NORP
+2011 DATE
+Papineau PERSON
+al PERSON
+2013 DATE
+δ15N ORG
+Palaeoproterozoic Indian NORP
+‰. PERSON
+N2 CARDINAL
+δ15N ORG
+Gunflint PERSON
+Palaeoproterozoic PERSON
+Beaumont GPE
+Robert PERSON
+1999 DATE
+Papineau PERSON
+al. GPE
+2009 DATE
+Godfrey et al. PERSON
+2013 DATE
+Stüeken PERSON
+al. GPE
+2016 DATE
+δ15N ORG
+Current River LOC
+Supplementary Information and ORG
+0714 MONEY
+0715 MONEY
+0711 MONEY
+0703 MONEY
+0701 MONEY
+0702 MONEY
+1 CARDINAL
+13 CARDINAL
+δ15N ORG
+δ15N ORG
+δ15N ORG
+δ15N ORG
+Ishida PERSON
+2012 DATE
+1 CARDINAL
+13 CARDINAL
+the Gunflint Formation ORG
+0704 MONEY
+Ishida PERSON
+2012 DATE
+Nitrogen ORG
+δ15N ORG
+δ15N ORG
+Earth LOC
+the Amazon Web Services ORG
+Jupyter PERSON
+less than one hour TIME
+GEOS-Chem ORG
+Earth LOC
+Key Laboratory of Submarine Geosciences and Prospecting Technology ORG
+College of Marine Geosciences ORG
+Ocean University of China ORG
+Qingdao GPE
+China GPE
+Laboratory for Marine Geology ORG
+Qingdao National Laboratory for Marine Science and Technology ORG
+Qingdao GPE
+China GPE
+State Key Laboratory ORG
+Marine Geology ORG
+Tongji University ORG
+Shanghai GPE
+China GPE
+College of Marine Science ORG
+Hainan University ORG
+Haikou GPE
+China GPE
+Department of Marine ORG
+Earth LOC
+Atmospheric Sciences ORG
+North Carolina State University GPE
+Raleigh GPE
+NC GPE
+United States GPE
+103498 DATE
+17 nights TIME
+three CARDINAL
+1.04 CARDINAL
+the Aryabhatta Research Institute of Observational Sciences (ARIES ORG
+Nainital ORG
+five nights TIME
+2007 DATE
+15 CARDINAL
+2007-2009 DATE
+2.56-m MONEY
+Nordic Optical Telescope PERSON
+La Palma FAC
+2009 February 2 DATE
+103498 DATE
+two CARDINAL
+133792 DATE
+204411 DATE
+Si GPE
+Cr and Fe ORG
+103498 DATE
+Plankton GPE
+Cloud PERSON
+2010 DATE
+the Challenge of Climate and Environmental Change ORG
+NASA ORG
+February 8, 2024 DATE
+NASA ORG
+1 CARDINAL
+NASA ORG
+the 1990s DATE
+the Sea-Viewing Wide Field ORG
+View Sensor PERSON
+the Moderate Resolution Imaging Spectroradiometer ORG
+MODIS GPE
+Multi GPE
+Imaging SpectroRadiometer PRODUCT
+MISR NORP
+the Visible Infrared Imaging ORG
+Radiometer Suite PERSON
+VIIRS ORG
+2 CARDINAL
+NASA ORG
+the PACE Project Science ORG
+Sun ORG
+676.5 km QUANTITY
+98 degrees QUANTITY
+1 pm TIME
+three CARDINAL
+Ocean Color Instrument ORG
+OCI ORG
+two CARDINAL
+the Hyper-Angular Rainbow Polarimeter 2 ORG
+OCI ORG
+Goddard Space Flight Center ORG
+NASA ORG
+DTC ORG
+DTC ORG
+DTC ORG
+DTC ORG
+DTC ORG
+OCI ORG
+the Ocean Color Instrument ORG
+the Russian Academy of Sciences ORG
+RAS ORG
+the bureau of RAS Council for Space ORG
+the Research Institute of Nuclear Physics ORG
+Lomonosov Moscow State University ORG
+MSU ORG
+3 November 2020 DATE
+the age of 75 DATE
+Mikhail Igorevich Panasyuk PERSON
+the Physical Department ORG
+MSU ORG
+1967 DATE
+1972 DATE
+That same year DATE
+1988 DATE
+1993 DATE
+Mikhail Igorevich's PERSON
+the Research Institute of Nuclear Physics ORG
+50 years DATE
+30 CARDINAL
+Earth LOC
+Earth LOC
+M I Panasyuk ORG
+Earth LOC
+Antarctica LOC
+Lake BaikalÐaimed LOC
+2005 DATE
+2009 DATE
+Earth LOC
+Vernov ORG
+2014 DATE
+Earth LOC
+Nuklon PRODUCT
+Russian NORP
+Lomonosov PERSON
+2016 DATE
+Russian NORP
+Meteor ORG
+Elektro GPE
+Glonass PERSON
+Kosmos PERSON
+the International Space Station ORG
+the Prize of the USSRMinistry of Higher and Secondary Special Education WORK_OF_ART
+1985 DATE
+the M V Lomonosov Prize PRODUCT
+1999 DATE
+1987 DATE
+Russia GPE
+2005 DATE
+the Physical Department ORG
+MSU ORG
+1992 DATE
+191 CARDINAL
+3 CARDINAL
+331 CARDINAL
+332 CARDINAL
+2021 DATE
+AI GPE
+AI GPE
+AI GPE
+GHG ORG
+Earth LOC
+AI GPE
+three CARDINAL
+AI GPE
+ESM ORG
+Meta-Analysis and Implications for Paleo-CO2 Reconstruction ORG
+Hendrik Poorter PERSON
+Thijs L. Pons 3 PERSON
+Tammo Reichgelt 4 PERSON
+Wageningen University ORG
+Research PO LOC
+6700 DATE
+The Netherlands
+ GPE
+IBG-2 ORG
+Forschungszentrum Jülich PERSON
+52325 DATE
+Germany GPE
+3 CARDINAL
+Experimental ORG
+Computational Plant Development ORG
+Institute of Environmental Biology ORG
+Utrecht University ORG
+3512 DATE
+Utrecht PERSON
+The Netherlands
+ GPE
+Department of Earth Sciences ORG
+University of Connecticut ORG
+354 CARDINAL
+Mansfield Road FAC
+Storrs GPE
+21 September 2024 DATE
+30 November 2024 DATE
+4 December 2024 DATE
+13 January 2025 DATE
+CO2 PRODUCT
+CO2 PRODUCT
+CO2 PRODUCT
+paleo-CO2 ORG
+martian NORP
+ALH84001 PERSON
+D. S. McKay et al . PERSON
+16 Aug. DATE
+924][1 CARDINAL
+Earth LOC
+Mars LOC
+Earth LOC
+dozen CARDINAL
+more than 2000 CARDINAL
+Mars LOC
+B. J. Gladman PERSON
+al . ORG
+8 CARDINAL
+1387][3 CARDINAL
+Venus to Neptune ORG
+a few percent PERCENT
+martian NORP
+Earth LOC
+several million years DATE
+ALH84001 ORG
+several years DATE
+2][4 CARDINAL
+millions CARDINAL
+martian NORP
+martian NORP
+Earth LOC
+Earth LOC
+the first 107 years DATE
+1 CARDINAL
+107 CARDINAL
+martian NORP
+Earth LOC
+less than half CARDINAL
+less than a year DATE
+dozen CARDINAL
+martian NORP
+Earth LOC
+less than 105 years DATE
+Mars LOC
+one CARDINAL
+Earth LOC
+less than a year DATE
+Mars LOC
+Earth LOC
+Earth LOC
+martian NORP
+Earth LOC
+martian NORP
+a year DATE
+Earth LOC
+Mars LOC
+about 0.1% PERCENT
+Mars LOC
+fewer than 1 CARDINAL
+107 CARDINAL
+1 CARDINAL
+1.[ CARDINAL
+][5 PRODUCT
+1 CARDINAL
+H. J. Melosh PERSON
+332 CARDINAL
+687 CARDINAL
+1988 DATE
+1 CARDINAL
+M. Moreno PERSON
+336 CARDINAL
+209 CARDINAL
+1988 DATE
+1 CARDINAL
+J. Goode PERSON
+1 CARDINAL
+P. C. W. Davies PERSON
+Evolution of Hydrothermal Ecosystems ORG
+Earth LOC
+Ciba Foundation ORG
+202 CARDINAL
+J. Goode Ed PERSON
+Ciba Foundation ORG
+London GPE
+2 CARDINAL
+1 CARDINAL
+F. J. Mitchell PERSON
+2 CARDINAL
+W. L. Ellis
+ PERSON
+Analysis of Surveyor 3 ORG
+Photographs Returned PERSON
+Apollo 12 ORG
+National Aeronautics and Space Administration ORG
+Washington GPE
+1972 DATE
+239 248 CARDINAL
+G. Horneck, Nucl PERSON
+20 DATE
+185 CARDINAL
+1992 DATE
+1 CARDINAL
+2 CARDINAL
+3 CARDINAL
+4 CARDINAL
+5 CARDINAL
+1 CARDINAL
+1 CARDINAL
+6 CARDINAL
+2004%26url_ver%253DZ39.88 CARDINAL
+7 CARDINAL
+8 CARDINAL
+9 CARDINAL
+1 CARDINAL
+2 CARDINAL
+Earth LOC
+about 31% PERCENT
+CO2 PRODUCT
+CO2 PRODUCT
+CO2 PRODUCT
+CO2 PRODUCT
+23 CARDINAL
+Earth LOC
+44.78 PgC MONEY
+PgC ORG
+CO2 PRODUCT
+Earth LOC
+NPP ORG
+CO2 PRODUCT
+NPP ORG
+NPP ORG
+NPP ORG
+CO2 PRODUCT
+the Chinese Academy of Sciences Earth System Model ORG
+CAS-ESM2 ORG
+22 CARDINAL
+CMIP6 ORG
+CMIP6 NORP
+CO2 PRODUCT
+MME ORG
+NPP ORG
+CAS-ESM2 ORG
+NPP ORG
+MME ORG
+NPP ORG
+NPP ORG
+NPP ORG
+NPP ORG
+CAS-ESM2 ORG
+MME ORG
+NPP ORG
+1 CARDINAL
+Institute of Bioand Geosciences ORG
+Agrosphere Institute ORG
+Jülich GPE
+Germany GPE
+Department of Physics and Earth Sciences ORG
+Università GPE
+Ferrara NORP
+Ferrara LOC
+Italy GPE
+3 CARDINAL
+Ferrara Section GPE
+Ferrara LOC
+Italy GPE
+GFZ German Research Centre for Geosciences ORG
+Potsdam GPE
+Germany GPE
+5 CARDINAL
+Institute of Environmental Science and ORG
+Geography, University of Potsdam, ORG
+Potsdam GPE
+Germany GPE
+6 CARDINAL
+University Corporation for Atmospheric Research ORG
+Boulder GPE
+NV GPE
+United States GPE
+Helmholtz Centre for Environmental
+Nanosatellites ORG
+CubeSat ORG
+the last two decades DATE
+2017 DATE
+South African NORP
+Space Commercial Services ORG
+three CARDINAL
+Gecko GPE
+FIPEX atmospheric science instrument ORG
+the University of Dresden ORG
+VHDL ORG
+Nelson Mandela University ORG
+Gecko GPE
+64 km QUANTITY
+30 CARDINAL
+RGB ORG
+Landsat 8 PERSON
+Blind/Referenceless Image Spatial Quality Evaluator ORG
+Landsat 8 PERSON
+the National Imagery Interpretability Rating Scale ORG
+NIIRS ORG
+Landsat 8 OLI PERSON
+NIIRS ORG
+Landsat 8 PERSON
+19.299 DATE
+25.873 CARDINAL
+Landsat 8 PERSON
+NIIRS ORG
+2.345 CARDINAL
+1.622 CARDINAL
+Landsat PERSON
+8 CARDINAL
+Landsat 8 PERSON
+30 CARDINAL
+32 CARDINAL
+12-bit QUANTITY
+8-bit QUANTITY
+Landsat 8 PERSON
+NIIRS ORG
+NIIRS ORG
+1.6 CARDINAL
+Earth LOC
+Pacific LOC
+roughly three quarters CARDINAL
+Earth LOC
+The Environmental Trace Gases Monitoring Instrument ORG
+EMI ORG
+first ORDINAL
+Chinese NORP
+EMI ORG
+9 May 2018 DATE
+EMI ORG
+first ORDINAL
+EMI ORG
+EMI NO2 ORG
+EMI NO2 ORG
+Ozone Monitoring Instrument ORG
+TROPOspheric Monitoring Instrument ORG
+Clouds PERSON
+earth LOC
+CCN ORG
+Holuhraun PERSON
+Iceland GPE
+2014 DATE
+CCN ORG
+Three CARDINAL
+SO2 PRODUCT
+Malavelle GPE
+2017 DATE
+one-fifth CARDINAL
+5 CARDINAL
+First ORDINAL
+SO2 PRODUCT
+Cloud PERSON
+West Africa’s GPE
+over 70% PERCENT
+IPCC ORG
+the Global South LOC
+West Africa GPE
+TAMSAT ORG
+CHIRPS PERSON
+the Northern Region LOC
+Ghana GPE
+TAMSAT ORG
+CHIRPS PERSON
+RainRunner ORG
+Schools PERSON
+SaS ORG
+Earth Observation ORG
+Machine Learning ORG
+SaS ORG
+the European Space Agency ORG
+CSEOL ORG
+TU Delft ORG
+PULSAQUA ORG
+Ghana GPE
+the Ghana Meteorological Agency ORG
+West Africa GPE
+RainRunner ORG
+atmospheric aerosols PERSON
+ESA ORG
+S1 GPE
+S2 GPE
+S3 ORG
+MSG ORG
+Digital Elevation Model ORG
+CNN ORG
+ML ORG
+The Proof-of-Concept WORK_OF_ART
+TAHMO ORG
+GMet ORG
+Citizen Science ORG
+Ghana GPE
+RainRunner ORG
+the Global South LOC
+Miller‐Urey PRODUCT
+Earth LOC
+Primordial Earth ORG
+2.5 CARDINAL
+Monte Carlo PERSON
+Miller PERSON
+Urey ORG
+MU ORG
+Kasting PERSON
+1993 DATE
+Earth 3.8 Ga ago LOC
+Modern Earth LOC
+140–180 CARDINAL
+Kasting LOC
+MU ORG
+Kasting LOC
+Earth LOC
+NASA ORG
+Earth Radiation Budget Science Team ORG
+ERB-ST ORG
+the CERES Science Team ORG
+NASA ORG
+Langley Research Center ORG
+Earth Radiation Budget Climate Data ORG
+The Science Data Processing System ORG
+ERB-CDR ORG
+Level ORG
+15 CARDINAL
+9 CARDINAL
+5 CARDINAL
+GEO PRODUCT
+4 CARDINAL
+25 CARDINAL
+TOA ORG
+Surface ORG
+Spatial PRODUCT
+25 km QUANTITY
+1 CARDINAL
+hourly TIME
+3 hourly TIME
+monthly DATE
+Accuracy PERSON
+one CARDINAL
+Geo PRODUCT
+the Earth Radiation Budget Science Team ORG
+Everyday Equalities: Making Multicultures WORK_OF_ART
+Settler Colonial Cities ORG
+Ruth Fincher PERSON
+Kurt Iveson PERSON
+Helga Leitner PERSON
+Valerie Preston Michele Lobo PERSON
+Jayani J. Bonnerjee PERSON
+Helen F. Wilson PERSON
+Ruth Fincher PERSON
+Kurt Iveson PERSON
+Helga Leitner PERSON
+Valerie Preston School ORG
+Social Sciences ORG
+Deakin University ORG
+Melbourne GPE
+Australia GPE
+Jindal School of Liberal Arts ORG
+Humanities GPE
+O.P. Jindal Global University ORG
+Sonipat GPE
+India GPE
+Department of Geography ORG
+Durham University ORG
+UK GPE
+School of Geography ORG
+Earth LOC
+Atmospheric Sciences ORG
+University of Melbourne ORG
+Australia GPE
+School of Geosciences, University of Sydney ORG
+Australia GPE
+Department of Geography ORG
+UCLA ORG
+Los Angeles GPE
+CA ORG
+USA GPE
+Department of Geography, York University ORG
+Toronto GPE
+Canada GPE

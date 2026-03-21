@@ -1,0 +1,855 @@
+gcmd
+GEOMAGNETIC FORECASTS: Forecasts of the likelihood (from 1% to 99%) that the daily geomagnetic activity level will reach a particular activity category. The four categories are Quiet to Unsettled, Active, Minor Storm, and Major to Severe Storm. The geomagnetic category assigned to a day is determined by the highest observed k-index for the day. Quiet to Unsettled = k 0 to k 3, Active = k 4, Minor Storm = k 5, and Major to Severe Storm = k 6 to k 9. Middle-latitude forecasts are verified against Fredericksburg, VA observations and High-latitude forecasts are verified against College, AK observations. Forecast lead times range from one to three days.
+
+POS Tags:
+('GEOMAGNETIC', 'JJ')('FORECASTS', 'NNP')(':', ':')('Forecasts', 'NNS')('of', 'IN')('the', 'DT')('likelihood', 'NN')('(', '(')('from', 'IN')('1', 'CD')('%', 'NN')('to', 'TO')('99', 'CD')('%', 'NN')(')', ')')('that', 'IN')('the', 'DT')('daily', 'JJ')('geomagnetic', 'JJ')('activity', 'NN')('level', 'NN')('will', 'MD')('reach', 'VB')('a', 'DT')('particular', 'JJ')('activity', 'NN')('category', 'NN')('.', '.')('The', 'DT')('four', 'CD')('categories', 'NNS')('are', 'VBP')('Quiet', 'JJ')('to', 'TO')('Unsettled', 'NNP')(',', ',')('Active', 'NNP')(',', ',')('Minor', 'NNP')('Storm', 'NNP')(',', ',')('and', 'CC')('Major', 'NNP')('to', 'TO')('Severe', 'NNP')('Storm', 'NNP')('.', '.')('The', 'DT')('geomagnetic', 'JJ')('category', 'NN')('assigned', 'VBN')('to', 'TO')('a', 'DT')('day', 'NN')('is', 'VBZ')('determined', 'VBN')('by', 'IN')('the', 'DT')('highest', 'JJS')('observed', 'JJ')('k-index', 'NN')('for', 'IN')('the', 'DT')('day', 'NN')('.', '.')('Quiet', 'JJ')('to', 'TO')('Unsettled', 'VB')('=', 'NNP')('k', 'VB')('0', 'CD')('to', 'TO')('k', 'VB')('3', 'CD')(',', ',')('Active', 'NNP')('=', 'NNP')('k', 'VBD')('4', 'CD')(',', ',')('Minor', 'NNP')('Storm', 'NNP')('=', 'NNP')('k', 'VBD')('5', 'CD')(',', ',')('and', 'CC')('Major', 'NNP')('to', 'TO')('Severe', 'NNP')('Storm', 'NNP')('=', 'NNP')('k', 'VBD')('6', 'CD')('to', 'TO')('k', 'VB')('9', 'CD')('.', '.')('Middle-latitude', 'JJ')('forecasts', 'NNS')('are', 'VBP')('verified', 'VBN')('against', 'IN')('Fredericksburg', 'NNP')(',', ',')('VA', 'NNP')('observations', 'NNS')('and', 'CC')('High-latitude', 'JJ')('forecasts', 'NNS')('are', 'VBP')('verified', 'VBN')('against', 'IN')('College', 'NNP')(',', ',')('AK', 'NNP')('observations', 'NNS')('.', '.')('Forecast', 'NNP')('lead', 'JJ')('times', 'NNS')('range', 'VBP')('from', 'IN')('one', 'CD')('to', 'TO')('three', 'CD')('days', 'NNS')('.', '.')
+
+NER:
+1% to 99% PERCENT
+four CARDINAL
+Unsettled PERSON
+the day DATE
+0 to k 3 CARDINAL
+4 CARDINAL
+5 CARDINAL
+6 to k MONEY
+9 CARDINAL
+Fredericksburg GPE
+VA GPE
+College ORG
+AK ORG
+one to three days DATE
+
+
+Dependency Parsing:
+GEOMAGNETIC (compound): FORECASTS
+FORECASTS (ROOT): FORECASTS
+: (punct): FORECASTS
+Forecasts (appos): FORECASTS
+of (prep): Forecasts
+the (det): likelihood
+likelihood (pobj): of
+( (punct): Forecasts
+from (prep): Forecasts
+1 (quantmod): 99
+% (quantmod): 99
+to (quantmod): 99
+99 (pobj): from
+% (quantmod): 99
+) (punct): Forecasts
+that (mark): reach
+the (det): level
+daily (amod): level
+geomagnetic (amod): activity
+activity (compound): level
+level (nsubj): reach
+will (aux): reach
+reach (acl): FORECASTS
+a (det): category
+particular (amod): category
+activity (compound): category
+category (dobj): reach
+. (punct): FORECASTS
+The (det): categories
+four (nummod): categories
+categories (nsubj): are
+are (ROOT): are
+Quiet (acomp): are
+to (prep): Quiet
+Unsettled (pobj): to
+, (punct): Unsettled
+Active (conj): Unsettled
+, (punct): Active
+Minor (compound): Storm
+Storm (conj): Active
+, (punct): Storm
+and (cc): Storm
+Major (conj): Storm
+to (prep): Major
+Severe (compound): Storm
+Storm (pobj): to
+. (punct): are
+The (det): category
+geomagnetic (amod): category
+category (nsubjpass): determined
+assigned (acl): category
+to (prep): assigned
+a (det): day
+day (pobj): to
+is (auxpass): determined
+determined (ROOT): determined
+by (agent): determined
+the (det): index
+highest (advmod): observed
+observed (amod): index
+k (compound): index
+- (punct): index
+index (pobj): by
+for (prep): index
+the (det): day
+day (pobj): for
+. (punct): determined
+Quiet (ROOT): Quiet
+to (prep): Quiet
+Unsettled (pobj): to
+= (nmod): k
+k (pobj): to
+0 (nummod): k
+to (prep): k
+k (pobj): to
+3 (nummod): k
+, (punct): k
+Active (npadvmod): k
+= (punct): k
+k (nummod): k
+4 (nummod): k
+, (punct): Quiet
+Minor (compound): Storm
+Storm (dep): Quiet
+= (dep): Quiet
+k (npadvmod): Quiet
+5 (nummod): k
+, (punct): Quiet
+and (cc): Quiet
+Major (conj): Quiet
+to (prep): Major
+Severe (compound): Storm
+Storm (pobj): to
+= (punct): Major
+k (appos): Major
+6 (appos): Major
+to (prep): Major
+k (pobj): to
+9 (nummod): k
+. (punct): Quiet
+Middle (amod): latitude
+- (punct): latitude
+latitude (compound): forecasts
+forecasts (nsubjpass): verified
+are (auxpass): verified
+verified (ROOT): verified
+against (prep): verified
+Fredericksburg (pobj): against
+, (punct): Fredericksburg
+VA (compound): observations
+observations (conj): Fredericksburg
+and (cc): observations
+High (amod): latitude
+- (punct): latitude
+latitude (compound): forecasts
+forecasts (conj): observations
+are (auxpass): verified
+verified (conj): verified
+against (prep): verified
+College (pobj): against
+, (punct): College
+AK (compound): observations
+observations (appos): College
+. (punct): verified
+Forecast (nsubj): lead
+lead (compound): times
+times (compound): range
+range (ROOT): range
+from (prep): range
+one (quantmod): three
+to (quantmod): three
+three (nummod): days
+days (pobj): from
+. (punct): range
+
+ (dep): .
+--------------------
+
+abstracts
+Deep understanding of planetary habitability requires identifying key factors that govern the surface environment over time. Venus is the ultimate control case for understanding how Earth developed and maintained conditions suited to life. Venus very likely had elements essential to habitability such as past surface water and a dynamo. Tectonism and volcanism, which create chemical disequilibrium, very likely persist today. What caused Earth and Venus to diverge down different evolutionary paths? VERITAS would create foundational, co-registered data sets of high-resolution topography, imaging, spectroscopy, and gravity, on par with those available for Mercury, Mars, and the Moon. VERITAS would answer outstanding fundamental questions about the evolution of Earth's twin. The VERITAS payload consists of the Venus Interferometric Synthetic Aperture Radar (VISAR) and the Venus Emissivity Mapper (VEM), plus a gravity science investigation. VISAR is an X-band radar that provides: 1) a global digital elevation model (DEM) with 250-m postings and 6-m height accuracy, 2) Synthetic aperture radar (SAR) imaging at 30-m horizontal resolution globally, 3) SAR imaging at 15-m resolution for $> \boldsymbol{25\%}$ of the surface, and 4) surface deformation from repeat pass interferometry (RPI) with 2-cm vertical precision for $> \boldsymbol{12} \boldsymbol{(\sim 200\ \mathrm{x}\ 200\ \text{km})}$ targeted areas. VEM covers $\boldsymbol{ > 70\%}$ of the surface in six near-infrared (NIR) bands sensitive to iron composition located within five atmospheric windows, plus eight atmospheric bands for calibration and water vapor measurements. VEM would provide near-global maps of mafic to felsic rock type and will search for active and recent volcanism. VERITAS would use two-way Ka-band uplink and downlink from a low circular orbit $\boldsymbol{( 0.01 counts s−1 Rayleigh−1 pixel−1 (140–180 nm) for both cameras, which is sufficient for mapping the boundaries and the fine structures of the auroral oval during storms/substorms. Based on the tests and calibrations that were conducted prior to launch, the data processing algorithm includes photon signal decoding, geometric distortion correction, photometric correction, flat-field correction, line-of-sight projection and correction, and normalization between the two cameras. Preliminarily processed images are compared with DMSP SSUSI images. The agreement between the images that were captured by two instruments demonstrates that the WAI and the data processing algorithm operate normally and can provide high-quality scientific data for future studies on auroral dynamics. A compact camera system on board China’s recently launched Fengyun-3D satellite can reveal subtle features of the Earth’s auroras for improved space weather forecasting. Auroras such as the northern lights arise when solar wind charged particles precipitate along the Earth’s magnetic field and collide with atmospheric gases. Xiao-Xin Zhang, Bo Chen and their colleagues have developed a high-resolution imager that can help researchers predict geomagnetic substorms and storms from the dynamic configurations of auroras. The imager uses two cameras to simultaneously scan auroral regions from a low Earth orbit, delivering an expanded field of view relative to previous instruments. In-orbit testing shows that the device’s mirror-based optics and data processing system can identify boundaries and structures of auroras with 10 kilometer-scale resolution.
+
+POS Tags:
+('Deep', 'JJ')('understanding', 'NN')('of', 'IN')('planetary', 'JJ')('habitability', 'NN')('requires', 'VBZ')('identifying', 'VBG')('key', 'JJ')('factors', 'NNS')('that', 'WDT')('govern', 'VBP')('the', 'DT')('surface', 'NN')('environment', 'NN')('over', 'IN')('time', 'NN')('.', '.')('Venus', 'NNP')('is', 'VBZ')('the', 'DT')('ultimate', 'JJ')('control', 'NN')('case', 'NN')('for', 'IN')('understanding', 'VBG')('how', 'WRB')('Earth', 'NNP')('developed', 'VBD')('and', 'CC')('maintained', 'VBD')('conditions', 'NNS')('suited', 'VBN')('to', 'TO')('life', 'NN')('.', '.')('Venus', 'CC')('very', 'RB')('likely', 'JJ')('had', 'VBD')('elements', 'NNS')('essential', 'JJ')('to', 'TO')('habitability', 'VB')('such', 'JJ')('as', 'IN')('past', 'JJ')('surface', 'NN')('water', 'NN')('and', 'CC')('a', 'DT')('dynamo', 'NN')('.', '.')('Tectonism', 'NN')('and', 'CC')('volcanism', 'NN')(',', ',')('which', 'WDT')('create', 'VBP')('chemical', 'JJ')('disequilibrium', 'NN')(',', ',')('very', 'RB')('likely', 'JJ')('persist', 'NN')('today', 'NN')('.', '.')('What', 'WP')('caused', 'VBD')('Earth', 'NN')('and', 'CC')('Venus', 'NNP')('to', 'TO')('diverge', 'VB')('down', 'RP')('different', 'JJ')('evolutionary', 'JJ')('paths', 'NNS')('?', '.')('VERITAS', 'NNP')('would', 'MD')('create', 'VB')('foundational', 'JJ')(',', ',')('co-registered', 'JJ')('data', 'NNS')('sets', 'NNS')('of', 'IN')('high-resolution', 'NN')('topography', 'NN')(',', ',')('imaging', 'NN')(',', ',')('spectroscopy', 'NN')(',', ',')('and', 'CC')('gravity', 'NN')(',', ',')('on', 'IN')('par', 'NN')('with', 'IN')('those', 'DT')('available', 'JJ')('for', 'IN')('Mercury', 'NNP')(',', ',')('Mars', 'NNP')(',', ',')('and', 'CC')('the', 'DT')('Moon', 'NNP')('.', '.')('VERITAS', 'NNP')('would', 'MD')('answer', 'VB')('outstanding', 'JJ')('fundamental', 'JJ')('questions', 'NNS')('about', 'IN')('the', 'DT')('evolution', 'NN')('of', 'IN')('Earth', 'NNP')("'s", 'POS')('twin', 'NN')('.', '.')('The', 'DT')('VERITAS', 'NNP')('payload', 'NN')('consists', 'VBZ')('of', 'IN')('the', 'DT')('Venus', 'NNP')('Interferometric', 'NNP')('Synthetic', 'NNP')('Aperture', 'NNP')('Radar', 'NNP')('(', '(')('VISAR', 'NNP')(')', ')')('and', 'CC')('the', 'DT')('Venus', 'NNP')('Emissivity', 'NNP')('Mapper', 'NNP')('(', '(')('VEM', 'NNP')(')', ')')(',', ',')('plus', 'CC')('a', 'DT')('gravity', 'NN')('science', 'NN')('investigation', 'NN')('.', '.')('VISAR', 'NNP')('is', 'VBZ')('an', 'DT')('X-band', 'JJ')('radar', 'NN')('that', 'WDT')('provides', 'VBZ')(':', ':')('1', 'CD')(')', ')')('a', 'DT')('global', 'JJ')('digital', 'JJ')('elevation', 'NN')('model', 'NN')('(', '(')('DEM', 'NNP')(')', ')')('with', 'IN')('250-m', 'JJ')('postings', 'NNS')('and', 'CC')('6-m', 'JJ')('height', 'NN')('accuracy', 'NN')(',', ',')('2', 'CD')(')', ')')('Synthetic', 'JJ')('aperture', 'NN')('radar', 'NN')('(', '(')('SAR', 'NNP')(')', ')')('imaging', 'VBG')('at', 'IN')('30-m', 'JJ')('horizontal', 'JJ')('resolution', 'NN')('globally', 'RB')(',', ',')('3', 'CD')(')', ')')('SAR', 'NNP')('imaging', 'VBG')('at', 'IN')('15-m', 'JJ')('resolution', 'NN')('for', 'IN')('$', '$')('>', 'CD')('\\boldsymbol', 'NNP')('{', '(')('25\\', 'CD')('%', 'NN')('}', ')')('$', '$')('of', 'IN')('the', 'DT')('surface', 'NN')(',', ',')('and', 'CC')('4', 'CD')(')', ')')('surface', 'NN')('deformation', 'NN')('from', 'IN')('repeat', 'NN')('pass', 'NN')('interferometry', 'NN')('(', '(')('RPI', 'NNP')(')', ')')('with', 'IN')('2-cm', 'JJ')('vertical', 'JJ')('precision', 'NN')('for', 'IN')('$', '$')('>', 'CD')('\\boldsymbol', 'NNP')('{', '(')('12', 'CD')('}', ')')('\\boldsymbol', 'NN')('{', '(')('(', '(')('\\sim', 'VB')('200\\', 'CD')('\\mathrm', 'NNP')('{', '(')('x', 'NN')('}', ')')('\\', 'VBZ')('200\\', 'CD')('\\text', 'JJ')('{', '(')('km', 'VB')('}', ')')(')', ')')('}', ')')('$', '$')('targeted', 'JJ')('areas', 'NNS')('.', '.')('VEM', 'NNP')('covers', 'VBZ')('$', '$')('\\boldsymbol', 'CD')('{', '(')('>', 'VB')('70\\', 'CD')('%', 'NN')('}', ')')('$', '$')('of', 'IN')('the', 'DT')('surface', 'NN')('in', 'IN')('six', 'CD')('near-infrared', 'JJ')('(', '(')('NIR', 'NNP')(')', ')')('bands', 'VBZ')('sensitive', 'JJ')('to', 'TO')('iron', 'VB')('composition', 'NN')('located', 'VBN')('within', 'IN')('five', 'CD')('atmospheric', 'JJ')('windows', 'NNS')(',', ',')('plus', 'CC')('eight', 'CD')('atmospheric', 'JJ')('bands', 'NNS')('for', 'IN')('calibration', 'NN')('and', 'CC')('water', 'NN')('vapor', 'NN')('measurements', 'NNS')('.', '.')('VEM', 'NNP')('would', 'MD')('provide', 'VB')('near-global', 'JJ')('maps', 'NNS')('of', 'IN')('mafic', 'NN')('to', 'TO')('felsic', 'VB')('rock', 'NN')('type', 'NN')('and', 'CC')('will', 'MD')('search', 'VB')('for', 'IN')('active', 'JJ')('and', 'CC')('recent', 'JJ')('volcanism', 'NN')('.', '.')('VERITAS', 'NNP')('would', 'MD')('use', 'VB')('two-way', 'JJ')('Ka-band', 'NNP')('uplink', 'NN')('and', 'CC')('downlink', 'NN')('from', 'IN')('a', 'DT')('low', 'JJ')('circular', 'JJ')('orbit', 'NN')('$', '$')('\\boldsymbol', 'CD')('{', '(')('(', '(')('0.01', 'CD')('counts', 'NNS')('s−1', 'JJ')('Rayleigh−1', 'NNP')('pixel−1', 'NN')('(', '(')('140–180', 'CD')('nm', 'NN')(')', ')')('for', 'IN')('both', 'DT')('cameras', 'NNS')(',', ',')('which', 'WDT')('is', 'VBZ')('sufficient', 'JJ')('for', 'IN')('mapping', 'VBG')('the', 'DT')('boundaries', 'NNS')('and', 'CC')('the', 'DT')('fine', 'JJ')('structures', 'NNS')('of', 'IN')('the', 'DT')('auroral', 'JJ')('oval', 'NN')('during', 'IN')('storms/substorms', 'NNS')('.', '.')('Based', 'VBN')('on', 'IN')('the', 'DT')('tests', 'NNS')('and', 'CC')('calibrations', 'NNS')('that', 'WDT')('were', 'VBD')('conducted', 'VBN')('prior', 'RB')('to', 'TO')('launch', 'VB')(',', ',')('the', 'DT')('data', 'NNS')('processing', 'NN')('algorithm', 'NN')('includes', 'VBZ')('photon', 'JJ')('signal', 'NN')('decoding', 'NN')(',', ',')('geometric', 'JJ')('distortion', 'NN')('correction', 'NN')(',', ',')('photometric', 'JJ')('correction', 'NN')(',', ',')('flat-field', 'JJ')('correction', 'NN')(',', ',')('line-of-sight', 'JJ')('projection', 'NN')('and', 'CC')('correction', 'NN')(',', ',')('and', 'CC')('normalization', 'NN')('between', 'IN')('the', 'DT')('two', 'CD')('cameras', 'NNS')('.', '.')('Preliminarily', 'RB')('processed', 'VBN')('images', 'NNS')('are', 'VBP')('compared', 'VBN')('with', 'IN')('DMSP', 'NNP')('SSUSI', 'NNP')('images', 'NNS')('.', '.')('The', 'DT')('agreement', 'NN')('between', 'IN')('the', 'DT')('images', 'NNS')('that', 'WDT')('were', 'VBD')('captured', 'VBN')('by', 'IN')('two', 'CD')('instruments', 'NNS')('demonstrates', 'VBZ')('that', 'IN')('the', 'DT')('WAI', 'NNP')('and', 'CC')('the', 'DT')('data', 'NN')('processing', 'NN')('algorithm', 'NN')('operate', 'VBP')('normally', 'RB')('and', 'CC')('can', 'MD')('provide', 'VB')('high-quality', 'NN')('scientific', 'JJ')('data', 'NN')('for', 'IN')('future', 'JJ')('studies', 'NNS')('on', 'IN')('auroral', 'JJ')('dynamics', 'NNS')('.', '.')('A', 'DT')('compact', 'JJ')('camera', 'NN')('system', 'NN')('on', 'IN')('board', 'NN')('China', 'NNP')('’', 'NNP')('s', 'NN')('recently', 'RB')('launched', 'VBD')('Fengyun-3D', 'NNP')('satellite', 'NN')('can', 'MD')('reveal', 'VB')('subtle', 'JJ')('features', 'NNS')('of', 'IN')('the', 'DT')('Earth', 'NNP')('’', 'NNP')('s', 'NN')('auroras', 'NN')('for', 'IN')('improved', 'JJ')('space', 'NN')('weather', 'NN')('forecasting', 'NN')('.', '.')('Auroras', 'NNS')('such', 'JJ')('as', 'IN')('the', 'DT')('northern', 'JJ')('lights', 'NNS')('arise', 'VB')('when', 'WRB')('solar', 'JJ')('wind', 'NN')('charged', 'VBN')('particles', 'NNS')('precipitate', 'VBP')('along', 'IN')('the', 'DT')('Earth', 'NNP')('’', 'NNP')('s', 'VBD')('magnetic', 'JJ')('field', 'NN')('and', 'CC')('collide', 'NN')('with', 'IN')('atmospheric', 'JJ')('gases', 'NNS')('.', '.')('Xiao-Xin', 'JJ')('Zhang', 'NNP')(',', ',')('Bo', 'NNP')('Chen', 'NNP')('and', 'CC')('their', 'PRP$')('colleagues', 'NNS')('have', 'VBP')('developed', 'VBN')('a', 'DT')('high-resolution', 'NN')('imager', 'NN')('that', 'WDT')('can', 'MD')('help', 'VB')('researchers', 'NNS')('predict', 'VBP')('geomagnetic', 'JJ')('substorms', 'NNS')('and', 'CC')('storms', 'NNS')('from', 'IN')('the', 'DT')('dynamic', 'JJ')('configurations', 'NNS')('of', 'IN')('auroras', 'NNS')('.', '.')('The', 'DT')('imager', 'JJ')('uses', 'VBZ')('two', 'CD')('cameras', 'NNS')('to', 'TO')('simultaneously', 'RB')('scan', 'JJ')('auroral', 'JJ')('regions', 'NNS')('from', 'IN')('a', 'DT')('low', 'JJ')('Earth', 'NNP')('orbit', 'NN')(',', ',')('delivering', 'VBG')('an', 'DT')('expanded', 'JJ')('field', 'NN')('of', 'IN')('view', 'NN')('relative', 'VBP')('to', 'TO')('previous', 'JJ')('instruments', 'NNS')('.', '.')('In-orbit', 'NN')('testing', 'NN')('shows', 'VBZ')('that', 'IN')('the', 'DT')('device', 'NN')('’', 'NNP')('s', 'VBD')('mirror-based', 'JJ')('optics', 'NNS')('and', 'CC')('data', 'NNS')('processing', 'NN')('system', 'NN')('can', 'MD')('identify', 'VB')('boundaries', 'NNS')('and', 'CC')('structures', 'NNS')('of', 'IN')('auroras', 'NNS')('with', 'IN')('10', 'CD')('kilometer-scale', 'JJ')('resolution', 'NN')('.', '.')
+
+NER:
+Venus ORG
+Earth LOC
+today DATE
+Earth LOC
+Venus PERSON
+VERITAS PERSON
+Mercury ORG
+Mars LOC
+Moon PERSON
+VERITAS PERSON
+Earth LOC
+VERITAS PERSON
+the Venus Interferometric Synthetic Aperture Radar ORG
+the Venus Emissivity Mapper ORG
+1 CARDINAL
+250 CARDINAL
+6 CARDINAL
+2 CARDINAL
+30 CARDINAL
+3 CARDINAL
+15 CARDINAL
+4 CARDINAL
+2-cm QUANTITY
+200\ CARDINAL
+\boldsymbol PERSON
+six CARDINAL
+NIR ORG
+five CARDINAL
+eight CARDINAL
+VERITAS PERSON
+two CARDINAL
+\boldsymbol PERSON
+0.01 CARDINAL
+Rayleigh−1 pixel−1 ORG
+140–180 CARDINAL
+two CARDINAL
+two CARDINAL
+WAI ORG
+China GPE
+Earth LOC
+Earth LOC
+Xiao-Xin Zhang PERSON
+Bo Chen PERSON
+two CARDINAL
+Earth LOC
+10 kilometer QUANTITY
+
+
+Dependency Parsing:
+Deep (amod): understanding
+understanding (nsubj): requires
+of (prep): understanding
+planetary (amod): habitability
+habitability (pobj): of
+requires (ROOT): requires
+identifying (xcomp): requires
+key (amod): factors
+factors (dobj): identifying
+that (nsubj): govern
+govern (relcl): factors
+the (det): environment
+surface (compound): environment
+environment (dobj): govern
+over (prep): govern
+time (pobj): over
+. (punct): requires
+Venus (nsubj): is
+is (ROOT): is
+the (det): case
+ultimate (amod): case
+control (compound): case
+case (attr): is
+for (prep): case
+understanding (pcomp): for
+how (advmod): maintained
+Earth (nsubj): developed
+developed (ccomp): understanding
+and (cc): developed
+maintained (conj): developed
+conditions (dobj): maintained
+suited (acl): conditions
+to (prep): suited
+life (pobj): to
+. (punct): is
+Venus (nsubj): had
+very (advmod): likely
+likely (advmod): had
+had (ROOT): had
+elements (dobj): had
+essential (amod): elements
+to (prep): essential
+habitability (pobj): to
+such (amod): as
+as (prep): habitability
+past (amod): water
+surface (compound): water
+water (pobj): as
+and (cc): water
+a (det): dynamo
+dynamo (conj): water
+. (punct): had
+Tectonism (nsubj): persist
+and (cc): Tectonism
+volcanism (conj): Tectonism
+, (punct): Tectonism
+which (nsubj): create
+create (relcl): Tectonism
+chemical (compound): disequilibrium
+disequilibrium (dobj): create
+, (punct): disequilibrium
+very (advmod): likely
+likely (advmod): persist
+persist (ROOT): persist
+today (npadvmod): persist
+. (punct): persist
+What (nsubj): caused
+caused (ROOT): caused
+Earth (nsubj): diverge
+and (cc): Earth
+Venus (conj): Earth
+to (aux): diverge
+diverge (ccomp): caused
+down (prt): diverge
+different (amod): paths
+evolutionary (amod): paths
+paths (dobj): diverge
+? (punct): caused
+VERITAS (nsubj): create
+would (aux): create
+create (ROOT): create
+foundational (amod): sets
+, (punct): sets
+co (amod): sets
+- (amod): sets
+registered (amod): sets
+data (compound): sets
+sets (dobj): create
+of (prep): sets
+high (amod): resolution
+- (punct): resolution
+resolution (compound): topography
+topography (pobj): of
+, (punct): topography
+imaging (conj): topography
+, (punct): imaging
+spectroscopy (conj): imaging
+, (punct): spectroscopy
+and (cc): spectroscopy
+gravity (conj): spectroscopy
+, (punct): create
+on (prep): create
+par (pobj): on
+with (prep): par
+those (pobj): with
+available (amod): those
+for (prep): available
+Mercury (pobj): for
+, (punct): Mercury
+Mars (conj): Mercury
+, (punct): Mars
+and (cc): Mars
+the (det): Moon
+Moon (conj): Mars
+. (punct): create
+VERITAS (nsubj): answer
+would (aux): answer
+answer (ROOT): answer
+outstanding (amod): questions
+fundamental (amod): questions
+questions (dobj): answer
+about (prep): questions
+the (det): evolution
+evolution (pobj): about
+of (prep): evolution
+Earth (poss): twin
+'s (case): Earth
+twin (pobj): of
+. (punct): answer
+The (det): payload
+VERITAS (compound): payload
+payload (nsubj): consists
+consists (ROOT): consists
+of (prep): consists
+the (det): Radar
+Venus (compound): Radar
+Interferometric (compound): Synthetic
+Synthetic (compound): Aperture
+Aperture (compound): Radar
+Radar (pobj): of
+( (punct): Radar
+VISAR (appos): Radar
+) (punct): Radar
+and (cc): Radar
+the (det): Mapper
+Venus (compound): Mapper
+Emissivity (compound): Mapper
+Mapper (conj): Radar
+( (punct): Mapper
+VEM (appos): Mapper
+) (punct): Mapper
+, (punct): Mapper
+plus (cc): Radar
+a (det): investigation
+gravity (compound): science
+science (compound): investigation
+investigation (conj): Radar
+. (punct): consists
+VISAR (nsubj): is
+is (ROOT): is
+an (det): radar
+X (amod): radar
+- (amod): radar
+band (amod): radar
+radar (attr): is
+that (nsubj): provides
+provides (relcl): radar
+: (punct): radar
+1 (appos): radar
+) (punct): 1
+a (det): model
+global (amod): model
+digital (amod): elevation
+elevation (compound): model
+model (appos): radar
+( (punct): model
+DEM (appos): model
+) (punct): model
+with (prep): model
+250 (nummod): m
+- (punct): m
+m (compound): postings
+postings (pobj): with
+and (cc): postings
+6 (nummod): accuracy
+- (punct): m
+m (prep): 6
+height (compound): accuracy
+accuracy (conj): postings
+, (punct): accuracy
+2 (nummod): radar
+) (punct): 2
+Synthetic (amod): radar
+aperture (compound): radar
+radar (nmod): imaging
+( (punct): radar
+SAR (appos): radar
+) (punct): radar
+imaging (dep): is
+at (prep): imaging
+30 (nummod): m
+- (punct): m
+m (nmod): resolution
+horizontal (amod): resolution
+resolution (pobj): at
+globally (advmod): imaging
+, (punct): imaging
+3 (meta): imaging
+) (punct): 3
+SAR (compound): imaging
+imaging (ccomp): is
+at (prep): imaging
+15 (nummod): m
+- (punct): m
+m (pobj): at
+resolution (pobj): at
+for (prep): resolution
+$ (nmod): >
+> (pobj): for
+\boldsymbol{25\%}$ (pobj): for
+of (prep): \boldsymbol{25\%}$
+the (det): surface
+surface (pobj): of
+, (punct): imaging
+and (cc): imaging
+4 (nummod): deformation
+) (punct): 4
+surface (compound): deformation
+deformation (conj): imaging
+from (prep): deformation
+repeat (compound): pass
+pass (compound): interferometry
+interferometry (pobj): from
+( (punct): interferometry
+RPI (appos): interferometry
+) (punct): interferometry
+with (prep): deformation
+2 (nummod): cm
+- (punct): cm
+cm (nmod): precision
+vertical (amod): precision
+precision (pobj): with
+for (prep): deformation
+$ (nmod): >
+> (pobj): for
+\boldsymbol{12 (punct): deformation
+} (punct): imaging
+\boldsymbol{(\sim (nmod): 200\
+200\ (nmod): 200\
+\mathrm{x}\ (compound): 200\
+200\ (nmod): areas
+\text{km})}$ (prep): 200\
+targeted (amod): areas
+areas (dobj): imaging
+. (punct): is
+VEM (nsubj): covers
+covers (ROOT): covers
+$ (nmod): \boldsymbol
+\boldsymbol (dobj): covers
+{ (punct): \boldsymbol
+> (nmod): 70\%}$
+70\%}$ (appos): \boldsymbol
+of (prep): \boldsymbol
+the (det): surface
+surface (pobj): of
+in (prep): covers
+six (nummod): bands
+near (advmod): infrared
+- (punct): infrared
+infrared (amod): bands
+( (punct): bands
+NIR (nmod): bands
+) (punct): bands
+bands (pobj): in
+sensitive (amod): bands
+to (prep): sensitive
+iron (compound): composition
+composition (pobj): to
+located (acl): composition
+within (prep): located
+five (nummod): windows
+atmospheric (amod): windows
+windows (pobj): within
+, (punct): windows
+plus (cc): bands
+eight (nummod): bands
+atmospheric (amod): bands
+bands (conj): bands
+for (prep): bands
+calibration (nmod): measurements
+and (cc): calibration
+water (compound): vapor
+vapor (conj): calibration
+measurements (pobj): for
+. (punct): covers
+VEM (nsubj): provide
+would (aux): provide
+provide (ROOT): provide
+near (amod): global
+- (punct): global
+global (amod): maps
+maps (dobj): provide
+of (prep): maps
+mafic (pobj): of
+to (aux): felsic
+felsic (advcl): provide
+rock (compound): type
+type (dobj): felsic
+and (cc): provide
+will (aux): search
+search (conj): provide
+for (prep): search
+active (amod): volcanism
+and (cc): active
+recent (conj): active
+volcanism (pobj): for
+. (punct): provide
+VERITAS (nsubj): use
+would (aux): use
+use (ROOT): use
+two (nummod): way
+- (punct): way
+way (compound): uplink
+Ka (compound): band
+- (punct): band
+band (compound): uplink
+uplink (dobj): use
+and (cc): uplink
+downlink (conj): uplink
+from (prep): use
+a (det): orbit
+low (amod): orbit
+circular (amod): orbit
+orbit (pobj): from
+$ (nmod): \boldsymbol
+\boldsymbol (appos): orbit
+{ (punct): \boldsymbol
+( (punct): counts
+0.01 (nsubj): counts
+  (dep): 0.01
+counts (parataxis): \boldsymbol
+  (dep): counts
+s−1 (dobj): counts
+  (dep): s−1
+Rayleigh−1 (compound): pixel−1
+  (dep): Rayleigh−1
+pixel−1 (dobj): counts
+( (punct): pixel−1
+140–180 (nummod): nm
+  (dep): 140–180
+nm (appos): pixel−1
+) (punct): counts
+for (prep): orbit
+both (det): cameras
+cameras (pobj): for
+, (punct): cameras
+which (nsubj): is
+is (relcl): cameras
+sufficient (acomp): is
+for (prep): sufficient
+mapping (pcomp): for
+the (det): boundaries
+boundaries (dobj): mapping
+and (cc): boundaries
+the (det): structures
+fine (amod): structures
+structures (conj): boundaries
+of (prep): structures
+the (det): oval
+auroral (amod): oval
+oval (pobj): of
+during (prep): mapping
+storms (nmod): substorms
+/ (punct): substorms
+substorms (pobj): during
+. (punct): use
+Based (prep): includes
+on (prep): Based
+the (det): tests
+tests (pobj): on
+and (cc): tests
+calibrations (conj): tests
+that (nsubjpass): conducted
+were (auxpass): conducted
+conducted (relcl): tests
+prior (advmod): conducted
+to (prep): prior
+launch (pobj): to
+, (punct): includes
+the (det): algorithm
+data (compound): processing
+processing (compound): algorithm
+algorithm (nsubj): includes
+includes (ROOT): includes
+photon (compound): signal
+signal (nmod): correction
+decoding (amod): correction
+, (punct): correction
+geometric (amod): distortion
+distortion (compound): correction
+correction (dobj): includes
+, (punct): correction
+photometric (amod): correction
+correction (conj): correction
+, (punct): correction
+flat (amod): field
+- (punct): field
+field (compound): correction
+correction (conj): correction
+, (punct): correction
+line (nmod): projection
+- (punct): line
+of (prep): line
+- (punct): of
+sight (pobj): of
+projection (conj): correction
+and (cc): projection
+correction (conj): projection
+, (punct): projection
+and (cc): projection
+normalization (conj): projection
+between (prep): correction
+the (det): cameras
+two (nummod): cameras
+cameras (pobj): between
+. (punct): includes
+Preliminarily (advmod): processed
+processed (amod): images
+images (nsubjpass): compared
+are (auxpass): compared
+compared (ROOT): compared
+with (prep): compared
+DMSP (compound): images
+SSUSI (compound): images
+images (pobj): with
+. (punct): compared
+The (det): agreement
+agreement (nsubj): demonstrates
+between (prep): agreement
+the (det): images
+images (pobj): between
+that (nsubjpass): captured
+were (auxpass): captured
+captured (relcl): images
+by (agent): captured
+two (nummod): instruments
+instruments (pobj): by
+demonstrates (ROOT): demonstrates
+that (mark): operate
+the (det): WAI
+WAI (nsubj): operate
+and (cc): WAI
+the (det): data
+data (nmod): algorithm
+processing (acl): data
+algorithm (conj): WAI
+operate (ccomp): demonstrates
+normally (advmod): operate
+and (cc): operate
+can (aux): provide
+provide (conj): operate
+high (amod): quality
+- (punct): quality
+quality (nmod): data
+scientific (amod): data
+data (dobj): provide
+for (prep): provide
+future (amod): studies
+studies (pobj): for
+on (prep): studies
+auroral (amod): dynamics
+dynamics (pobj): on
+. (punct): demonstrates
+A (det): system
+compact (amod): system
+camera (compound): system
+system (nsubj): launched
+on (prep): system
+board (compound): China
+China (pobj): on
+’s (case): China
+recently (advmod): launched
+launched (ROOT): launched
+Fengyun-3D (compound): satellite
+satellite (nsubj): reveal
+can (aux): reveal
+reveal (ccomp): launched
+subtle (amod): features
+features (dobj): reveal
+of (prep): features
+the (det): Earth
+Earth (poss): auroras
+’s (case): Earth
+auroras (pobj): of
+for (prep): auroras
+improved (amod): forecasting
+space (compound): weather
+weather (compound): forecasting
+forecasting (pobj): for
+. (punct): launched
+Auroras (nsubj): arise
+such (amod): as
+as (prep): Auroras
+the (det): lights
+northern (amod): lights
+lights (nsubj): arise
+arise (ROOT): arise
+when (advmod): charged
+solar (amod): wind
+wind (nsubj): charged
+charged (advcl): precipitate
+particles (nsubj): precipitate
+precipitate (ccomp): arise
+along (prep): precipitate
+the (det): Earth
+Earth (poss): field
+’s (case): Earth
+magnetic (amod): field
+field (pobj): along
+and (cc): precipitate
+collide (conj): precipitate
+with (prep): collide
+atmospheric (amod): gases
+gases (pobj): with
+. (punct): arise
+Xiao (compound): Zhang
+- (punct): Zhang
+Xin (compound): Zhang
+Zhang (nsubj): developed
+, (punct): Zhang
+Bo (compound): Chen
+Chen (appos): Zhang
+and (cc): Chen
+their (poss): colleagues
+colleagues (conj): Chen
+have (aux): developed
+developed (ROOT): developed
+a (det): imager
+high (amod): resolution
+- (punct): resolution
+resolution (compound): imager
+imager (dobj): developed
+that (nsubj): help
+can (aux): help
+help (relcl): imager
+researchers (nsubj): predict
+predict (ccomp): help
+geomagnetic (amod): substorms
+substorms (dobj): predict
+and (cc): substorms
+storms (conj): substorms
+from (prep): predict
+the (det): configurations
+dynamic (amod): configurations
+configurations (pobj): from
+of (prep): configurations
+auroras (pobj): of
+. (punct): developed
+The (det): imager
+imager (nsubj): uses
+uses (ROOT): uses
+two (nummod): cameras
+cameras (dobj): uses
+to (aux): scan
+simultaneously (advmod): scan
+scan (xcomp): uses
+auroral (amod): regions
+regions (dobj): scan
+from (prep): scan
+a (det): orbit
+low (amod): orbit
+Earth (compound): orbit
+orbit (pobj): from
+, (punct): scan
+delivering (advcl): scan
+an (det): field
+expanded (amod): field
+field (dobj): delivering
+of (prep): field
+view (pobj): of
+relative (advmod): delivering
+to (prep): relative
+previous (amod): instruments
+instruments (pobj): to
+. (punct): uses
+In (prep): shows
+- (punct): In
+orbit (compound): testing
+testing (pobj): In
+shows (ROOT): shows
+that (mark): identify
+the (det): device
+device (poss): system
+’s (case): device
+mirror (npadvmod): based
+- (punct): based
+based (amod): system
+optics (nmod): system
+and (cc): optics
+data (conj): optics
+processing (compound): system
+system (nsubj): identify
+can (aux): identify
+identify (ccomp): shows
+boundaries (dobj): identify
+and (cc): boundaries
+structures (conj): boundaries
+of (prep): boundaries
+auroras (pobj): of
+with (prep): auroras
+10 (nummod): resolution
+kilometer (compound): scale
+- (punct): scale
+scale (compound): resolution
+resolution (pobj): with
+. (punct): shows
+
+ (dep): .
+--------------------
+
+chain_of_thought
+User: hi
+
+POS Tags:
+('User', 'NN')(':', ':')('hi', 'NN')
+
+NER:
+
+
+Dependency Parsing:
+User (ROOT): User
+: (punct): User
+hi (appos): User
+
+ (dep): hi
+--------------------
+
