@@ -1,0 +1,35 @@
+Source_label,text,polarity,subjectivity,predicted_sentiment,Text,Predicted_Sentiment,Raw_Score
+TextBlob,"FOREST PLANTATION: Pertaining to an area where trees have been planted, especially for commercial purposes.",0,0.5,,,,
+TextBlob,AIT: A small island. It is especially used to refer to islands found on the River Thames and its tributaries in England.,-0.125,0.7,,,,
+TextBlob,"GRAVITY: The natural phenomenon by which physical bodies appear to attract each other with a force proportional to their masses. It is most commonly experienced as the agent that gives weight to objects with mass and causes them to fall to the ground when dropped. The phenomenon of gravitation itself, however, is a byproduct of a more fundamental phenomenon described by general relativity, which suggests that spacetime is curved according to the energy and momentum of whatever matter and radiation are present.",0.228125,0.4147321428571429,,,,
+TextBlob,HIGHER MAXIMUM DAYTIME TEMPERATURES: Refers to the highest daytime temperature reported for a given location during a given period.,0.25,0.5,,,,
+TextBlob,DEPTHS AT SPECIFIC AGES: null,0,0.125,,,,
+TextBlob,"ELECTRICAL CONDUCTIVITY: A measure of ease with which a conduction current can be caused to flowthrough soil under the influence of an applied electric field.	It is thereciprocal of resistivity and is measured in mhos per meter.",0,0.4,,,,
+TextBlob,ACOUSTIC FREQUENCY: The number of cycles per unit time of a sound wave.,0.4,0.4,,,,
+TextBlob,modified by the presence of electric charges.,0,0,,,,
+TextBlob,CLOUD REFLECTANCE: Ratio of the intensity of reflected radiation to that of the incident,0,0,,,,
+TextBlob,"RADON PROFILES: A vertical representation of the measurement of Radon (chemical symbol Rn, an odorless, colorless, radioactive gas). Radon comes from the natural decay of uranium and radium found in nearly all rocks and soils.",0.1,0.4,,,,
+,,,,,,,
+,,,,,,,
+LVC,"FOREST PLANTATION: Pertaining to an area where trees have been planted, especially for commercial purposes.",,,negative,,,
+LVC,AIT: A small island. It is especially used to refer to islands found on the River Thames and its tributaries in England.,,,positive,,,
+LVC,"GRAVITY: The natural phenomenon by which physical bodies appear to attract each other with a force proportional to their masses. It is most commonly experienced as the agent that gives weight to objects with mass and causes them to fall to the ground when dropped. The phenomenon of gravitation itself, however, is a byproduct of a more fundamental phenomenon described by general relativity, which suggests that spacetime is curved according to the energy and momentum of whatever matter and radiation are present.",,,positive,,,
+LVC,HIGHER MAXIMUM DAYTIME TEMPERATURES: Refers to the highest daytime temperature reported for a given location during a given period.,,,negative,,,
+LVC,DEPTHS AT SPECIFIC AGES: null,,,positive,,,
+LVC,"ELECTRICAL CONDUCTIVITY: A measure of ease with which a conduction current can be caused to flowthrough soil under the influence of an applied electric field.	It is thereciprocal of resistivity and is measured in mhos per meter.",,,positive,,,
+LVC,ACOUSTIC FREQUENCY: The number of cycles per unit time of a sound wave.,,,positive,,,
+LVC,modified by the presence of electric charges.,,,negative,,,
+LVC,CLOUD REFLECTANCE: Ratio of the intensity of reflected radiation to that of the incident,,,negative,,,
+LVC,"RADON PROFILES: A vertical representation of the measurement of Radon (chemical symbol Rn, an odorless, colorless, radioactive gas). Radon comes from the natural decay of uranium and radium found in nearly all rocks and soils.",,,negative,,,
+,,,,,,,
+,,,,,,,
+Lab12,,,,,GEOGRAPHIC INFORMATION SYSTEMS Geographical Information Systems GIS are defined as Data Analysis,positive,0.977
+Lab12,,,,,GLACIERS ICE SHEETS Glaciers are masses of land ice formed by the further recrystallization of,positive,0.9063
+Lab12,,,,,SINK TEMPERATURE Body temperature of the instrument usually a pyrgeometer,negative,0.3357
+Lab12,,,,,SHOALS A sandbank or sandbar that makes the water shallow and presents anavigation hazard,negative,0.1281
+Lab12,,,,,ESTUARY The place where animals or plants live in a semi enclosed coastal embayment where fresh and saltwater mix such as a river mouth estuary,positive,0.6812
+Lab12,,,,,FOOD QUALITY Any measure related to the quality of food stuffs Constituentsand composition of foods and beverages Food composition tables Nutrients proteins amino acids nitrogen carbohydrates lipids minerals vitamins nutritive value caloric value sensory evaluation Protein quality protein efficiency ratio net protein utilization nitrogen balance index chemical score microbiological assays etc,negative,0.0366
+Lab12,,,,,SHORELINE MAPPING Large scale maps and nautical charts required to properly depict shoreline shoreline features navigation aids and other navigationally significant features such as piers docks pilings etc These maps are compiled from remotely sensed data such as aerial photographs LIDAR or satellite imagery,positive,0.969
+Lab12,,,,,LONGITUDINAL LINEAR DUNE Elongate parallel to the prevailing wind possibly caused by a larger dune having its smaller sides blown away Seif dunes are sharp crested and are common in the Sahara They range up to 300 m 980 ft in height and 300 km 190 mi in length,positive,0.9572
+Lab12,,,,,PARTICULATE MATTER PM 2 5 A type of air pollution that consists of extremely small particles that are 2 5 micrometers or less in diameter These particles are so small that thousands of them could fit in the period at the end of a sentence PM2 5 is a mixture of dust soot organic chemicals and metals that can come from a variety of sources including cars trucks factories and wood burning,negative,0.485
+Lab12,,,,,LONGITUDINAL LINEAR DUNE Elongate parallel to the prevailing wind possibly caused by a larger dune having its smaller sides blown away Seif dunes are sharp crested and are common in the Sahara They range up to 300 m 980 ft in height and 300 km 190 mi in length,positive,0.9572

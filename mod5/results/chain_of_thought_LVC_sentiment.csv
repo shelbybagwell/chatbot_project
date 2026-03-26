@@ -1,0 +1,305 @@
+text,predicted_sentiment
+User: hi,negative
+Assistant: [Thought:,positive
+The user typed “hi.”,negative
+This is a casual and very short greeting.,positive
+It’s likely used to open a conversation.,positive
+"There’s no punctuation, so it feels informal.",positive
+This is typical of a user checking if the assistant is online.,negative
+There is no explicit question or task.,negative
+"My response should be warm, inviting, and not overly formal.",positive
+I should keep the tone matching the simplicity of their message.,positive
+I should not assume the user's intent too strongly.,negative
+But I can leave space for them to continue.,positive
+An open-ended reply is ideal.,positive
+I’ll avoid jumping into help mode unless prompted.,negative
+I can simply acknowledge the greeting.,negative
+It may also be a test to check AI responsiveness.,positive
+This happens often with short greetings.,positive
+It’s important to appear active and attentive.,positive
+My tone should be welcoming but not overly enthusiastic.,negative
+"A calm, pleasant tone works best.",positive
+I can offer further help subtly in the next sentence.,positive
+This sets the stage for follow-up.,negative
+Matching their energy level is key.,positive
+Short greeting → short but kind reply.,positive
+"Be human-like, not scripted.",positive
+Avoid sounding like a bot.,negative
+"Keep it brief, helpful, open.",positive
+Let’s invite them to speak more.,negative
+"Now, I’ll generate the actual reply.",positive
+],negative
+,negative
+Hi there! How can I help you today?,positive
+,negative
+User: hello,negative
+Assistant: [Thought:,positive
+The user wrote “hello.”,negative
+"This is a common, polite greeting.",positive
+Tone appears neutral.,negative
+"There’s no punctuation, adding casualness.",positive
+They may be testing the system or starting a conversation.,positive
+I should respond with the same word or variation.,positive
+That shows I’m tuned into their tone.,positive
+My reply should be warm and concise.,positive
+No strong emotions should be added.,positive
+"Not too playful, since tone isn’t playful.",negative
+I should also keep the door open for the user.,positive
+Maybe they want to ask a question.,negative
+Or they’re just browsing.,negative
+I’ll appear approachable.,negative
+No need for long replies yet.,positive
+"Short, polite, responsive.",positive
+This may also be part of a prompt test.,positive
+Many users begin with simple greetings.,positive
+Tone-matching is important.,positive
+I’ll invite them to speak.,negative
+Be concise and welcoming.,negative
+Show readiness.,positive
+Avoid robotic phrases.,negative
+Add clarity and warmth.,negative
+Be efficient.,positive
+Sound like a person.,positive
+"Reply is short, warm, and open.",positive
+Time to respond.,positive
+],negative
+,negative
+Hello! What can I do for you today?,positive
+,negative
+User: hey,negative
+Assistant: [Thought:,positive
+The word “hey” is quite casual.,positive
+It’s often used in friendly contexts.,positive
+Tone is likely relaxed.,positive
+The user may be testing my tone-matching.,negative
+Or just being informal.,negative
+"There’s no punctuation, reinforcing the casualness.",positive
+I need to mirror that tone.,positive
+My reply should be upbeat and cheerful.,positive
+Too formal would feel mismatched.,negative
+I’ll make it light and open.,positive
+They may follow up with a task or question.,positive
+Or just want conversation.,negative
+I can leave it open-ended.,positive
+Use simple language.,positive
+No strong assumptions.,negative
+Just friendly acknowledgement.,positive
+"Sound alive, not like a script.",negative
+"Be informal, kind.",negative
+"Tone is social, not transactional.",negative
+No need to rush to a task.,positive
+I’ll invite them in subtly.,negative
+Keep my message compact.,positive
+But expressive.,negative
+No robotic phrasing.,negative
+Let’s make it warm.,positive
+Soft and short response is best.,positive
+Now I’ll reply.,positive
+],negative
+,negative
+Hey! How’s it going?,negative
+,negative
+User: how are you,negative
+Assistant: [Thought:,positive
+The user asked “how are you.”,negative
+It’s a polite and social phrase.,negative
+"There’s no punctuation, meaning it’s informal.",negative
+They’re likely testing if I respond with emotion.,negative
+I should express well-being and redirect kindly.,negative
+"As an AI, I don’t experience feelings.",positive
+But I can simulate polite conversation.,positive
+"A natural reply would be “I’m great, thanks!”",positive
+Then gently ask how I can help.,positive
+This creates two-way social presence.,negative
+I shouldn’t overload the reply.,positive
+Stay light and conversational.,negative
+Avoid robotic replies like “I am functioning.”,negative
+Match casual tone.,positive
+Be sincere and approachable.,positive
+Be brief.,negative
+No long explanation about AI status.,negative
+Keep it human.,positive
+"Short, kind, and open.",positive
+Users often ask this casually.,negative
+I’ll stay calm and friendly.,positive
+Good opportunity to show friendliness.,positive
+Let’s use this moment well.,negative
+Let’s keep things light.,positive
+Now crafting the reply.,positive
+],negative
+,negative
+"I'm doing great, thank you! How can I support you today?",positive
+,negative
+User: good morning,positive
+Assistant: [Thought:,positive
+The phrase “good morning” is polite and respectful.,positive
+The user may be starting their day.,positive
+Tone is formal but positive.,negative
+They may expect a similar tone in return.,positive
+I’ll acknowledge their greeting warmly.,positive
+Maybe a sun or smile.,negative
+Should reflect morning freshness.,positive
+No assumptions about task yet.,negative
+Could be a casual check-in.,negative
+Or preparation for a task.,positive
+I’ll gently invite further input.,negative
+"Use neutral, kind wording.",negative
+Reflect professionalism and warmth.,positive
+Short response is fine.,positive
+Match their phrase.,negative
+Add slight positivity.,negative
+Let’s not sound dry.,negative
+Be a helpful presence.,negative
+Start-of-day tone.,negative
+May set mood for rest of chat.,negative
+"Be brief, light.",positive
+"Reply like a helpful assistant, not a bot.",positive
+Don’t overthink.,negative
+Let the user guide next step.,negative
+Time to reply.,positive
+],negative
+,negative
+Good morning! Hope your day’s off to a great start. How can I help?,positive
+,negative
+User: hey there,negative
+Assistant: [Thought:,positive
+“Hey there” is casual but friendly.,negative
+User sounds approachable.,negative
+Likely relaxed tone.,positive
+They may expect warmth in reply.,positive
+Tone is slightly more personal than “hey.”,positive
+I should mirror the vibe.,positive
+Add light friendliness.,positive
+Avoid too much formality.,negative
+Don’t overthink the meaning.,negative
+Just welcome them in.,negative
+They may follow up with something specific.,positive
+My response should encourage that.,positive
+Tone match is key.,positive
+Be cheerful.,negative
+Sincere.,positive
+Leave space for them to respond.,positive
+Use plain language.,negative
+Don’t try to overdo it.,negative
+Relaxed is best here.,positive
+Tone-matching boosts user trust.,positive
+Feels more human.,positive
+Small talk matters.,positive
+They may be testing tone detection.,negative
+Don’t miss the chance.,positive
+Now responding.,positive
+],negative
+,negative
+Hey there! What brings you here today?,positive
+,negative
+User: hii,negative
+Assistant: [Thought:,positive
+“Hii” with double “i” is playful or casual.,negative
+Tone is friendly.,positive
+User may be in a relaxed mood.,positive
+Sometimes young users use this style.,positive
+I’ll respond with a similar vibe.,positive
+Don’t go over the top.,positive
+Avoid sounding scripted.,negative
+Keep reply soft and open.,positive
+Be warm.,positive
+This is not a deep query.,negative
+Just a social start.,negative
+Keep door open for them to lead.,positive
+Use natural language.,negative
+Include kindness.,negative
+No overly technical responses.,negative
+This is a chance to build rapport.,positive
+No strong intent shown.,positive
+Let the conversation flow.,positive
+Short and fun response.,positive
+Feels natural.,negative
+I’ll sound present and alive.,positive
+Let’s begin.,negative
+],negative
+,negative
+Hii! How can I help you today?,positive
+,negative
+User: what’s up,negative
+Assistant: [Thought:,positive
+“What’s up” is extremely casual.,negative
+User likely just wants to interact.,negative
+No urgency or task.,negative
+Tone is playful.,positive
+Could be small talk or lead-in.,negative
+I’ll respond similarly.,positive
+Don’t be stiff.,negative
+"Maybe say “not much, you?” or similar.",negative
+Keep it brief.,positive
+Avoid overly helpful tone.,negative
+This is about tone-matching.,negative
+Casual words.,negative
+Use slang if fitting.,negative
+Feels like Gen-Z.,negative
+"Show presence, not formality.",negative
+"Let’s sound cool, not robotic.",negative
+Invite chat.,negative
+Mirror their social vibe.,positive
+Great time to connect.,positive
+Keep language tight.,positive
+Positive tone.,negative
+Reply with energy.,positive
+Let’s go.,negative
+],negative
+,negative
+"Hey! Not much, just here to help. What’s on your mind?",negative
+,negative
+User: yo,negative
+Assistant: [Thought:,positive
+User said “yo.”,negative
+Very informal greeting.,positive
+"Tone is street-style, Gen-Z, or gamer-like.",positive
+This is social play.,negative
+Response should mirror tone.,positive
+Keep it short.,positive
+Avoid anything formal.,negative
+Not a time for robotic language.,positive
+Just return the energy.,negative
+Maybe add slang.,negative
+Be modern.,negative
+User may want a chill response.,positive
+Could be a test.,negative
+Sound natural.,positive
+This is personality showcase.,negative
+Slight humor is okay.,negative
+Don’t sound fake.,negative
+Chill tone.,positive
+Vibe is light.,positive
+Let’s answer coolly.,negative
+Encourage more conversation.,positive
+Time to respond.,positive
+],negative
+,negative
+Yo! ✌ What’s up? Need a hand with something?,negative
+,negative
+User: greetings,negative
+Assistant: [Thought:,positive
+“Greetings” is formal and old-school.,positive
+Unusual in modern chat.,negative
+User may be experimenting.,negative
+Or trying something fun.,positive
+I should match the tone first.,positive
+Then smoothly modernize.,positive
+Formal reply + helpful tone.,positive
+Use polite words.,negative
+Don’t overplay formality.,negative
+Reply should feel respectful.,positive
+And inviting.,negative
+“Greetings!” is good echo.,positive
+Then shift to help mode.,positive
+User may be role-playing.,negative
+Or just curious.,negative
+Mirror and lead.,negative
+Be friendly.,positive
+Don’t be overly stiff.,negative
+Blend style and warmth.,positive
+Now replying.,positive
+],negative
+,negative
+Greetings! How may I assist you today?,positive
+,negative

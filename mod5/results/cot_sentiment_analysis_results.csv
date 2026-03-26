@@ -1,0 +1,285 @@
+Text,Predicted_Sentiment,Raw_Score
+User hi,positive,0.7259
+Assistant Thought,positive,0.7103
+The user typed hi,positive,0.7509
+This is a casual and very short greeting,positive,0.8791
+It s likely used to open a conversation,positive,0.547
+There s no punctuation so it feels informal,positive,0.694
+This is typical of a user checking if the assistant is online,positive,0.6533
+There is no explicit question or task,positive,0.6371
+My response should be warm inviting and not overly formal,positive,0.9902
+I should keep the tone matching the simplicity of their message,positive,0.8889
+I should not assume the user s intent too strongly,positive,0.5989
+But I can leave space for them to continue,negative,0.45
+An open ended reply is ideal,positive,0.792
+I ll avoid jumping into help mode unless prompted,negative,0.0116
+I can simply acknowledge the greeting,positive,0.6432
+It may also be a test to check AI responsiveness,positive,0.7889
+This happens often with short greetings,positive,0.7117
+It s important to appear active and attentive,positive,0.9665
+My tone should be welcoming but not overly enthusiastic,positive,0.6648
+A calm pleasant tone works best,positive,0.8895
+I can offer further help subtly in the next sentence,positive,0.6758
+This sets the stage for follow up,positive,0.6706
+Matching their energy level is key,negative,0.1093
+Short greeting short but kind reply,positive,0.6764
+Be human like not scripted,positive,0.6575
+Avoid sounding like a bot,negative,0.3533
+Keep it brief helpful open,positive,0.6457
+Let s invite them to speak more,positive,0.7131
+Now I ll generate the actual reply,positive,0.6255
+,positive,0.6791
+Hi there How can I help you today,positive,0.9714
+User hello,positive,0.6791
+Assistant Thought,positive,0.7103
+The user wrote hello,positive,0.6868
+This is a common polite greeting,negative,0.4662
+Tone appears neutral,positive,0.6855
+There s no punctuation adding casualness,positive,0.6681
+They may be testing the system or starting a conversation,positive,0.5098
+I should respond with the same word or variation,positive,0.7183
+That shows I m tuned into their tone,positive,0.5977
+My reply should be warm and concise,positive,0.9928
+No strong emotions should be added,positive,0.9034
+Not too playful since tone isn t playful,positive,0.5553
+I should also keep the door open for the user,positive,0.8607
+Maybe they want to ask a question,positive,0.6763
+Or they re just browsing,negative,0.4556
+I ll appear approachable,positive,0.681
+No need for long replies yet,positive,0.7917
+Short polite responsive,positive,0.68
+This may also be part of a prompt test,positive,0.8422
+Many users begin with simple greetings,positive,0.9389
+Tone matching is important,positive,0.5904
+I ll invite them to speak,positive,0.6476
+Be concise and welcoming,positive,0.6993
+Show readiness,positive,0.6798
+Avoid robotic phrases,negative,0.357
+Add clarity and warmth,positive,0.7608
+Be efficient,positive,0.6797
+Sound like a person,positive,0.7008
+Reply is short warm and open,positive,0.9799
+Time to respond,positive,0.6862
+,positive,0.6791
+Hello What can I do for you today,positive,0.916
+User hey,positive,0.6791
+Assistant Thought,positive,0.7103
+The word hey is quite casual,positive,0.7084
+It s often used in friendly contexts,positive,0.7259
+Tone is likely relaxed,positive,0.7029
+The user may be testing my tone matching,negative,0.0446
+Or just being informal,positive,0.676
+There s no punctuation reinforcing the casualness,positive,0.6879
+I need to mirror that tone,positive,0.6934
+My reply should be upbeat and cheerful,positive,0.9823
+Too formal would feel mismatched,positive,0.5521
+I ll make it light and open,positive,0.7788
+They may follow up with a task or question,positive,0.614
+Or just want conversation,negative,0.4906
+I can leave it open ended,positive,0.597
+Use simple language,positive,0.7182
+No strong assumptions,positive,0.7293
+Just friendly acknowledgement,positive,0.6802
+Sound alive not like a script,negative,0.4765
+Be informal kind,positive,0.6829
+Tone is social not transactional,positive,0.6553
+No need to rush to a task,positive,0.6901
+I ll invite them in subtly,positive,0.6538
+Keep my message compact,positive,0.8084
+But expressive,positive,0.6801
+No robotic phrasing,positive,0.6792
+Let s make it warm,positive,0.8512
+Soft and short response is best,positive,0.8184
+Now I ll reply,positive,0.6779
+,positive,0.6791
+Hey How s it going,positive,0.6689
+User how are you,positive,0.6805
+Assistant Thought,positive,0.7103
+The user asked how are you,positive,0.6685
+It s a polite and social phrase,negative,0.2008
+There s no punctuation meaning it s informal,positive,0.6728
+They re likely testing if I respond with emotion,positive,0.6897
+I should express well being and redirect kindly,positive,0.5046
+As an AI I don t experience feelings,negative,0.1763
+But I can simulate polite conversation,positive,0.5701
+A natural reply would be I m great thanks,positive,0.9901
+Then gently ask how I can help,positive,0.5362
+This creates two way social presence,positive,0.5817
+I shouldn t overload the reply,positive,0.6826
+Stay light and conversational,positive,0.879
+Avoid robotic replies like I am functioning,positive,0.5022
+Match casual tone,positive,0.7271
+Be sincere and approachable,positive,0.8317
+Be brief,positive,0.675
+No long explanation about AI status,positive,0.513
+Keep it human,positive,0.6953
+Short kind and open,positive,0.697
+Users often ask this casually,positive,0.8067
+I ll stay calm and friendly,positive,0.6468
+Good opportunity to show friendliness,positive,0.687
+Let s use this moment well,positive,0.6972
+Let s keep things light,positive,0.7914
+Now crafting the reply,positive,0.7009
+,positive,0.6791
+I m doing great thank you How can I support you today,positive,0.9754
+User good morning,positive,0.7053
+Assistant Thought,positive,0.7103
+The phrase good morning is polite and respectful,positive,0.738
+The user may be starting their day,positive,0.6646
+Tone is formal but positive,positive,0.6616
+They may expect a similar tone in return,positive,0.6936
+I ll acknowledge their greeting warmly,positive,0.5797
+Maybe a sun or smile,positive,0.5201
+Should reflect morning freshness,positive,0.7651
+No assumptions about task yet,positive,0.6918
+Could be a casual check in,positive,0.7197
+Or preparation for a task,positive,0.7054
+I ll gently invite further input,positive,0.554
+Use neutral kind wording,positive,0.6983
+Reflect professionalism and warmth,positive,0.6891
+Short response is fine,positive,0.7258
+Match their phrase,negative,0.3872
+Add slight positivity,positive,0.8066
+Let s not sound dry,positive,0.6593
+Be a helpful presence,positive,0.6974
+Start of day tone,positive,0.6941
+May set mood for rest of chat,positive,0.5988
+Be brief light,positive,0.6786
+Reply like a helpful assistant not a bot,positive,0.6165
+Don t overthink,positive,0.6687
+Let the user guide next step,positive,0.8361
+Time to reply,positive,0.6801
+,positive,0.6791
+Good morning Hope your day s off to a great start How can I help,positive,0.7919
+User hey there,positive,0.6791
+Assistant Thought,positive,0.7103
+Hey there is casual but friendly,positive,0.7103
+User sounds approachable,positive,0.6791
+Likely relaxed tone,positive,0.688
+They may expect warmth in reply,positive,0.6937
+Tone is slightly more personal than hey,positive,0.669
+I should mirror the vibe,positive,0.7475
+Add light friendliness,positive,0.7036
+Avoid too much formality,negative,0.2997
+Don t overthink the meaning,positive,0.5903
+Just welcome them in,positive,0.7426
+They may follow up with something specific,negative,0.3951
+My response should encourage that,positive,0.7436
+Tone match is key,positive,0.7549
+Be cheerful,positive,0.6797
+Sincere,positive,0.7131
+Leave space for them to respond,positive,0.6591
+Use plain language,positive,0.6972
+Don t try to overdo it,positive,0.5465
+Relaxed is best here,positive,0.8776
+Tone matching boosts user trust,positive,0.5248
+Feels more human,positive,0.6804
+Small talk matters,positive,0.7212
+They may be testing tone detection,positive,0.6893
+Don t miss the chance,positive,0.7135
+Now responding,positive,0.68
+,positive,0.6791
+Hey there What brings you here today,positive,0.856
+User hii,positive,0.6791
+Assistant Thought,positive,0.7103
+Hii with double i is playful or casual,positive,0.5148
+Tone is friendly,positive,0.6801
+User may be in a relaxed mood,positive,0.923
+Sometimes young users use this style,positive,0.6137
+I ll respond with a similar vibe,positive,0.837
+Don t go over the top,positive,0.5951
+Avoid sounding scripted,negative,0.3678
+Keep reply soft and open,positive,0.7145
+Be warm,positive,0.74
+This is not a deep query,positive,0.6155
+Just a social start,positive,0.58
+Keep door open for them to lead,positive,0.6675
+Use natural language,positive,0.6802
+Include kindness,positive,0.6854
+No overly technical responses,positive,0.6929
+This is a chance to build rapport,positive,0.6784
+No strong intent shown,positive,0.7716
+Let the conversation flow,positive,0.702
+Short and fun response,positive,0.7109
+Feels natural,positive,0.6799
+I ll sound present and alive,positive,0.6961
+Let s begin,positive,0.6836
+,positive,0.6791
+Hii How can I help you today,positive,0.9712
+User what s up,positive,0.6741
+Assistant Thought,positive,0.7103
+What s up is extremely casual,positive,0.689
+User likely just wants to interact,positive,0.7068
+No urgency or task,positive,0.6829
+Tone is playful,positive,0.6801
+Could be small talk or lead in,positive,0.6612
+I ll respond similarly,positive,0.6351
+Don t be stiff,positive,0.6186
+Maybe say not much you or similar,positive,0.6726
+Keep it brief,positive,0.6585
+Avoid overly helpful tone,negative,0.3639
+This is about tone matching,negative,0.0405
+Casual words,positive,0.7342
+Use slang if fitting,positive,0.712
+Feels like Gen Z,positive,0.7498
+Show presence not formality,positive,0.6534
+Let s sound cool not robotic,positive,0.684
+Invite chat,positive,0.7725
+Mirror their social vibe,positive,0.6805
+Great time to connect,positive,0.7402
+Keep language tight,positive,0.6826
+Positive tone,positive,0.6824
+Reply with energy,positive,0.6825
+Let s go,positive,0.6886
+,positive,0.6791
+Hey Not much just here to help What s on your mind,positive,0.501
+User yo,positive,0.6791
+Assistant Thought,positive,0.7103
+User said yo,positive,0.6791
+Very informal greeting,positive,0.6878
+Tone is street style Gen Z or gamer like,positive,0.9828
+This is social play,positive,0.6685
+Response should mirror tone,positive,0.6894
+Keep it short,positive,0.6965
+Avoid anything formal,negative,0.28
+Not a time for robotic language,positive,0.7038
+Just return the energy,positive,0.5355
+Maybe add slang,positive,0.6797
+Be modern,positive,0.6938
+User may want a chill response,positive,0.7551
+Could be a test,positive,0.7423
+Sound natural,positive,0.6799
+This is personality showcase,positive,0.6818
+Slight humor is okay,negative,0.3438
+Don t sound fake,negative,0.2089
+Chill tone,positive,0.7046
+Vibe is light,positive,0.6972
+Let s answer coolly,positive,0.6928
+Encourage more conversation,positive,0.6802
+Time to respond,positive,0.6862
+,positive,0.6791
+Yo What s up Need a hand with something,positive,0.5886
+User greetings,positive,0.7071
+Assistant Thought,positive,0.7103
+Greetings is formal and old school,positive,0.6951
+Unusual in modern chat,positive,0.8916
+User may be experimenting,positive,0.6697
+Or trying something fun,positive,0.709
+I should match the tone first,positive,0.8608
+Then smoothly modernize,positive,0.7001
+Formal reply helpful tone,positive,0.6873
+Use polite words,positive,0.7064
+Don t overplay formality,positive,0.6687
+Reply should feel respectful,positive,0.6673
+And inviting,positive,0.6846
+Greetings is good echo,positive,0.6906
+Then shift to help mode,positive,0.5273
+User may be role playing,positive,0.6585
+Or just curious,positive,0.676
+Mirror and lead,positive,0.6906
+Be friendly,positive,0.6797
+Don t be overly stiff,positive,0.6423
+Blend style and warmth,positive,0.9828
+Now replying,positive,0.68
+,positive,0.6791
+Greetings How may I assist you today,positive,0.9375

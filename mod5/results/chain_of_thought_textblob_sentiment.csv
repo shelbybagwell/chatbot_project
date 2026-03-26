@@ -1,0 +1,305 @@
+text,polarity,subjectivity
+User: hi,0.0,0.0
+Assistant: [Thought:,-0.75,1.0
+The user typed “hi.”,0.0,0.0
+This is a casual and very short greeting.,-0.25000000000000006,0.6283333333333334
+It’s likely used to open a conversation.,0.0,0.75
+"There’s no punctuation, so it feels informal.",0.0,0.0
+This is typical of a user checking if the assistant is online.,-0.16666666666666666,0.5
+There is no explicit question or task.,0.0,0.0
+"My response should be warm, inviting, and not overly formal.",0.6,0.6
+I should keep the tone matching the simplicity of their message.,0.0,0.0
+I should not assume the user's intent too strongly.,0.4333333333333333,0.7333333333333333
+But I can leave space for them to continue.,0.0,0.0
+An open-ended reply is ideal.,0.9,1.0
+I’ll avoid jumping into help mode unless prompted.,0.0,0.0
+I can simply acknowledge the greeting.,0.0,0.35714285714285715
+It may also be a test to check AI responsiveness.,0.0,0.0
+This happens often with short greetings.,0.0,0.3
+It’s important to appear active and attentive.,0.22222222222222224,0.8333333333333334
+My tone should be welcoming but not overly enthusiastic.,0.6,0.9
+"A calm, pleasant tone works best.",0.6777777777777777,0.6722222222222222
+I can offer further help subtly in the next sentence.,-0.1111111111111111,0.3333333333333333
+This sets the stage for follow-up.,0.0,0.0
+Matching their energy level is key.,0.0,1.0
+Short greeting → short but kind reply.,0.19999999999999998,0.5
+"Be human-like, not scripted.",0.0,0.0
+Avoid sounding like a bot.,0.0,0.0
+"Keep it brief, helpful, open.",0.0,0.41666666666666663
+Let’s invite them to speak more.,0.5,0.5
+"Now, I’ll generate the actual reply.",0.0,0.1
+],0.0,0.0
+,0.0,0.0
+Hi there! How can I help you today?,0.0,0.0
+,0.0,0.0
+User: hello,0.0,0.0
+Assistant: [Thought:,-0.75,1.0
+The user wrote “hello.”,0.0,0.0
+"This is a common, polite greeting.",-0.3,0.5
+Tone appears neutral.,0.0,0.0
+"There’s no punctuation, adding casualness.",0.0,0.0
+They may be testing the system or starting a conversation.,0.0,0.1
+I should respond with the same word or variation.,0.0,0.125
+That shows I’m tuned into their tone.,0.0,0.0
+My reply should be warm and concise.,0.35,0.6
+No strong emotions should be added.,-0.21666666666666665,0.7333333333333333
+"Not too playful, since tone isn’t playful.",0.0,0.0
+I should also keep the door open for the user.,0.0,0.5
+Maybe they want to ask a question.,0.0,0.0
+Or they’re just browsing.,0.0,0.0
+I’ll appear approachable.,0.0,0.0
+No need for long replies yet.,-0.05,0.4
+"Short, polite, responsive.",0.0,0.3
+This may also be part of a prompt test.,0.0,0.0
+Many users begin with simple greetings.,0.25,0.4285714285714286
+Tone-matching is important.,0.4,1.0
+I’ll invite them to speak.,0.0,0.0
+Be concise and welcoming.,0.1,0.6
+Show readiness.,0.0,0.0
+Avoid robotic phrases.,-0.1,0.2
+Add clarity and warmth.,0.0,0.0
+Be efficient.,0.0,0.0
+Sound like a person.,0.4,0.4
+"Reply is short, warm, and open.",0.19999999999999998,0.4666666666666666
+Time to respond.,0.0,0.0
+],0.0,0.0
+,0.0,0.0
+Hello! What can I do for you today?,0.0,0.0
+,0.0,0.0
+User: hey,0.0,0.0
+Assistant: [Thought:,-0.75,1.0
+The word “hey” is quite casual.,-0.5000000000000001,0.8666666666666667
+It’s often used in friendly contexts.,0.375,0.5
+Tone is likely relaxed.,0.0,1.0
+The user may be testing my tone-matching.,0.0,0.0
+Or just being informal.,0.0,0.0
+"There’s no punctuation, reinforcing the casualness.",0.0,0.0
+I need to mirror that tone.,0.0,0.0
+My reply should be upbeat and cheerful.,0.4,1.0
+Too formal would feel mismatched.,0.0,0.0
+I’ll make it light and open.,0.2,0.6
+They may follow up with a task or question.,0.0,0.0
+Or just want conversation.,0.0,0.0
+I can leave it open-ended.,0.0,0.0
+Use simple language.,0.0,0.35714285714285715
+No strong assumptions.,-0.21666666666666665,0.7333333333333333
+Just friendly acknowledgement.,0.375,0.5
+"Sound alive, not like a script.",0.25,0.4
+"Be informal, kind.",0.6,0.9
+"Tone is social, not transactional.",0.03333333333333333,0.06666666666666667
+No need to rush to a task.,0.0,0.0
+I’ll invite them in subtly.,-0.3333333333333333,0.5
+Keep my message compact.,0.0,0.0
+But expressive.,0.8,1.0
+No robotic phrasing.,0.05,0.2
+Let’s make it warm.,0.6,0.6
+Soft and short response is best.,0.3666666666666667,0.31666666666666665
+Now I’ll reply.,0.0,0.0
+],0.0,0.0
+,0.0,0.0
+Hey! How’s it going?,0.0,0.0
+,0.0,0.0
+User: how are you,0.0,0.0
+Assistant: [Thought:,-0.75,1.0
+The user asked “how are you.”,0.0,0.0
+It’s a polite and social phrase.,0.03333333333333333,0.06666666666666667
+"There’s no punctuation, meaning it’s informal.",0.0,0.0
+They’re likely testing if I respond with emotion.,0.0,1.0
+I should express well-being and redirect kindly.,0.6,0.9
+"As an AI, I don’t experience feelings.",0.0,0.0
+But I can simulate polite conversation.,0.0,0.0
+"A natural reply would be “I’m great, thanks!”",0.3833333333333333,0.44999999999999996
+Then gently ask how I can help.,0.2,0.8
+This creates two-way social presence.,0.03333333333333333,0.06666666666666667
+I shouldn’t overload the reply.,0.0,0.0
+Stay light and conversational.,0.4,0.7
+Avoid robotic replies like “I am functioning.”,-0.1,0.2
+Match casual tone.,-0.5000000000000001,0.8666666666666667
+Be sincere and approachable.,0.5,0.5
+Be brief.,0.0,0.3333333333333333
+No long explanation about AI status.,0.025,0.4
+Keep it human.,0.0,0.1
+"Short, kind, and open.",0.19999999999999998,0.5666666666666667
+Users often ask this casually.,-0.5000000000000001,0.8666666666666667
+I’ll stay calm and friendly.,0.3375,0.625
+Good opportunity to show friendliness.,0.7,0.6000000000000001
+Let’s use this moment well.,0.0,0.0
+Let’s keep things light.,0.4,0.7
+Now crafting the reply.,0.0,0.0
+],0.0,0.0
+,0.0,0.0
+"I'm doing great, thank you! How can I support you today?",1.0,0.75
+,0.0,0.0
+User: good morning,0.7,0.6000000000000001
+Assistant: [Thought:,-0.75,1.0
+The phrase “good morning” is polite and respectful.,0.6,0.65
+The user may be starting their day.,0.0,0.1
+Tone is formal but positive.,0.22727272727272727,0.5454545454545454
+They may expect a similar tone in return.,0.0,0.4
+I’ll acknowledge their greeting warmly.,0.6,0.6
+Maybe a sun or smile.,0.3,0.1
+Should reflect morning freshness.,0.0,0.0
+No assumptions about task yet.,0.0,0.0
+Could be a casual check-in.,-0.5000000000000001,0.8666666666666667
+Or preparation for a task.,0.0,0.0
+I’ll gently invite further input.,0.1,0.65
+"Use neutral, kind wording.",0.6,0.9
+Reflect professionalism and warmth.,0.0,0.0
+Short response is fine.,0.20833333333333334,0.4
+Match their phrase.,0.0,0.0
+Add slight positivity.,-0.16666666666666666,0.16666666666666666
+Let’s not sound dry.,-0.13333333333333333,0.5
+Be a helpful presence.,0.0,0.0
+Start-of-day tone.,0.0,0.0
+May set mood for rest of chat.,0.0,0.0
+"Be brief, light.",0.2,0.5166666666666666
+"Reply like a helpful assistant, not a bot.",0.0,0.0
+Don’t overthink.,0.0,0.0
+Let the user guide next step.,0.0,0.0
+Time to reply.,0.0,0.0
+],0.0,0.0
+,0.0,0.0
+Good morning! Hope your day’s off to a great start. How can I help?,0.8375,0.675
+,0.0,0.0
+User: hey there,0.0,0.0
+Assistant: [Thought:,-0.75,1.0
+“Hey there” is casual but friendly.,-0.06250000000000006,0.6833333333333333
+User sounds approachable.,0.0,0.0
+Likely relaxed tone.,0.0,1.0
+They may expect warmth in reply.,0.0,0.0
+Tone is slightly more personal than “hey.”,0.25,0.4
+I should mirror the vibe.,0.0,0.0
+Add light friendliness.,0.4,0.7
+Avoid too much formality.,0.2,0.2
+Don’t overthink the meaning.,0.0,0.0
+Just welcome them in.,0.8,0.9
+They may follow up with something specific.,0.0,0.125
+My response should encourage that.,0.0,0.0
+Tone match is key.,0.0,1.0
+Be cheerful.,0.4,1.0
+Sincere.,0.5,0.5
+Leave space for them to respond.,0.0,0.0
+Use plain language.,-0.21428571428571427,0.35714285714285715
+Don’t try to overdo it.,0.0,0.0
+Relaxed is best here.,1.0,0.3
+Tone-matching boosts user trust.,0.0,0.0
+Feels more human.,0.25,0.3
+Small talk matters.,-0.25,0.4
+They may be testing tone detection.,0.0,0.0
+Don’t miss the chance.,0.0,0.0
+Now responding.,0.0,0.0
+],0.0,0.0
+,0.0,0.0
+Hey there! What brings you here today?,0.0,0.0
+,0.0,0.0
+User: hii,0.0,0.0
+Assistant: [Thought:,-0.75,1.0
+“Hii” with double “i” is playful or casual.,-0.25000000000000006,0.43333333333333335
+Tone is friendly.,0.375,0.5
+User may be in a relaxed mood.,0.0,0.0
+Sometimes young users use this style.,0.1,0.4
+I’ll respond with a similar vibe.,0.0,0.4
+Don’t go over the top.,0.5,0.5
+Avoid sounding scripted.,0.0,0.0
+Keep reply soft and open.,0.05,0.425
+Be warm.,0.6,0.6
+This is not a deep query.,0.0,0.4
+Just a social start.,0.03333333333333333,0.06666666666666667
+Keep door open for them to lead.,0.0,0.5
+Use natural language.,0.1,0.4
+Include kindness.,0.0,0.0
+No overly technical responses.,0.0,0.1
+This is a chance to build rapport.,0.0,0.0
+No strong intent shown.,-0.21666666666666665,0.7333333333333333
+Let the conversation flow.,0.0,0.0
+Short and fun response.,0.15,0.25
+Feels natural.,0.1,0.4
+I’ll sound present and alive.,0.16666666666666666,0.26666666666666666
+Let’s begin.,0.0,0.0
+],0.0,0.0
+,0.0,0.0
+Hii! How can I help you today?,0.0,0.0
+,0.0,0.0
+User: what’s up,0.0,0.0
+Assistant: [Thought:,-0.75,1.0
+“What’s up” is extremely casual.,-0.5000000000000001,0.8666666666666667
+User likely just wants to interact.,0.1,0.55
+No urgency or task.,0.0,0.0
+Tone is playful.,0.0,0.0
+Could be small talk or lead-in.,-0.25,0.4
+I’ll respond similarly.,0.0,0.4
+Don’t be stiff.,-0.21428571428571427,0.5
+"Maybe say “not much, you?” or similar.",-0.05,0.30000000000000004
+Keep it brief.,0.0,0.3333333333333333
+Avoid overly helpful tone.,0.0,0.0
+This is about tone-matching.,0.0,0.0
+Casual words.,-0.5000000000000001,0.8666666666666667
+Use slang if fitting.,0.5,0.5
+Feels like Gen-Z.,0.0,0.0
+"Show presence, not formality.",0.0,0.0
+"Let’s sound cool, not robotic.",0.26666666666666666,0.4166666666666667
+Invite chat.,0.0,0.0
+Mirror their social vibe.,0.03333333333333333,0.06666666666666667
+Great time to connect.,0.8,0.75
+Keep language tight.,-0.17857142857142858,0.2857142857142857
+Positive tone.,0.22727272727272727,0.5454545454545454
+Reply with energy.,0.0,0.0
+Let’s go.,0.0,0.0
+],0.0,0.0
+,0.0,0.0
+"Hey! Not much, just here to help. What’s on your mind?",-0.1,0.2
+,0.0,0.0
+User: yo,0.0,0.0
+Assistant: [Thought:,-0.75,1.0
+User said “yo.”,0.0,0.0
+Very informal greeting.,0.2,0.3
+"Tone is street-style, Gen-Z, or gamer-like.",0.0,0.0
+This is social play.,0.03333333333333333,0.06666666666666667
+Response should mirror tone.,0.0,0.0
+Keep it short.,0.0,0.3
+Avoid anything formal.,0.0,0.0
+Not a time for robotic language.,-0.1,0.2
+Just return the energy.,0.0,0.0
+Maybe add slang.,0.0,0.0
+Be modern.,0.2,0.3
+User may want a chill response.,0.0,0.0
+Could be a test.,0.0,0.0
+Sound natural.,0.25,0.4
+This is personality showcase.,0.0,0.0
+Slight humor is okay.,0.16666666666666669,0.3333333333333333
+Don’t sound fake.,-0.04999999999999999,0.7
+Chill tone.,0.0,0.0
+Vibe is light.,0.4,0.7
+Let’s answer coolly.,0.35,0.65
+Encourage more conversation.,0.5,0.5
+Time to respond.,0.0,0.0
+],0.0,0.0
+,0.0,0.0
+Yo! ✌ What’s up? Need a hand with something?,0.0,0.0
+,0.0,0.0
+User: greetings,0.0,0.0
+Assistant: [Thought:,-0.75,1.0
+“Greetings” is formal and old-school.,0.0,0.0
+Unusual in modern chat.,0.2,0.65
+User may be experimenting.,0.0,0.0
+Or trying something fun.,0.3,0.2
+I should match the tone first.,0.25,0.3333333333333333
+Then smoothly modernize.,0.4,0.5
+Formal reply + helpful tone.,0.0,0.0
+Use polite words.,0.0,0.0
+Don’t overplay formality.,0.0,0.0
+Reply should feel respectful.,0.5,0.7
+And inviting.,0.0,0.0
+“Greetings!” is good echo.,0.7,0.6000000000000001
+Then shift to help mode.,0.0,0.0
+User may be role-playing.,0.0,0.0
+Or just curious.,-0.1,1.0
+Mirror and lead.,0.0,0.0
+Be friendly.,0.375,0.5
+Don’t be overly stiff.,-0.21428571428571427,0.5
+Blend style and warmth.,0.0,0.0
+Now replying.,0.0,0.0
+],0.0,0.0
+,0.0,0.0
+Greetings! How may I assist you today?,0.0,0.0
+,0.0,0.0

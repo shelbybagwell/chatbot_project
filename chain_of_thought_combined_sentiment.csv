@@ -1,0 +1,35 @@
+Source_label,text,polarity,subjectivity,predicted_sentiment,Text,Predicted_Sentiment,Raw_Score
+TextBlob,Use plain language.,-0.214285714,0.3571428571428571,,,,
+TextBlob,"Reply like a helpful assistant, not a bot.",0,0,,,,
+TextBlob,This creates two-way social presence.,0.033333333,0.066666667,,,,
+TextBlob,,0,0,,,,
+TextBlob,Sound like a person.,0.4,0.4,,,,
+TextBlob,I should keep the tone matching the simplicity of their message.,0,0,,,,
+TextBlob,Keep it human.,0,0.1,,,,
+TextBlob,Time to reply.,0,0,,,,
+TextBlob,They may expect warmth in reply.,0,0,,,,
+TextBlob,User: hello,0,0,,,,
+,,,,,,,
+,,,,,,,
+LVC,Use plain language.,,,negative,,,
+LVC,"Reply like a helpful assistant, not a bot.",,,positive,,,
+LVC,This creates two-way social presence.,,,negative,,,
+LVC,,,,negative,,,
+LVC,Sound like a person.,,,positive,,,
+LVC,I should keep the tone matching the simplicity of their message.,,,positive,,,
+LVC,Keep it human.,,,positive,,,
+LVC,Time to reply.,,,positive,,,
+LVC,They may expect warmth in reply.,,,positive,,,
+LVC,User: hello,,,negative,,,
+,,,,,,,
+,,,,,,,
+Lab12,,,,,I should keep the tone matching the simplicity of their message,positive,0.8889
+Lab12,,,,,Chill tone,positive,0.7046
+Lab12,,,,,They may expect warmth in reply,positive,0.6937
+Lab12,,,,,What s up is extremely casual,positive,0.689
+Lab12,,,,,They may follow up with a task or question,positive,0.614
+Lab12,,,,,,positive,0.6791
+Lab12,,,,,Unusual in modern chat,positive,0.8916
+Lab12,,,,,Use plain language,positive,0.6972
+Lab12,,,,,Not too playful since tone isn t playful,positive,0.5553
+Lab12,,,,,Invite chat,positive,0.7725
